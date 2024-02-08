@@ -1,4 +1,4 @@
-onIdealtake 1.5
+Idealtake 1.5
 =============
 
 
