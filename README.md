@@ -7,8 +7,7 @@ Description
 This software was designed to simplify your research on personal or business documents, it is akin to a search engine. You can imagine databases on different topics, Photo Album, personal documents, catalog of a company and many others.
  The initial project has begun in June 2006, i developped this application for the company where i work in GPL licence. This software was used internally by employees and by their clients. This project was used until the end of 2009. The initial project was called "LA SCHEM@TECH" and was used to search pdf documents : electrical diagram , synoptic. I began to refound it completely and add new features in a proroject called "IDEALTAKE" in october 2007. The first usable version come in July 2012.
  Installation files are made for windows XP(1.4), seven and windows 8 (1.5).
- Two databases are hosted on my server, allowing you to make a demonstration (8h00-23h00 Paris Time)
-
+ Two databases are hosted on my server, allowing you to make a demonstration 
 
 
 Categories
