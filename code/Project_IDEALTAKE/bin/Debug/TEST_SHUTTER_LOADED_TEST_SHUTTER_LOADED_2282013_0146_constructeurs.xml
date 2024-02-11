@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<constructeurs>
+    <DATA>
+        <ID_CONSTRUCTEUR>1</ID_CONSTRUCTEUR>
+        <NOM>URMET CAPTIV</NOM>
+        <SITE_CONSTRUCTEUR>http://www.urmet-captiv.fr</SITE_CONSTRUCTEUR>
+        <CHEMIN_LOGOS>http://www.urmet-captiv.fr/images/</CHEMIN_LOGOS>
+        <NOM_FICHIER_IMAGE_LOGOS>banner.jpg</NOM_FICHIER_IMAGE_LOGOS>
+        <LARGEUR_IMAGE_LOGOS>750</LARGEUR_IMAGE_LOGOS>
+        <HAUTEUR_IMAGE_LOGOS>60</HAUTEUR_IMAGE_LOGOS>
+        <INFORMATIONS_allemand>access control and phone house systems 1</INFORMATIONS_allemand>
+        <INFORMATIONS_anglais>access control and phone house systems 2</INFORMATIONS_anglais>
+        <INFORMATIONS_espagnole>access control and phone house systems 3</INFORMATIONS_espagnole>
+        <INFORMATIONS_francais>Systèmes d'interphonies et de contrôle d'acces</INFORMATIONS_francais>
+        <INFORMATIONS_italien>access control and phone house systems 5</INFORMATIONS_italien>
+    </DATA>
+</constructeurs>

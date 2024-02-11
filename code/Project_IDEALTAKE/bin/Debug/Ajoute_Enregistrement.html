@@ -1,0 +1,1026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Ajout Enregistrement</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #0080C0;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	7height: 70px;
+        	7width: auto;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+
+        #Form_0
+	{	
+
+                position : relative; 
+		left: 7%;
+	}
+
+	#Etat_Identification
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 7%;
+	}
+	#Etat_Supprimer
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 7%;
+	}
+
+	#IndexPage_1
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative;
+		left: 7%;
+	}
+
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	width: 95%;
+        	border: 2px solid Black;
+                margin : 20px;
+                position : relative; 
+		left: 2%;
+
+        }
+
+       #IframeSymbole
+        {
+
+        	background-color: rgb(255, 255, 208);
+                /*width: 50%;*/
+        	/*border-radius: 30px;*/
+        	border: 2px solid Black;
+                margin : 0px;
+                position : relative; 
+		left: 1%;
+
+        }
+	#TitreTreeview
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #TitreLierRéférences
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #TitreLierDocuments
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_1
+        {
+                width: 3%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+
+        .style1
+        {
+            width: 500px;
+            border: 1px solid #00FF00;
+            /*background-color : #FF8000;*/
+            background-color: rgb(230, 177, 154);
+        }
+        .style_Commentaire_Francais
+        {
+            width: 100%;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #Label_Numero_Enregistrement
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdNumero_Enregistrement
+        {
+            width: 160px;
+        }
+        #Label_Constructeur
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdConstructeur
+        {
+            width: 160px;
+        }
+        #Label_Niveau
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdNiveau
+        {
+            width: 160px;
+        }
+        .style2
+        {
+            width: 200px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        .style3
+        {
+            width: 300px;
+        }
+        .style4
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 12pt;
+            color: #000000;
+        }
+        .Limitation
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 1pt;
+            background-color: #C0FF80;
+            color: #000000;
+        }
+        .Limitation2
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 10pt;
+            background-color: #C0FF80;
+            color: #000000;
+        }
+        #Nota01
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 12pt;
+            color: #cc0000;
+        }
+
+        #Titre_Recherche_enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 10pt;
+            color: #000000;
+        }
+        #Titre_Gestion_des_données
+        {
+            margin-top: 0.4cm;
+            page-break-after: avoid;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            text-decoration: underline;
+            color: #000000;
+            font-weight: bold;
+        }
+
+
+        #Titre_texte_Allemand
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Allemand
+        {
+            width: 250px;
+        }
+        #Titre_texte_Anglais
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Anglais
+        {
+            width: 250px;
+        }
+        #Titre_texte_Espagnole
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Espagnole
+        {
+            width: 250px;
+        }
+        #Titre_texte_Italien
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Italien
+        {
+            width: 250px;
+        }
+        #Titre_texte_francais
+        {
+        	width: 250px;
+        }
+        #Sous_Titre_texte_francais
+        {
+            width: 250px;
+        }
+        #commentaire_francais
+        {
+        }
+        #Numero_Enregistrement
+        {
+            width: 250px;
+        }
+        #Nom_Constructeur
+        {
+            width: 250px;
+        }
+        #Nbre_de_resultat_par_page
+        {
+            height: 20px;
+        }
+        #Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+        #Ajouter_reference
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+        #Réinitialiser_le_formulaire
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+
+        #Etat_Ajout_Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+
+        #Etat_Ajout_Symbole
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+        #Etat_LiensReferences_Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+        #Etat_Liens_Documents_Transferts
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+
+
+        #Corp_page
+        {
+        	background-color : #00cccc;
+        }
+        #PARAM_A
+        {
+            position : relative; 
+	    left: 21%;
+            /*width: 300px;*/
+        }
+        #PARAM_B
+        {
+            position : relative; 
+	    left: 19%;
+            /*width: 300px;*/
+        }
+        #PARAM_C
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+        #PARAM_D
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+        #PARAM_E
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+
+	#StyleHR
+	{
+	    color: #000000;
+            box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+            /*width: 90%;*/
+            /*position : relative; */
+	    /*left: 100px;*/
+	}
+    </style>
+<script language="javascript" type="text/javascript">
+
+function Enregistrement_onclick(){
+window.external.CréationEnregistrementDansLaBase();
+}
+
+function Reload_page_onclick() {
+window.location.reload();
+}
+
+function Ajouter_Reference_onclick(){
+window.external.AjouterReferenceDansLaListe();
+}
+
+function Effacer_Liste_References_onclick(){
+window.external.EffacerListeReferences();
+}
+
+function Lier_references_enregistrement_onclick(){
+window.external.LierListeReferencesAvecEnregistrement();
+}
+
+function Annulation_Liens_references_enregistrement_onclick(){
+window.external.AnnulationDesLiensReferencesAvecEnregistrement();
+}
+
+function Liens_Documents_et_Transferts_onclick(){
+window.external.SoftDeLiensDocumentsEtTransferts();
+}
+
+
+</script>
+</head>
+<body id="Corp_page">
+
+
+<p>&nbsp;</p>
+        <div id="Titre_de_la_page">
+<table>
+        <tr>
+        <td>
+<img id="Image_0"  src="data:image/png;base64,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"  alt="logo"/>
+        </td>
+        <td>
+        <h3>Ajout d'un enregistrement</h3>
+        </td>
+	</tr>
+</table>
+</div>
+	<div id ="Form_0">
+	<h2 id="Titre_Recherche_enregistrement">&nbsp;<a href="javascript:;" class="Transition_1" onClick="window.external.AffichageRechercheGestionBase();">Recherche d'un enregistrement</a>|&nbsp;
+        Ajout d'un enregistrement &nbsp;</h2> 
+
+<p>&nbsp;</p>
+
+<table class="style1"  border="1">
+        <tr>
+            <td  id = "Label_Numero_Enregistrement">
+		        &nbsp;Numéro Enregistrement</td>
+            <td id="tdNumero_Enregistrement">&nbsp;<input name="Numero_Enregistrement" id="Numero_Enregistrement" type="text" title="Numéro d'enregistrement" tabindex="1" />
+            </td>
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td  id = "Label_Constructeur">
+		        &nbsp;Constructeur</td>
+            <td id="tdConstructeur">&nbsp;
+            <select  id="Nom_Constructeur" name="Nom_Constructeur" title="Nom du constructeur" size="16px" tabindex="2">
+                <option value="1">Albums</option>
+            </select>
+            </td>
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td  id = "Label_Niveau">
+		        &nbsp;Niveau d'accès</td>
+            <td id="tdNiveau">&nbsp;
+            <select  id="Niveau_Acces" name="Niveau_Acces" title="Niveau d'accès" size="16px" tabindex="3">
+                <option value="1">- Facile -</option>
+<option value="2">- Normal -</option>
+<option value="3">- Difficile -</option>
+            </select>
+            </td>
+        </tr>
+</table>
+<P></P>
+<table class="style1"  border="1">
+        <tr>
+            <td id="Label_Titre_Allemand" class="style2">
+                <img whidth = "40" height = "26" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QB6RXhpZgAATU0AKgAAAAgABgEyAAIAAAAUAAAAVgMBAAUA
+AAABAAAAagMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAALE1ESAAQAAAABAAALEwAA
+AAAyMDEyOjA0OjA5IDIwOjU1OjQ4AAABhqAAALGP/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMG
+BAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMG
+DAgHCAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AA
+EQgAHgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAEC
+dwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A/n/or7K/4Zd+H/8A0LcX/gddf/HaP+GXfh//ANC3F/4HXX/x2vhv9f8AL/8An3P7o/8A
+yR/VP/EofF3/AEF4X/wOt/8AKD41or7K/wCGXfh//wBC3F/4HXX/AMdo/wCGXfh//wBC3F/4HXX/
+AMdo/wBf8v8A+fc/uj/8kH/EofF3/QXhf/A63/yg+NaK+yv+GXfh/wD9C3F/4HXX/wAdo/4Zd+H/
+AP0LcX/gddf/AB2j/X/L/wDn3P7o/wDyQf8AEofF3/QXhf8AwOt/8oPjWivsr/hl34f/APQtxf8A
+gddf/HaKP9f8v/59z+6P/wAkH/EofF3/AEF4X/wOt/8AKD9TP+HD9r/0Vu4/8JIf/JtH/Dh+1/6K
+3cf+EkP/AJNr7+or/MT/AIi7xf8A9Bn/AJTpf/Kz73/iK3Ff/QY//AKX/wAgfAP/AA4ftf8Aordx
+/wCEkP8A5No/4cP2v/RW7j/wkh/8m19/UUf8Rd4v/wCgz/ynS/8AlYf8RW4r/wCgx/8AgFL/AOQP
+gH/hw/a/9FbuP/CSH/ybR/w4ftf+it3H/hJD/wCTa+/qKP8AiLvF/wD0Gf8AlOl/8rD/AIitxX/0
+GP8A8Apf/IHwD/w4ftf+it3H/hJD/wCTaK+/qKP+Iu8X/wDQZ/5Tpf8AysP+IrcV/wDQY/8AwCl/
+8gf/2Q==" alt="German Flag"/>&nbsp;Titre</td>
+            <td class="style3">
+                &nbsp;<input  type="text" name="Titre_texte_allemand" id="Titre_texte_Allemand" title="Titre allemand" tabindex="4" /></td>
+        </tr>
+        <tr>
+            <td  id="Label_Sous_Titre_Allemand" class="style2">
+		        &nbsp;Sous Titre</td>
+            <td class="style3">
+                &nbsp;<input name="Sous_Titre_texte_allemand" id="Sous_Titre_texte_Allemand" type="text" title="Sous Titre Allemand" tabindex="5" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="Label_commentaire_allemand" class="style2">
+		        &nbsp;Commentaire<br>
+             &nbsp;<textarea  id="Commentaire_Texte_Allemand" title="Commentaire en Allemand" cols ="55" rows="5" value="" tabindex="6" >- Kein Information -</textarea><br>&nbsp;
+            </td>
+           
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td id="Label_Titre_Anglais" class="style2">
+                <img whidth = "40" height = "26" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QB6RXhpZgAATU0AKgAAAAgABgEyAAIAAAAUAAAAVgMBAAUA
+AAABAAAAagMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAALE1ESAAQAAAABAAALEwAA
+AAAyMDEyOjA0OjA5IDIwOjUyOjI4AAABhqAAALGP/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMG
+BAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMG
+DAgHCAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AA
+EQgAGgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAEC
+dwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A/PiPTNJHgSd75PDqXA0aFrg3ujpbyqp0u0NmZXtsiIGYt9nlgzNdS7jqIiiO472v6Npy
+69frHDoIvRqOsJEq+GbRbj7cr2fnKkBP2Y3YiL+ZaORpltGWazkedwp+odO/4IgfteaH4PXT7f4P
++JVltbCSKFbLxT4b06HzbrTbezuBEEv3+zMTEwuZ13vqcISOVbfk1p6z/wAETP2sdRnv7dPhF4iN
+nefbNP8A3mseFzbm0EtrNbB7T+0tj2e6FvL0veIbGQJNFNM2UH7i82wd1+/h/wCBR/r/AIGnQ+Bj
+gq1nem//AAF/5mV/wSy/Zttfjx4k+IMel/s3WH7Q2l6VZ6e9jHpvjf8A4Quy0GCTUdcVHgmd0utR
+inEWFlvlW6QWux1VfLz9hf8ADuOX/pGtL/4kSf8A4/XkH7Mn/BI74weDPFXi3WPix+x9qvxel8SC
+GezXUvitpuj32lT/AGzUZp2uL20u2fVZpY7i133VwkT5iKhNoBPr/wDw7cH/AEjUf/xIX/7fX4rx
+c6dbN61WnaSfLqkmn7kVuoO/Z6vX7l/W/hnmrw3DOFoSxPs3FT932/Ja9Sb+D+1cNy3vf+DC97+/
+fnkf8O45f+ka0v8A4kSf/j9H/DuOX/pGtL/4kSf/AI/R/wAO3B/0jUf/AMSF/wDt9H/Dtwf9I1H/
+APEhf/t9fOewX8v/AJL/APcz7v8A1gX/AEG/+XP/AOGw/wCHccv/AEjWl/8AEiT/APH6KP8Ah24P
++kaj/wDiQv8A9voo9gv5f/Jf/uYf6wL/AKDf/Ln/APDYz/h263/SNOT/AMSH/wDt9H/Dt1v+kacn
+/iQ//wBvr8kvssX/ADzj/wC+RR9li/55x/8AfIrh9vD+X/0j/wCQP1n/AIh9m/8A0MP/ACbHf/PA
+/W3/AIdut/0jTk/8SH/+30f8O3W/6Rpyf+JD/wD2+vyS+yxf884/++RR9li/55x/98ij28P5f/SP
+/kA/4h9m/wD0MP8AybHf/PA/W3/h263/AEjTk/8AEh//ALfR/wAO3W/6Rpyf+JD/AP2+vyS+yxf8
+84/++RR9li/55x/98ij28P5f/SP/AJAP+IfZv/0MP/Jsd/8APA/W3/h263/SNOT/AMSH/wDt9Ffk
+l9li/wCecf8A3yKKPbw/l/8ASP8A5AP+IfZv/wBDD/ybHf8AzwP/2Q==" alt="USA Flag"/>&nbsp;Titre</td>
+            <td class="style3">
+                &nbsp;<input  type="text" name="Titre_texte_anglais" id="Titre_texte_Anglais" title="Titre Anglais" tabindex="7" /></td>
+        </tr>
+        <tr>
+            <td  id="Label_Sous_Titre_Anglais" class="style2">
+		        &nbsp;Sous Titre</td>
+            <td class="style3">
+                &nbsp;<input name="Sous_Titre_texte_anglais" id="Sous_Titre_texte_Anglais" type="text" title="Sous Titre Anglais" tabindex="8" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="Label_commentaire_anglais" class="style2">
+		        &nbsp;Commentaire<br>
+             &nbsp;<textarea  id="Commentaire_Texte_Anglais" title="Commentaire en Anglais" cols ="55" rows="5" tabindex="9" >- No Information -</textarea><br>&nbsp;
+            </td>
+           
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td id="Label_Titre_Espagnol" class="style2">
+                <img whidth = "40" height = "26" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QB6RXhpZgAATU0AKgAAAAgABgEyAAIAAAAUAAAAVgMBAAUA
+AAABAAAAagMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAALE1ESAAQAAAABAAALEwAA
+AAAyMDEyOjA0OjA5IDIwOjU0OjI5AAABhqAAALGP/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMG
+BAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMG
+DAgHCAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AA
+EQgAIQAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAEC
+dwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A+DhexHpNGfxFH22Hr50ePqK/eE+H9PBJ/s+xP/bBP8K83/aU+Nmhfs8+B73VpNL0a5uL
+HyJHgvHSwhkjleRR5czp5ckv7pz5SkyYBO3GN38KZX9IOeYYiOGwmXOU5NJLnXV21bjZavdn+iMv
+FZKyeG3/AL3/AAD8ZvtsP/PaPj3FH22H/ntHz7iv2N/Z3+MFz8U/C1rf+JPBcHhtL+WG1092gMja
+i7wGfzDGIw0CNGEcNJhD5qhWbIJ9U/4R/T/+gfY/9+F/wrozvx5rZRi5YPHZa4TXTnXXz5SKPi1C
+pG8cPf8A7eT/ACR+D322L/nrH+Yo+2xf89Y/zFfvF/YGn/8AQPsP+/C/4Uf2Bp//AED7D/vwv+Fe
+L/xMvR/6AH/4MX/yJr/xFNf9A3/k3/APwd+2xf8APWP8xRX7xf2BYf8APhZf9+E/woo/4mYo/wDQ
+A/8AwYv/AJEP+Iqf9Q3/AJN/wC4cAEAZIr5t/bZ/Z41f47Rz2tl/wlN2YJrS5igtJJIrOJMPFI4M
+jtE8y5B2oi4WRiQ5yV/NQ/H/AMfk5Pjvxpn/ALDl1/8AHKX/AIX/AOP+n/Cd+NMf9hy6/wDjlehw
+x4HZjkmLeMw2Li5WtrB90+/keZW8KMXNJLERXfRu6as1v5n6L/su/D34j6Bo2h6Z4vg8RabF4fvb
+GKxeGF1W6Xrci5EE2WiWKC1iSSUsASwZZMy5+pMqDgnBr8RP+F/+P+f+K78ac/8AUcuv/jlIfj94
++IwfHXjMj/sOXX/xyvR438Ic24mxixuNxcVJK2kHt069v+ARhvCTEUk1CvG2miT00163fn6n7e8e
+po49TX4hf8L+8ff9D340/wDB5df/AByj/hf3j7/oe/Gn/g8uv/jlfF/8S04r/oNj/wCAP/M6v+IW
+4r/n/H7n/mft7x6mivxC/wCF/ePv+h78af8Ag8uv/jlFH/EtOK/6DY/+AP8AzD/iFuK/5/x+5/5n
+J0UUV/XLP2ldAooooCO4UUUUgCiiigD/2Q==" alt="Spanish Flag"/>&nbsp;Titre</td>
+            <td class="style3">
+                &nbsp;<input  type="text" name="Titre_texte_Espagnole" id="Titre_texte_Espagnole" title="Titre Espagnol" tabindex="10" /></td>
+        </tr>
+        <tr>
+            <td  id="Label_Sous_Titre_Espagnol" class="style2">
+		        &nbsp;Sous Titre</td>
+            <td class="style3">
+                &nbsp;<input name="Sous_Titre_texte_Espagnole" id="Sous_Titre_texte_Espagnole" type="text" title="Sous Titre Espagnol" tabindex="11" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="Label_Commentaire_Texte_Espagnole" class="style2">
+		        &nbsp;Commentaire<br>
+             &nbsp;<textarea  id="Commentaire_Texte_Espagnole" title="Commentaire Espagnol" cols ="55" rows="5" tabindex="12" >- No Información -</textarea><br>&nbsp;
+            </td>
+           
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td id="Label_Titre_Francais" class="style2">
+                <img whidth = "40" height = "26" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QB6RXhpZgAATU0AKgAAAAgABgEyAAIAAAAUAAAAVgMBAAUA
+AAABAAAAagMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAALE1ESAAQAAAABAAALEwAA
+AAAyMDEyOjA0OjA5IDIwOjU2OjEzAAABhqAAALGP/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMG
+BAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMG
+DAgHCAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AA
+EQgAIQAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAEC
+dwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A/JOmXH/HvJ/un+VPplx/x7yf7p/lX+iqPxiO5/Y7+xP/AMmZ/CP/ALEvRv8A0hhr06vM
+f2J/+TM/hH/2Jejf+kMNenV/ntmP+9Vf8UvzZ+xUP4cfRH4Cft+/8nvfFf8A7Ga8/wDQ68ir139v
+3/k974r/APYzXn/odeRV+PYv+PP1f5n+uXCn/IjwX/Xmn/6REKKKKwse+fnfTLj/AI95P90/yp9M
+uP8Aj3k/3T/Kv9cUf4GR3P7Hf2J/+TM/hH/2Jejf+kMNenV5j+xP/wAmZ/CP/sS9G/8ASGGvTq/z
+2zH/AHqr/il+bP2Kh/Dj6I/AT9v3/k974r/9jNef+h15FXrv7fv/ACe98V/+xmvP/Q68ir8exf8A
+Hn6v8z/XLhT/AJEeC/680/8A0iIUUUVhc98/O+mXH/HvJ/un+VFFf64RP8DI7n9jv7E//Jmfwj/7
+EvRv/SGGvTqKK/z3zH/eqv8Ail+bP2Kh/Dj6I/AT9v3/AJPe+K//AGM15/6HXkVFFfj2L/jz9X+Z
+/rlwp/yI8F/15p/+kRCiiisD3z//2Q==" alt="French Flag"/>&nbsp;Titre</td>
+            <td class="style3">
+                &nbsp;<input  type="text" name="Titre_texte_francais" id="Titre_texte_francais" title="Titre Français" tabindex="13" /></td>
+        </tr>
+        <tr>
+            <td  id="Label_Sous_Titre_Francais" class="style2">
+		        &nbsp;Sous Titre</td>
+            <td class="style3">
+                &nbsp;<input name="Sous_Titre_texte_francais" id="Sous_Titre_texte_francais" type="text" title="Sous Titre Français" tabindex="14" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="Label_commentaire_francais" class="style2">
+		        &nbsp;Commentaire<br>
+             &nbsp;<textarea  id="commentaire_francais" title="Commentaire en Français" cols ="55" rows="5" tabindex="15" >- Pas d'information -</textarea><br>&nbsp;
+            </td>
+           
+        </tr>
+         <tr>
+            <td colspan="2"  class="Limitation">&nbsp;
+            </td>
+       </tr>
+        <tr>
+            <td id="Label_Titre_Italien" class="style2">
+                <img whidth = "40" height = "26" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QB6RXhpZgAATU0AKgAAAAgABgEyAAIAAAAUAAAAVgMBAAUA
+AAABAAAAagMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAALE1ESAAQAAAABAAALEwAA
+AAAyMDEyOjA0OjA5IDIwOjU1OjIyAAABhqAAALGP/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMG
+BAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMG
+DAgHCAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AA
+EQgAIQAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAEC
+dwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A+d6bN/qn+hp1Nm/1T/Q18Uz/AD0juf0nfsyf8m2/D3/sWtN/9JY67iuH/Zk/5Nt+Hv8A
+2LWm/wDpLHXcV9lT+FH9/wCX/wC60v8ADH8kfzt/8FEf+T8Pi9/2NN5/6HXjdeyf8FEf+T8Pi9/2
+NN5/6HXjdfmOK/jT9X+Z/pvw3/yKMJ/16p/+kIKKKKwsezckps3+qf6GnU2b/VP9DX0bP+bCO5/S
+d+zJ/wAm2/D3/sWtN/8ASWOu4rh/2ZP+Tbfh7/2LWm/+ksddxX2VP4Uf3/l/+60v8MfyR/O3/wAF
+Ef8Ak/D4vf8AY03n/odeN17J/wAFEf8Ak/D4vf8AY03n/odeN1+Y4r+NP1f5n+m/Df8AyKMJ/wBe
+qf8A6QgooorC57Nh6fdFJN/qn+hoor6Nn/Ngtz+k79mT/k234e/9i1pv/pLHXcUUV9lT+FH9/wCX
+/wC60v8ADH8kfzt/8FEf+T8Pi9/2NN5/6HXjdFFfmOK/jT9X+Z/pvw3/AMijCf8AXqn/AOkIKKKK
+wPZP/9k=" alt="Italian Flag"/>&nbsp;Titre</td>
+            <td class="style3">
+                &nbsp;<input  type="text" name="Titre_texte_Italien" id="Titre_texte_Italien" title="Titre Italien" tabindex="16" /></td>
+        </tr>
+        <tr>
+            <td  id="Label_Sous_Titre_Italien" class="style2">
+		        &nbsp;Sous Titre</td>
+            <td class="style3">
+                &nbsp;<input name="Sous_Titre_texte_Italien" id="Sous_Titre_texte_Italien" type="text" title="Sous Titre Italien" tabindex="17" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" id="Label_commentaire_Italien" class="style2">
+		        &nbsp;Commentaire<br>
+             &nbsp;<textarea  id="Commentaire_Texte_Italien" title="Commentaire Italien" cols ="55" rows="5" tabindex="18" >- Non Informazione -</textarea><br>&nbsp;
+            </td>
+           
+        </tr>
+</table>
+<P></P>
+<table class="style1"  border="1">
+         <tr>
+<td colspan="2"  class="style4">&nbsp;Ann&eacute;e&nbsp;
+    <select  id="PARAM_B" name="PARAM_B"  size="16px" tabindex="21">
+        <option value="0">Pas de Valeur</option>
+<option value="13">1950</option>
+<option value="14">1951</option>
+<option value="15">1952</option>
+<option value="16">1953</option>
+<option value="17">1954</option>
+<option value="18">1955</option>
+<option value="19">1956</option>
+<option value="20">1957</option>
+<option value="21">1958</option>
+<option value="22">1959</option>
+<option value="23">1960</option>
+<option value="24">1961</option>
+<option value="25">1962</option>
+<option value="26">1963</option>
+<option value="27">1964</option>
+<option value="28">1965</option>
+<option value="29">1966</option>
+<option value="30">1967</option>
+<option value="31">1968</option>
+<option value="32">1969</option>
+<option value="33">1970</option>
+<option value="34">1971</option>
+<option value="35">1972</option>
+<option value="36">1973</option>
+<option value="37">1974</option>
+<option value="38">1975</option>
+<option value="39">1976</option>
+<option value="40">1977</option>
+<option value="41">1978</option>
+<option value="42">1979</option>
+<option value="43">1980</option>
+<option value="44">1981</option>
+<option value="45">1982</option>
+<option value="46">1983</option>
+<option value="47">1984</option>
+<option value="48">1985</option>
+<option value="49">1986</option>
+<option value="50">1987</option>
+<option value="51">1988</option>
+<option value="52">1989</option>
+<option value="53">1990</option>
+<option value="54">1991</option>
+<option value="55">1992</option>
+<option value="56">1993</option>
+<option value="57">1994</option>
+<option value="58">1995</option>
+<option value="59">1996</option>
+<option value="60">1997</option>
+<option value="61">1998</option>
+<option value="62">1999</option>
+<option value="63">2000</option>
+<option value="64">2001</option>
+<option value="65">2002</option>
+<option value="66">2003</option>
+<option value="67">2004</option>
+<option value="68">2005</option>
+<option value="69">2006</option>
+<option value="70">2007</option>
+<option value="71">2008</option>
+<option value="72">2009</option>
+<option value="73">2010</option>
+<option value="74">2011</option>
+<option value="75">2012</option>
+<option value="76">2013</option>
+<option value="77">2014</option>
+    </select>
+</td>
+</td>
+</tr>
+<tr>
+<td colspan="2"  class="style4">&nbsp;Mois&nbsp;
+    <select  id="PARAM_A" name="PARAM_A"  size="16px" tabindex="27">
+        <option value="0">Pas de Valeur</option>
+<option value="2">Janvier</option>
+<option value="3">Février</option>
+<option value="4">Mars</option>
+<option value="5">Avril</option>
+<option value="6">Mai</option>
+<option value="7">Juin</option>
+<option value="8">Juillet</option>
+<option value="9">Aout</option>
+<option value="10">Septembre</option>
+<option value="11">Octobre</option>
+<option value="12">Novembre</option>
+<option value="13">Décembre</option>
+    </select>
+</td>
+</tr>
+</table>
+
+	<p id="Nota01">"Tout les champs ci dessus sont obligatoires."</p>
+<P>&nbsp;</P>
+
+        <p>
+        <input  id="Enregistrement" type="button" value="Enregistrement" 
+                onclick="return Enregistrement_onclick()" tabindex="28" />
+        &nbsp;<input id="Réinitialiser_le_formulaire" type="button" value="Annuler" onclick="Reload_page_onclick()" tabindex="29" /></p>
+<div id = "Etat_Ajout_Enregistrement" ></div>
+
+<p>&nbsp;</p>
+<h2  id="Nota01">&nbsp; - Optionnel -</h2>
+<h2  id="TitreTreeview">&nbsp;Sélectionner dans l'arborescence la place de l'enregistrement.</h2>
+<p><iframe id="IframeSymbole" height="400" width="500" src = "Treeview.html"></iframe></p>
+<div id = "Etat_Ajout_Symbole" ></div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<h2  id="Nota01">&nbsp; - Optionnel -</h2>
+<h2  id="TitreLierDocuments">Lier des fichiers à cet enregistrement</h2>
+<input  id="Enregistrement" type="button" value="Lier" title="Lier les fichiers à cet enregistrement" onclick="return Liens_Documents_et_Transferts_onclick()" tabindex="35" />
+<div id = "Etat_Liens_Documents_Transferts" ></div>
+<p>&nbsp;</p>
+
+<SELECT disabled="disabled" id="PARAM_D" name="PARAM_D" size="16px" tabindex="19"   style="visibility:hidden;">
+                        <option value="0">Pas de Valeur</option>
+    </select>
+<SELECT disabled="disabled" id="PARAM_C" name="PARAM_C" size="16px" tabindex="20" style="visibility:hidden;">
+        <option value="0">Pas de Valeur</option>
+    </select>
+<SELECT disabled="disabled"  id="PARAM_F" name="PARAM_F"  size="16px" tabindex="22" style="visibility:hidden;">
+        <option value="0">0</option>
+            </select>
+    <SELECT disabled="disabled"  id="PARAM_G" name="PARAM_G"  size="16px" tabindex="23"  style="visibility:hidden;">
+        <option value="0">0</option>
+    </select>
+
+    <SELECT disabled="disabled"  id="PARAM_H" name="PARAM_H"  size="16px" tabindex="24"  style="visibility:hidden;">
+        <option value="0">0</option>
+   </select>
+<SELECT disabled="disabled"  id="PARAM_I" name="PARAM_I"  size="16px" tabindex="25"  style="visibility:hidden;">
+        <option value="0">0</option>
+    </select>
+    <SELECT disabled="disabled"  id="PARAM_E" name="PARAM_E"  size="16px" tabindex="26"  style="visibility:hidden;">
+        <option value="0">Pas de Valeur</option>
+    </select>
+         <INPUT TYPE="RADIO" Id="StandardOui" NAME="STANDARD" VALUE="1" DISABLED style="visibility:hidden;">
+       <INPUT  TYPE="RADIO" Id = "StandardNon" NAME="STANDARD" VALUE="0" CHECKED DISABLED style="visibility:hidden;">
+
+<SELECT disabled="disabled"  id="References" name="References"  size="16px" tabindex="30"  style="visibility:hidden;">
+        <option value="1">111</option>
+    </select>
+<textarea readonly id="MaListeDeReference" style="visibility:hidden;height:0px;">
+</textarea>        
+<div id = "Etat_LiensReferences_Enregistrement"  style="visibility:hidden;"></div></body>
+</html>

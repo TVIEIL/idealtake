@@ -1,0 +1,17 @@
+bin\Release\IDEALTAKE.exe.config
+bin\Release\IDEALTAKE.exe.manifest
+bin\Release\IDEALTAKE.application
+bin\Release\IDEALTAKE.exe
+bin\Release\IDEALTAKE.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+obj\Release\IDEALTAKE.Form1.resources
+obj\Release\IDEALTAKE.LoginForm1.resources
+obj\Release\IDEALTAKE.Resources.resources
+obj\Release\IDEALTAKE.Parametres.resources
+obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+obj\Release\IDEALTAKE.TrustInfo.xml
+obj\Release\IDEALTAKE.exe.manifest
+obj\Release\IDEALTAKE.application
+obj\Release\IDEALTAKE.exe
+obj\Release\IDEALTAKE.pdb

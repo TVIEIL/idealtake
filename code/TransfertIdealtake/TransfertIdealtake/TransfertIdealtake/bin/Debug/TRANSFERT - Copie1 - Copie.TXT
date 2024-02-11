@@ -1,0 +1,7 @@
+[CHAINE_CONNEXION]Persist Security Info=true;database=ALBUM_PHOTOS;server=tvieil.dnsalias.com;user id=TVIEIL;pwd=14071789
+[NOM_DE_LA_BASE]ALBUM_PHOTOS
+[ENREGISTREMENT]
+[CHRONO]27
+[AUTEUR]LEVITI
+[LANGUE]3
+

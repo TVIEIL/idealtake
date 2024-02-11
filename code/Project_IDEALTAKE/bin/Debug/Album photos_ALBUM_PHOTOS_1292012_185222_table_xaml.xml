@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table_xaml>
+    <DATA>
+        <ID_XAML>1</ID_XAML>
+        <TYPE_ALLEMAND>Titel 1</TYPE_ALLEMAND>
+        <TYPE_ANGLAIS>Title 1</TYPE_ANGLAIS>
+        <TYPE_ESPAGNOLE>Título 1</TYPE_ESPAGNOLE>
+        <TYPE_FRANCAIS>Titre 1</TYPE_FRANCAIS>
+        <TYPE_ITALIEN>Titolo 1</TYPE_ITALIEN>
+        <XAML>&lt;Canvas xmlns="http://schemas.microsoft.com/client/2007"&gt;
+  &lt;Border Background="LightSalmon"   Padding="10" CornerRadius="20" Height="42" Width="227"&gt;
+  &lt;TextBlock FontSize="16" &gt;PARAMETRE_1&lt;/TextBlock&gt;
+  &lt;/Border&gt;
+&lt;/Canvas&gt;</XAML>
+        <PARAM_1>PARAMETRE_1</PARAM_1>
+    </DATA>
+    <DATA>
+        <ID_XAML>2</ID_XAML>
+        <TYPE_ALLEMAND>Titel 2</TYPE_ALLEMAND>
+        <TYPE_ANGLAIS>Title 2</TYPE_ANGLAIS>
+        <TYPE_ESPAGNOLE>Título 2</TYPE_ESPAGNOLE>
+        <TYPE_FRANCAIS>Titre 2</TYPE_FRANCAIS>
+        <TYPE_ITALIEN>Titolo 2</TYPE_ITALIEN>
+        <XAML>&lt;Canvas
+  xmlns="http://schemas.microsoft.com/client/2007"&gt;
+    &lt;!-- Offset the text using a TranslateTransform. --&gt;
+    &lt;TextBlock
+        FontFamily = "Verdana"
+        FontSize = "32"
+        FontWeight = "Bold"
+        Foreground = "Black"
+      Text="PARAMETRE_1"&gt;
+      &lt;TextBlock.RenderTransform&gt;
+        &lt;TranslateTransform X="2" Y="2" /&gt;
+      &lt;/TextBlock.RenderTransform&gt;
+    &lt;/TextBlock&gt;
+
+    &lt;TextBlock
+        FontFamily = "Verdana"
+        FontSize = "32"
+        FontWeight = "Bold"
+        Foreground = "Coral"
+      Text="PARAMETRE_1"/&gt;
+&lt;/Canvas&gt;</XAML>
+        <PARAM_1>PARAMETRE_1</PARAM_1>
+    </DATA>
+    <DATA>
+        <ID_XAML>3</ID_XAML>
+        <TYPE_ALLEMAND>Titel 3</TYPE_ALLEMAND>
+        <TYPE_ANGLAIS>Title 3</TYPE_ANGLAIS>
+        <TYPE_ESPAGNOLE>Título 3</TYPE_ESPAGNOLE>
+        <TYPE_FRANCAIS>Titre 3</TYPE_FRANCAIS>
+        <TYPE_ITALIEN>Titolo 3</TYPE_ITALIEN>
+        <XAML>&lt;Canvas
+ xmlns = "http://schemas.microsoft.com/client/2007"
+ xmlns:  x = "http://schemas.microsoft.com/winfx/2006/xaml"
+ Width="250" Height="30"&gt;
+
+ &lt;!-- Define a LinearGradientBrush for the Canvas Background property. --&gt;
+ &lt;Canvas.Background&gt;
+ &lt;LinearGradientBrush&gt;
+ &lt;GradientStop Color="Yellow" Offset="0.0" /&gt;
+ &lt;GradientStop Color="Orange" Offset="0.2" /&gt;
+ &lt;GradientStop Color="Red" Offset="0.6" /&gt;
+ &lt;GradientStop Color="Orange" Offset="0.8" /&gt;
+ &lt;GradientStop Color="Yellow" Offset="1.0" /&gt;
+ &lt;/LinearGradientBrush&gt;
+ &lt;/Canvas.Background&gt;
+ &lt;TextBlock  Canvas.Left="30" 
+ Foreground="Maroon" FontFamily="Verdana" FontSize="24" FontWeight="Bold"
+ Text="PARAMETRE_1" /&gt;
+&lt;/Canvas&gt;</XAML>
+        <PARAM_1>PARAMETRE_1</PARAM_1>
+    </DATA>
+    <DATA>
+        <ID_XAML>4</ID_XAML>
+        <TYPE_ALLEMAND>Text 1</TYPE_ALLEMAND>
+        <TYPE_ANGLAIS>Text 1</TYPE_ANGLAIS>
+        <TYPE_ESPAGNOLE>Texto 1</TYPE_ESPAGNOLE>
+        <TYPE_FRANCAIS>Texte 1</TYPE_FRANCAIS>
+        <TYPE_ITALIEN>Testo 1</TYPE_ITALIEN>
+        <XAML>       &lt;Canvas
+        xmlns = "http://schemas.microsoft.com/client/2007"
+        xmlns:  x = "http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="250" Height="30"&gt;
+
+         &lt;TextBlock  Canvas.Left="30" 
+         Foreground="Black" FontFamily="Verdana" FontSize="9" FontWeight="Bold"
+         Text="PARAMETRE_1" /&gt;
+       &lt;/Canvas&gt;</XAML>
+        <PARAM_1>PARAMETRE_1</PARAM_1>
+    </DATA>
+</table_xaml>

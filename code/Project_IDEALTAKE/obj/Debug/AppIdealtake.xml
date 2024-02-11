@@ -1,0 +1,343 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppIdealtake
+</name>
+</assembly>
+<members>
+<member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorker_Diagnostic_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=895,Y=133}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorker_RA_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=952,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorker_RG_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=717,Y=133}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorker_RS_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=541,Y=133}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerAjoutCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=893,Y=328}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerAjoutEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=258,Y=211}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerAjoutLiensRéférences_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=367}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerAjoutTreeviewPosition_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=615,Y=328}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerAuthentificationtCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=289}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerChargementEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=222,Y=445}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerDetailsEnregistrementW1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerDetailsEnregistrementW2_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=246,Y=133}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerDetailsEnregistrementW3_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=768,Y=211}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerMiniVLCPlayer_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=599,Y=406}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerMiseàJourEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=744,Y=445}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerRechercheGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=341,Y=250}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerRécupérationCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=736,Y=367}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerSupprimeEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=375,Y=289}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerSupprimeLiensRéférences_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=303,Y=406}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerSupprimerCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=250}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.BackgroundWorkerTransfert_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=445}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ColorDialog1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=968,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ContextMenuStrip1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=653,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ContextMenuStrip2_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=810,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ErrorProvider1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=242,Y=328}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ImageList_TabControl1_ImageStream">
+	<summary>
+  Recherche une ressource localisée de type System.Windows.Forms.ImageListStreamer.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ImageList_TabControl1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=164,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.MenuStrip1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=538,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.MenuStrip2_Locked">
+	<summary>
+  Recherche une ressource localisée de type System.Boolean semblable à True.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.MenuStrip2_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=967,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.OpenFileDialog1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.PageSetupDialog1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=340,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.PictureBox10_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.PictureBox9_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.PrintDialog1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=258,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.PrintDocument1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=24,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Restauration_Base_OpenFileDialog_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=729,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.RS_Reference_ContextMenuStrip_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=133}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.SaveFileDialog1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=401,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TabPage1_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TabPage3_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TabPage4_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TabPage5_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TabPage6_BackgroundImage">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Tâche_de_fond_RS_MOTS_CLEFS_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=790,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Tâche_de_fond_SAPI_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=627,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Tâche_de_fond_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=377,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Texte_Aide_Text">
+	<summary>
+  Recherche une chaîne localisée semblable à 
+    --------------------------------------------------------------
+
+   Ce logiciel a été conçu afin de simplifier vos recherches sur des
+   documents  personnel ou professionnel : 
+
+    - Schémas électriques
+    - Schémas synoptiques
+    - Notices + photos
+    - Fiches Produits
+
+
+   Vous disposez, à cet effet, de sept onglets :
+
+
+   1/ Gestion de Base
+    
+    Utilisé pour la gestion de la base de données du moteur de recherche,
+    géré uniquement par un gestionnaire ou un administrateur [le reste de la chaîne a été tronqué]";.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Timer_Verification_excution_SAPI5_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=492,Y=16}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Timer1EtatServeur_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=1018,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Timer2EtatServeur_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Timer3AutocompleteRsMotsClefs_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=168,Y=94}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerChargementEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=484}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatAjoutCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=372,Y=328}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatAjoutEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=529,Y=445}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatAjoutLiensRéférences_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=516,Y=367}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatAjoutTreeviewPosition_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=328}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatAuthentificationtCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=885,Y=289}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatDetailsEnregistrementW1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=473,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatDetailsEnregistrementW2_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=211}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatDetailsEnregistrementW3_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=527,Y=211}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatDiagnostic_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=312,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatRA_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=833,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatRechercheGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=290,Y=367}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatRécupérationCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=17,Y=406}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatRG_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=714,Y=172}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatRS_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=510,Y=55}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatSupprimeLiensRéférences_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=834,Y=406}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerEtatSupprimerCompteGestionBase_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=621,Y=250}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerMiseàJourEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=249,Y=484}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.TimerSupprimeEnregistrement_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=667,Y=289}.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ToolTip1_TrayLocation">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Point semblable à {X=159,Y=55}.
+</summary>
+</member><member name="T:IDEALTAKE.My.Resources.Form_Demarrage">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:IDEALTAKE.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

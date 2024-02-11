@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc_url>
+    <DATA>
+        <IDConstructeur>1</IDConstructeur>
+        <IDDoc>1</IDDoc>
+        <URL>http://tvieil.dnsalias.com/DOCUMENTS/ELECTRIQUE/</URL>
+    </DATA>
+    <DATA>
+        <IDConstructeur>1</IDConstructeur>
+        <IDDoc>2</IDDoc>
+        <URL>http://tvieil.dnsalias.com/DOCUMENTS/SYNOPTIQUE/</URL>
+    </DATA>
+    <DATA>
+        <IDConstructeur>1</IDConstructeur>
+        <IDDoc>3</IDDoc>
+        <URL>http://tvieil.dnsalias.com/DOCUMENTS/FP/</URL>
+    </DATA>
+    <DATA>
+        <IDConstructeur>1</IDConstructeur>
+        <IDDoc>4</IDDoc>
+        <URL>http://tvieil.dnsalias.com/DOCUMENTS/NOTICES/</URL>
+    </DATA>
+    <DATA>
+        <IDConstructeur>1</IDConstructeur>
+        <IDDoc>5</IDDoc>
+        <URL>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/</URL>
+    </DATA>
+</doc_url>

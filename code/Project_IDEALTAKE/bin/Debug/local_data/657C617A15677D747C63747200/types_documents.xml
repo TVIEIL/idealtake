@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <types_documents>
+    <INDICE_AUTO>1</INDICE_AUTO>
+    <Description_francais>Schéma électrique</Description_francais>
+    <Description_anglais>Electrical diagram</Description_anglais>
+    <Description_allemand>Elektrisches Schema</Description_allemand>
+    <Description_italien>Elettrico Schema</Description_italien>
+    <Description_espagnole>Eléctrico Plan</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+    <Picto_Doc>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/sch_elec.jpg</Picto_Doc>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>2</INDICE_AUTO>
+    <Description_francais>Schema Synoptique</Description_francais>
+    <Description_anglais>Synopsis diagram</Description_anglais>
+    <Description_allemand>Synopsis Schema</Description_allemand>
+    <Description_italien>Sinossi Schema</Description_italien>
+    <Description_espagnole>Sinopsis Plan</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>3</INDICE_AUTO>
+    <Description_francais>Fiche Produit</Description_francais>
+    <Description_anglais>Product Description</Description_anglais>
+    <Description_allemand>Beschreibung produzieren</Description_allemand>
+    <Description_italien>Foglio Prodotto</Description_italien>
+    <Description_espagnole>Hoja Producir</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>4</INDICE_AUTO>
+    <Description_francais>Notice pdf</Description_francais>
+    <Description_anglais>Instructions pdf</Description_anglais>
+    <Description_allemand>Vermerk pdf</Description_allemand>
+    <Description_italien>Conciso pdf</Description_italien>
+    <Description_espagnole>Conciso pdf</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+    <Picto_Doc>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/Picto_pdf.jpg</Picto_Doc>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>5</INDICE_AUTO>
+    <Description_francais>Photo</Description_francais>
+    <Description_anglais>Picture</Description_anglais>
+    <Description_allemand>Foto</Description_allemand>
+    <Description_italien>Foto</Description_italien>
+    <Description_espagnole>Foto</Description_espagnole>
+    <Type_Previsualisable>true</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>6</INDICE_AUTO>
+    <Description_francais>Vidéo</Description_francais>
+    <Description_anglais>Video</Description_anglais>
+    <Description_allemand>Video</Description_allemand>
+    <Description_italien>Video</Description_italien>
+    <Description_espagnole>vídeo</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>7</INDICE_AUTO>
+    <Description_francais>Audio</Description_francais>
+    <Description_anglais>Audio</Description_anglais>
+    <Description_allemand>Audio</Description_allemand>
+    <Description_italien>Audio</Description_italien>
+    <Description_espagnole>Audio</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+</NewDataSet>

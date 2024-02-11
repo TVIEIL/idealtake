@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>1</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/ELECTRIQUE/</URL>
+    <COMPTEUR>1</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>2</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/SYNOPTIQUE/</URL>
+    <COMPTEUR>2</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>3</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/FP/</URL>
+    <COMPTEUR>3</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>4</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/NOTICES/</URL>
+    <COMPTEUR>4</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>5</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/</URL>
+    <COMPTEUR>5</COMPTEUR>
+  </doc_url>
+</NewDataSet>

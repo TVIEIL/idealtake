@@ -1,0 +1,8 @@
+
+	=== Log Start : 22/08/2013 20:14:48
+Persist Security Info=true;database=TEST_SHUETTER_LOADED;server=127.0.0.1;user id=root;pwd=FML6A42V1B
+Une erreur s'est produite : Unknown database 'test_shuetter_loaded'
+Durant l'ouverture de connexion avec le serveur.
+
+	=== Log Stop
+

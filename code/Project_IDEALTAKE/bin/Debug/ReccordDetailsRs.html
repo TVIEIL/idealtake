@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Details Reccord</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #0080C0;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	 height: 70px;
+        	width: 750px;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+	#Nombre_resultat
+	{
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		color: lightblue;
+		height: 23px;
+		font-weight: bold;
+	}
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	 width: 75%;
+        	border: 2px solid Black;
+        	margin: auto;
+
+        }
+
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_0
+        {
+                width: 3%;
+        }
+
+        #colonne_1
+        {
+		border-width: 15px;
+        	background-color: rgb(255, 192, 128);
+                width: 15%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_2_c
+        {
+        	border: 0px;
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		color: lightblue;
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+        </style>
+<script type="text/javascript">
+
+var Details_connexion ='Connexion : Persist Security Info=true;database=ALBUM_PHOTOS;server=tvieil.dnsalias.com;user id=TVIE\
+IL;pwd=14071789   RequêteSQLDetailsEnregistrement() - Numéro d enregistrement SELECT Numero_Enreg\
+istrement, chrono, Auteur, Date_de_creation,Titre_texte_francais, Sous_Titre_texte_francais, Comm\
+entaire_Texte_francais, Derniere_modification  FROM   ALBUM_PHOTOS .enregistrements WHERE INSTR(U\
+CASE(Numero_Enregistrement), GOPRO 001 )>0; Numero_Enregistrement :GoPro 001   RequêteSQLDetailsE\
+nregistrement() - Liste d IDRef SELECT  IDRef  FROM  ALBUM_PHOTOS .chrono_idref WHERE chrono_idre\
+f.Chrono = 69;   RequêteSQLDetailsEnregistrement() - Liste des documents SELECT DOC.COMPTEUR, Con\
+cat(DOC_URL.URL, DOC.Nom_Fichier_francais) AS Lien ,  DOC.Nom_Lien_francais AS Nom, DOC.Taille_fi\
+chier_Fr AS Taille, TYPE_DOC.Description_francais AS Type FROM   ALBUM_PHOTOS .enregistrements AS\
+ ENR ,  ALBUM_PHOTOS .types_documents AS TYPE_DOC ,  ALBUM_PHOTOS .documents  AS DOC,  ALBUM_PHOT\
+OS .doc_url AS DOC_URL  WHERE  ENR.chrono = DOC.chrono AND DOC_URL.IDDoc=DOC.Type_Doc AND TYPE_DO\
+C.INDICE_AUTO = DOC.Type_Doc AND   DOC.chrono = 69; Nombre de documents ajoutés : 3  Déconnexion.\
+ ';
+
+
+
+</script>
+
+
+</head>
+<body id ="Corp_0">
+<br />
+<br />
+<P id="Nombre_resultat">&nbsp;&nbsp;&nbsp;&nbsp;<a href="G:\PROJET IDEALTAKE 2013\Idealtake_2013\Project_IDEALTAKE\bin\Debug\rs.html" class="Transition_1" >Retour aux r&#233;sultats</a>&nbsp;<input type="button" value="D&#233;tails de la Recherche" name="button1" onClick="alert(Details_connexion)"></P>
+
+<table id="Table_0">
+<div  id="Table_1" >
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+            <td  id="colonne_2_c">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_1">&nbsp;Enregistrement :<br >&nbsp;GoPro 001</td>
+            <td  id="colonne_2_a"><H3 class="padding_1"> </H3></td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;</td>
+            <td id="colonne_2_a">&nbsp; </td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Cr&#233;ation :<br >&nbsp;20/01/2013</td>
+            <td id="colonne_2_a"><p id="Paragraphe_1">GoPro HERO3: Black Edition - Smaller, Lighter and 2X More Powerful</p>
+                                 <hr align="center" />
+                                 <P id="Paragraphe_1"></P>
+            </td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Modification :<br >&nbsp;</td>
+            <td id="colonne_2_c">&nbsp;</td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Auteur :<br >&nbsp;LEVITI</td>
+            <td id="colonne_2_c">&nbsp;</td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+            <td  id="colonne_2_c">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+
+        </table>
+<br />
+        <table  id="Table_0">
+<div  id="Table_1" >
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/GoPro.jpg" target="New[ID]">GoPro</a><br />Autre Photo<br />21 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/17/GoPro_HERO3.webm" target="New[ID]">GoPro HERO3</a><br />Video webm<br />118940 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/13/GoPro_HERO3_1080p.mp4" target="New[ID]">GoPro HERO3 1080p</a><br />Video mp4<br />219117 Ko</td>
+
+</div></table>&nbsp;
+&nbsp;
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;" class="Transition_1" onClick="window.external.CloseWebBrowser('WebBrowser1');">Fermeture de la page</a>
+</body>
+</html>

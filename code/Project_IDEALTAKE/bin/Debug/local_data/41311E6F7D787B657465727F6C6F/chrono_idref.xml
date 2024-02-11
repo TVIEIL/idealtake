@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <chrono_idref>
+    <Chrono>1</Chrono>
+    <IDRef>2</IDRef>
+    <Compteur>1</Compteur>
+  </chrono_idref>
+  <chrono_idref>
+    <Chrono>1</Chrono>
+    <IDRef>4</IDRef>
+    <Compteur>2</Compteur>
+  </chrono_idref>
+  <chrono_idref>
+    <Chrono>1</Chrono>
+    <IDRef>1</IDRef>
+    <Compteur>3</Compteur>
+  </chrono_idref>
+  <chrono_idref>
+    <Chrono>1</Chrono>
+    <IDRef>3</IDRef>
+    <Compteur>4</Compteur>
+  </chrono_idref>
+</NewDataSet>

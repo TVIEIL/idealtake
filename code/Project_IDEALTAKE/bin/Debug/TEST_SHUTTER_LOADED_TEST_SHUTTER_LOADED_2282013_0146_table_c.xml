@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PARAM_C>
+    <DATA>
+        <INDICE_AUTO>0</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Kein Wert</Allemand>
+        <Anglais>No Value</Anglais>
+        <Espagnole>Ningún valor</Espagnole>
+        <Francais>Pas de Valeur</Francais>
+        <Italien>Non di valore</Italien>
+        <Visibilite>Gestion</Visibilite>
+        <Signification_Valeur>Valeur Nulle</Signification_Valeur>
+        <Position>0</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>1</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>&lt;Alle Technologie&gt;</Allemand>
+        <Anglais>&lt;All Technologies&gt;</Anglais>
+        <Espagnole>&lt;Todo Tecnología&gt;</Espagnole>
+        <Francais>&lt;Toutes Technologies&gt;</Francais>
+        <Italien>&lt;Tutto Tecnologia&gt;</Italien>
+        <Visibilite>Recherche</Visibilite>
+        <Signification_Valeur>Toutes les valeurs</Signification_Valeur>
+        <Position>1</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>2</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Akustisch 2 Lote (1+n)</Allemand>
+        <Anglais>Audio 2 wires(1+n)</Anglais>
+        <Espagnole>Audio 2 hilos (1+n)</Espagnole>
+        <Francais>Audio 2 fils(1+n)</Francais>
+        <Italien>Audio 2 fili(1+n)</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>2</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>3</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Akustisch 5 Lote (4+n)</Allemand>
+        <Anglais>Audio 5 wires(4+n)</Anglais>
+        <Espagnole>Audio 5 hilos (4+n)</Espagnole>
+        <Francais>Audio 5 fils(4+n)</Francais>
+        <Italien>Audio 5 fili(4+n)</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>3</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>4</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Akustisch 6 Lote mit Geheimnis(5+n)</Allemand>
+        <Anglais>Audio 6 wires with privacy(5+n)</Anglais>
+        <Espagnole>Audio 6 hilos con secreto(5+n)</Espagnole>
+        <Francais>Audio 6 fils avec secret(5+n)</Francais>
+        <Italien>Audio 6 fili con segreto(5+n)</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>4</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>5</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Türsprechanlagen für 1 Familienhäuser</Allemand>
+        <Anglais>One Family Kit System</Anglais>
+        <Espagnole>Sistema Unifamiliar</Espagnole>
+        <Francais>Kit villa</Francais>
+        <Italien>Kit Monofamiliare</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>5</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>6</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>5 Lote Video-Türsprechanlagen</Allemand>
+        <Anglais>5 wires Video</Anglais>
+        <Espagnole>5 hilos Video Portero</Espagnole>
+        <Francais>Vidéo sans coax(4+n)</Francais>
+        <Italien>5 fili Videocitofonico</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>6</Position>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>7</INDICE_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <Allemand>Video-Türsprechanlagen mit koaxial+(6+n)</Allemand>
+        <Anglais>Video with coaxial+(6+n)</Anglais>
+        <Espagnole>Video Portero con coaxial+(6+n)</Espagnole>
+        <Francais>Vidéo coax+(6+n)</Francais>
+        <Italien>Videocitofonico con coassiali+(6+n)</Italien>
+        <Visibilite>Recherche/Gestion</Visibilite>
+        <Signification_Valeur>valeur</Signification_Valeur>
+        <Position>7</Position>
+    </DATA>
+</PARAM_C>

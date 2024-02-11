@@ -1,0 +1,1189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enregistrements>
+    <DATA>
+        <Numero_Enregistrement>URM002</Numero_Enregistrement>
+        <Chrono>4</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>30/06/2012 22:04:19</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>INSTALLATION STANDARD Audio 5 FILS</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>TYPISCHE INSTALLATION Audio</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>STANDARD INSTALLATION AUDIO 5 WIRES</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Audio INSTALACIÓN ESTÁNDAR 5 HIJO</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>INSTALLAZIONE Audio STANDARD</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>3</PARAM_C>
+        <PARAM_D>4</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>1</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>11/07/2012 22:41:39</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>8</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM003</Numero_Enregistrement>
+        <Chrono>5</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>30/06/2012 23:04:00</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>2PLATINES 655 POSTES AUDIO 5FILS ELECTRONIQUES</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>2 PLATTEN 655 Beiträge AUDIO ELECTRONIC</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>2 PLATES 655 POSTS AUDIO ELECTRONIC 5 WIRES</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>2 PLACAS 655 mensajes electrónicos de audio hijo de</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>2 PLATINES 655 POSTES AUDIO 5 FILS ELECTRONIQUES</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>3</PARAM_C>
+        <PARAM_D>4</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>2</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>2</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM004</Numero_Enregistrement>
+        <Chrono>6</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>30/06/2012 23:23:13</Date_de_creation>
+        <Titre_texte_francais>DBG/ICV3</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Plaque vidéo à défilement avec clavier</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Poste électronique pour installation 2 fils Base Antivandale, haute résistance. Conforme loi accessibilité
+Afficheur graphique bleu 8 lignes de 16 caractères hauteur 9 mm.
+Equipée d'une caméra couleur CCD grand angle.
+Nécessite l'emploi d'une centrale CV1S, CV2, CV4, CL2, CL4, CAPAC/4000 ou PIRAMID.
+Capacité 500 noms, 500 logements avec centrale CAPAC/4000 et PIRAMID.
+Capacité 1000 noms, 600 logements avec centrale CV1S, CV2, CV4, CL2, CL4.
+Message d'accueil et d'utilisation.
+Messages visuels et sonores d'information sur l'état de fonctionnement. 
+Clavier 12 touches lumineux pour appel direct.
+2700 codes d'accès avec centrale CAPAC/4000 ou PIRAMID.</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>DBG/ICV3</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Teller mit Tastatur Scrollen Video</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Heavy-Duty, eine hohe Festigkeit. Erfüllt die Zugänglichkeit Gesetz
+Grafik-Display blau 8 Zeilen à 16 Zeichen 9 mm.
+mit einem Weitwinkel-CCD-Farbkamera ausgestattet.
+Erfordert die Verwendung eines zentralen CV1S, CV2, CV4, CL2, CL4, oder CAPAC/4000 PIRAMID.
+500 Namen, 500 Wohnungen mit Zentralheizung und CAPAC/4000 PIRAMID.
+1000 Namen, 600 Häuser mit zentraler CV1S, CV2, CV4, CL2, CL4.
+Begrüßung und zu verwenden.
+Meldungen visuellen und akustischen Informationen über den Betriebszustand.
+Tastatur 12 Tasten für den direkten Aufruf Licht.
+2700 Zugangscodes oder mit zentraler CAPAC/4000 PIRAMID.</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>DBG/ICV3</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Plate with keyboard scrolling video</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Graphic display blue 8 lines of 16 characters 9 mm.
+Equipped with a wide angle CCD color camera.
+Requires the use of a central CV1S, CV2, CV4, CL2, CL4, or CAPAC/4000 PIRAMID.
+Capacity 500 names, 500 homes with central and CAPAC/4000 PIRAMID.
+Capacity 1000 names, 600 homes with central CV1S, CV2, CV4, CL2, CL4.
+Messages visual and sound information on operating status.
+Keyboard 12 keys for direct call light.
+2700 access codes or with central CAPAC/4000 PIRAMID.</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>DBG/ICV3</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Placa video con el teclado de desplazamiento</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Para trabajo pesado, de alta resistencia. Cumple con la ley de accesibilidad
+La pantalla gráfica de color azul 8 líneas de 16 caracteres de 9 mm.
+Equipado con una cámara a color CCD de gran angular.
+Requiere el uso de una central de CV1S, CV2, CV4, CL2, CL4, o PIRAMID CAPAC/4000.
+Capacidad de 500 nombres, 500 casas con el centro y PIRAMID CAPAC/4000.
+Capacidad 1000 nombres, 600 casas con CV1S centrales, CV2, CV4, Cl2, CL4.
+Dé la bienvenida y de usar.
+Los mensajes de información visual y sonora sobre el estado de funcionamiento.
+Los Teclado 12 teclas de llamada directa para la luz.
+2700 códigos de acceso o con el centro de CAPAC/4000 PIRAMID.</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>DBG/ICV3</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Piastra con tastiera, video scorrimento</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Heavy-duty, ad alta resistenza. Soddisfa il diritto di accessibilità
+Display grafico blu 8 righe di 16 caratteri 9 mm.
+Dotato di un ampio angolo di telecamera a colori CCD.
+Richiede l'uso di una centrale CV1S, CV2, CV4, CL2, CL4 o CAPAC/4000 PIRAMID.
+Capacità di 500 nomi, 500 case con centrale e CAPAC/4000 PIRAMID.
+Capacità 1000 nomi, 600 case con CV1S centrali, CV2, CV4, CL2, CL4.
+Benvenuto e utilizzare.
+Messaggi di informazione visiva e sonora dallo stato operativo.
+Tastiera 12 tasti per la luce chiamata diretta.
+2700
+I codici di accesso o con centrale CAPAC/4000 PIRAMID.</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>3</PARAM_B>
+        <PARAM_C>6</PARAM_C>
+        <PARAM_D>5</PARAM_D>
+        <PARAM_E>4</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>1</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-1-1-3</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>2</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM005</Numero_Enregistrement>
+        <Chrono>7</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 00:58:32</Date_de_creation>
+        <Titre_texte_francais>1129/41</Titre_texte_francais>
+        <Sous_Titre_texte_francais>kit villa audio 2 fils pour une famille</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>en ABS blanc finition satinée pour fixation murale (chevilles et vis fournies).
+Points de fixation permettant un ajustement de la verticalité.
+Combiné en ABS blanc finition satinée équipé du haut-parleur d'écoute, d'une sonnerie et d'un micro.
+Il est relié à la base par un cordon spiralé connectable par prise RJ.
+Une touche d'ouverture de porte en ABS blanc finition lisse.
+Une touche 2ème commande disponible sans ajout de fil (pour motorisation de portail par exemple).
+Deux emplacements disponibles pour ajout de touches supplémentaires.
+Réglage de volume d'appel intégré et accessible par l'utilisateur à 3 positions : Fort-Moyen-Coupure
+Signalisation de la coupure par un témoin rouge.
+Dimensions (HxLxP) : 225 x 90 x 50mm
+
+Module d'appel extérieur pour installation 2 fils audio.
+IP 44
+Équipé du groupe phonique et d'une touche d'appel lumineuse.
+Raccordement du bouton poussoir de sortie pour la commande de gâche.</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>1129/41</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Audio-Kit Utopia Smyle</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Das Kit enthält : POSITION UTOPIA : Elektronische Mail-System für 2 Sohn. ABS Fuß weiß satiniert für die Wandmontage (Dübel und Schrauben im Lieferumfang enthalten). Befestigungspunkte ermöglicht ein Justieren der vertikalen. Weißes ABS satiniert Sprecherin zuzuhören, Glocke und einem Mikrofon kombiniert. Ein zweiter zentraler Steuerung zur Verfügung, ohne zusätzliche Leitung (für motorisierte Tor zum Beispiel).</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>1129/41</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Kit Audio Utopia Smyle</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Electronic system for installation 2 wires. ABS base white satin finish for wall mounting (wall plugs and screws provided). Fixing points allowing adjustment of the vertical. White ABS combined with satin finish speaker listening, bell and a microphone It is connected to the base by a spiral cord connectable by RJ. A key gating smooth finish white ABS. A second key control available without additional wire (for motorized gate for example). Two slots available for adding extra keys. Adjusting call volume integrated and accessible by the user with 3 positions: Fort Middle Cut  by a red. Dimensions (HxLxP) : 225 x 90 x 50mm. Call module installation 2 wires out for audio.IP 44 Equipped with the audio unit and a call button light.</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>1129/41</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Kit de audio Utopía Smyle</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Sistema de correo electrónico para el hijo de 2.
+ABS base de color blanco satinado para montaje en pared (tacos y tornillos suministrados).
+Puntos de fijación que permiten el ajuste de la vertical.
+ABS blanco combinado con acabado satinado de altavoces de escucha, una campana y un micrófono.
+Se conecta a la base por un cable espiral conectable por RJ.
+Una compuerta clave de suave acabado ABS blanco.
+Un segundo control clave disponible, sin cable adicional (por la puerta motorizada, por ejemplo).
+Dos slots disponibles para agregar teclas adicionales.
+Control de volumen integrado y accesible para el usuario llamada de 3 posiciones: Fort Medio Corte
+Indicación de la corte por una luz roja.
+Dimensiones (alf): 225 x 90 x 50 mm
+
+Módulo 2 llamada externa para instalar el hijo de audio.
+IP 44
+Equipado con el sistema de audio y una luz de tecla de Ilamada.
+Conexión del botón para salir de la liberación del bloqueo.
+La conexión de la liberación del botón para la segunda orden.</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>1129/41</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Kit de audio Utopía Smyle</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>
+después de la instalación electrónica hijo de 2.
+ABS base de color blanco satinado para montaje en pared (tornillos y tacos suministrados).
+Puntos de fijación para el ajuste de la vertical.
+ABS Combinado con blanco satinado de altavoces de escucha, la campana y un micrófono.
+Se conecta a la base por un cable espiral conectable por RJ.
+Un botón de apertura de la puerta en ABS blanco acabado liso.
+Un segundo control clave disponible, sin cable adicional (por la puerta motorizada, por ejemplo).
+Dos slots disponibles para agregar teclas adicionales.
+Control de volumen integrado y accesible para el usuario llamada de 3 posiciones: Fort Medio Corte
+Indicación de la corte por una luz roja.
+Dimensiones (alf): 225 x 90 x 50 mm
+
+Módulo 2 llamada externa para instalar el hijo de audio.
+IP 44
+Equipado con el sistema de audio y una luz de tecla de llamada.
+Conexión del botón para salir de la liberación del bloqueo.
+La conexión de la liberación del botón para la segunda orden.</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>3</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>5</PARAM_C>
+        <PARAM_D>3</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>1</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>14/07/2012 10:02:21</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM006</Numero_Enregistrement>
+        <Chrono>8</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 01:39:37</Date_de_creation>
+        <Titre_texte_francais>1129/501</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Kit villa Atlantico Smyle 5 fils</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Poste électronique pour installation 4+N fils 2 fils supplémentaires  par touche de service Base en ABS blanc finition satinée pour fixation murale (chevilles et vis fournies). Nombreux points de fixation permettant un ajustement de la verticalité et correspondant avec ceux des anciens postes URMET. Combiné en ABS blanc finition satinée équipé du haut-parleur d'écoute et de sonnerie ainsi que du micro. Il est relié à la base par un cordon spiralé connectable par prise RJ.  Une touche d'ouverture de porte en ABS blanc finition lisse. Une touche supplémentaire en ABS blanc finition lisse (contact à fermeture libre de potentiel 2A/24V max).
+ Deux emplacements disponibles pour ajout de touches supplémentaires Dimensions (HxLxP) : 236 x 10 x 65mm
+ 
+ Module d'appel extérieur pour installation 5 fils audio. IP 44.
+ Il est équipé du groupe phonique et d'une touche d'appel lumineuse. Commande d'ouverture de porte par tension de 12 V fournie.  Dimensions (HxLxP) : 185 x 99 x 35 mm</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>1129/501</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Kit Villa Atlantico Smyle</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Elektronische Station für die Installation 4 + N .
+2 zusätzliche Sohn-Touch-Service.
+ABS Fuß weiß satiniert für die Wandmontage (Schrauben und Dübel zur Verfügung gestellt).
+Zahlreiche Befestigungspunkte ermöglichen eine Anpassung der entsprechenden vertikalen und mit denen der alten Beiträge URMET.
+Kombination aus weißem ABS satiniert Lautsprecher hören und das Klingeln und das Mikrofon. Es ist mit der Basis durch eine Wendelleitung von RJ verbindbar verbunden.
+Ein-Knopf Türöffnung weißem ABS glatte Oberfläche.
+Einen zusätzlichen Hauch von weißem ABS glatte Oberfläche (Schließer potentialfrei 2A/24V max).
+Zwei Steckplätze zur Verfügung für das Hinzufügen von zusätzlichen Tasten.
+Maße (HxBxT): 236 x 10 x 65mm
+
+Aufruf Modul für externe Audio-System 5 Sohn.
+IP 44.
+Es wird mit der Audio-Einheit und einer Taste zum Anrufen Licht ausgestattet.
+Kontrolle Türöffnung durch Spannung von 12 V versorgt.
+Maße (HxBxT): 185 x 99 x 35 mm</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>1129/501</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Kit villa Atlantico Smyle</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Electronic station for installation 4 + N wires. 2 additional son-touch service. ABS base white satin finish for wall mounting (screws and plugs provided). Numerous attachment points enabling an adjustment of the vertical and corresponding with those of the old posts URMET. Combination of white ABS with satin finish speaker listening and ringing and the microphone. It is connected to the base by a spiral cord connectable by RJ. One button door opening white ABS smooth finish.
+ An extra touch of white ABS smooth finish (normally open potential free 2A/24V max). Two slots available for adding extra keys. Dimensions (HxWxD): 236 x 10 x 65mm
+ 
+ Calling module for external audio system 5 wires. IP 44. It is equipped with the audio unit and a call key light. Control door opening by voltage of 12 V supplied.
+ Dimensions (HxWxD): 185 x 99 x 35 mm</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>1129/501</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Kit de Villa Atlántico hijo Smyle</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Estación de electrónica para la instalación 4 + N hijo.
+2 adicionales hijo de servicios de contacto.
+ABS base de color blanco satinado para montaje en pared (tornillos y tacos suministrados).
+Puntos Numerosas de fijación que permiten un ajuste de la vertical y la correspondiente con los de la URMET mensajes de edad.
+Combinación de ABS blanco, con acabado satinado altavoces escuchando y tocando y el micrófono. Se conecta a la base por un cable espiral conectable por RJ.
+Una puerta de botón de apertura de ABS blanco suave acabado.
+Un toque extra de ABS blanco suave acabado (normalmente abierto libre de potencial máximo 2A/24V).
+Dos ranuras disponibles para agregar teclas adicionales.
+Dimensiones (HxWxD): 236 x 10 x 65mm
+
+Módulo de Llamada para el sistema externo de audio de 5 hijos.
+IP 44.
+Está equipado con la unidad de audio y una luz de tecla de llamada.
+Control de apertura de la puerta por la tensión de 12 V suministrado.
+Dimensiones (alf): 185 x 99 x 35 mm</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>1129/501</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Kit villa Atlantico figlio Smyle</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>
+Centralina elettronica per l'installazione 4 + N figlio.2 ulteriori figlio-touch servizio.
+Base in ABS bianco satinato per montaggio a parete (viti e tasselli in dotazione).
+Numerosi punti di attacco che consentono una regolazione verticale e corrispondenti a quelli della URMET vecchio messaggi.
+Combinazione di ABS bianco con finitura satinata speaker di ascolto e di chiamata e il microfono. Esso è collegato alla base mediante un cordone elastico collegabile da RJ.
+Una porta pulsante di apertura in ABS bianco finitura liscia.
+Un tocco di bianco ABS finitura liscia (normalmente aperto libero da potenziale 2A/24V max).
+Due slot disponibili per l'aggiunta di tasti aggiuntivi.
+Dimensioni (AxLxP): 236 x 10 x 65mm
+
+Modulo di chiamata per il sistema audio esterno figlio di 5.
+IP 44.
+E 'equipaggiato con l'unità audio e una luce tasto di chiamata.
+Apertura della porta di controllo da una tensione di 12 V in dotazione.
+Dimensioni (AxLxP): 185 x 99 x 35 mm</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>3</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>5</PARAM_C>
+        <PARAM_D>3</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>1</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>14/07/2012 10:05:04</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM007</Numero_Enregistrement>
+        <Chrono>9</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 03:01:52</Date_de_creation>
+        <Titre_texte_francais>1722/71</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Kit vidéo couleur mains-libre</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Modèle AIKO couleur mains-libres en ABS blanc finition brillante.
+Ecran LCD couleur 4,1'' (10,5cm).
+Étrier métal fourni pour fixation murale avec ajustement de la verticalité.
+Entraxe de fixation adapté au boîtier Ø 60 mm.
+Pose en saillie. Montage encastré avec kit optionnel.
+Menu d'accès aux réglages et à la configuration.
+Touches sensitives.
+Mémoire vidéo de 32 clips de 10 secondes. 
+  "Post-it audio  " :enregistrement et écoute d'un message interne à destination des résidents.
+Réglage du niveau de la sonnerie + coupure avec signalisation lumineuse.
+Réglage de luminosité, contraste, couleur.
+4 mélodies au choix pour l'appel depuis la plaque de rue ou l'intercommunication.
+3 touches de commande : ouverture de la porte, ouverture du portail motorisé, éclairage extérieur.
+1 touche de fonction vidéosurveillance permettant d'afficher les images provenant de 2 plaques de rue et de 4 caméras.
+3 voyants de fonction : coupure de sonnerie, porte ouverte, messages.</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>1722/71</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Kit Farb-Video-Bildspeicher</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Modell AIKO Hands-free Farbe Glossy White ABS. Farb-LCD-Bildschirm 4,1  " (10,5 cm). Metall-Halterung für Wand-Montage geliefert mit verstellbarem Vertikalität. Befestigung für Gehäuse Ø 60 mm geeignet. Aufputzmontage. Montage mit optionalem Kit. Menü-Zugriff auf Einstellungen und Konfiguration. Tasten. Video-Speicher von 32 Clips von 10 Sekunden.   "Post-it-Audio  " Aufnahme und Abhören einer Nachricht für Inland bestimmt. Einstellen der Rufton aus mit + Signalisierung. Stellen Sie Helligkeit, Kontrast, Farbe. 4 Lieder für den Anruf aus dem Gerät oder die Sprechanlage gewählt. 3-Tasten: das Öffnen der Tür, öffnete die motorisierte Tor, Außenbeleuchtung.</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>1722/71</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Kit color video</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Model AIKO Hands-free Color Glossy White ABS. Colour LCD screen 4.1'' (10.5 cm).  metal bracket supplied for wall mounting with adjustable verticality. Fixing suitable for housing Ø 60 mm. Surface mounting. Mounting with optional kit.  Menu access to settings and configuration. Touch sensor buttons. Video Memory of 32 clips of 10 seconds.   "Post-it audio  " recording and listening to a message destined for domestic residents. Adjusting the ringer off with + signaling. Adjust brightness, contrast, color. 4 songs chosen for the call from the unit or the intercom. 3 buttons: opening the door, opening the motorized gate, exterior lighting. a function key to display video images from two street signs and four cameras. 3 LED function: bell cut-off, door open messages.
+ Integrated Magnetic loop. Compatible with hearing aids for hearing impaired.
+ 1 output for extra bell or chime wireless 43300 and 43305.
+ 1 output for connection of a siren activated on detection.</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>1722/71</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Kit color de vídeo</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Antiataques / montaje en superficie o empotrado
+
+Modelo AIKO manos libres ABS de color blanco brillante.
+Pantalla LCD color 4,1'' (10,5 cm).
+Soporte de metal suministrado para montaje en pared con la verticalidad ajustable.
+Fijación apta para vivienda Ø 60 mm.
+Montaje en superficie. Montaje con el kit opcional.
+Acceso al menú de ajustes y la configuración.
+teclas sensibles.
+Memoria de vídeo de 32 clips de 10 segundos.
+  "Post-it de audio  ", grabación y escucha de un mensaje destinado a residentes en el país.
+Ajuste el timbre con la señalización +.
+Ajuste el brillo, contraste, color.
+4 canciones elegidas para la llamada de la unidad o la intercomunicación.
+3 botones: abrir la puerta, abriendo la puerta motorizada, iluminación exterior.
+una tecla de función para mostrar imágenes de vídeo a partir de dos señales de tráfico y cámaras de cuatro.
+3 LED de funcionamiento: la campana de cierre, la puerta al abrir mensajes.
+Lazo magnético integrado. Compatible con audífonos para los sordos.</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>1722/71</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Kit video a colori dispositivo di  hands-free</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Modello AIKO colori viva-voce ABS bianco lucido.
+Schermo LCD a colori 4,1'' (10,5 cm).
+Supporto in metallo in dotazione per montaggio a parete con la verticalità regolabile.
+Fissaggio adatto per l'alloggiamento Ø 60 mm.
+Superficie di montaggio. Montaggio con kit opzionale.
+Menu di accesso alle impostazioni e la configurazione.
+Tasti sensibili.
+Memoria di 32 Video clip di 10 secondi.
+  "Post-it audio  " la registrazione e l'ascolto di un messaggio destinato a cittadini residenti.
+Regolare la suoneria con segnalazione +.
+Regolare la luminosità, contrasto, colore.
+4 canzoni scelte per la chiamata dall'unità o al citofono.
+3 pulsanti: aprendo la porta, aprendo il cancello motorizzato, illuminazione esterna.
+un tasto funzione per visualizzare le immagini video da due cartelli stradali e quattro telecamere.
+3 LED di funzione: bell cut-off, porta messaggi aperti.
+ciclo integrato magnetico. Compatibile con gli apparecchi acustici per non udenti.</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>4</PARAM_A>
+        <PARAM_B>3</PARAM_B>
+        <PARAM_C>5</PARAM_C>
+        <PARAM_D>3</PARAM_D>
+        <PARAM_E>4</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>1</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-1-0-2</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>14/07/2012 10:01:06</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM008</Numero_Enregistrement>
+        <Chrono>10</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 03:24:37</Date_de_creation>
+        <Titre_texte_francais>1105/3</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Clavier Sinthesi 2 relais</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Module Sinthesi à façade aluminium anodisé naturel.
+Clavier lumineux à touches rétro-éclairées.
+Gère jusqu'à 8 codes ouvre-porte composés d'un minimum de 3 chiffres à un maximum de 8 chiffres. 
+2 relais contact NO/NF. Courant admissible : 5 A / 250 V.
+Alimentation 12 Vca ou 12 Vcc. Consommation : 0,25 A.
+Module fourni sans cadre de finition ni boîtier d'encastrement.
+Dimensions (H x L x P) : 90 x 90 x 45 mm.
+Accessoires de montage voir plaques Sinthesi. 
+Patrimoine : Petit collectif  Moyen collectif  Grand collectif 
+
+Technologies : Lecture</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>1105/3</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Sinthesi tastiera 2 relè</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Modulo Sinthesi in alluminio anodizzato naturale facciata. Illuminata tastiera con tasti retroilluminati. Gestisce fino a 8 porte codici apri costituiti da un minimo di 3 cifre ad un massimo di 8 cifre. 2 relè NO / contatto NC. Corrente: 5 A / 250 V. Alimentazione 12 Vac o 12 Vdc. Consumo: 0,25 A. Modulo fornito senza telaio assetto o scatola a muro. Dimensioni (H x L x P): 90 x 90 x 45 mm. Accessori per il montaggio vedi le tavole Sinthesi. Heritage: Piccolo Medio Grande collettiva collettiva collettiva Tecnologie: Reading</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>1105/3</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Sinthesi keypad 2 relays</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Module Sinthesi in natural anodized aluminum facade. Illuminated keyboard with backlit keys. Manages up to 8 door opener codes consist of a minimum of 3 digits to a maximum of 8 digits. 2 relays NO / NC contact. Current: 5 A / 250 V. Power supply 12 Vac or 12 Vdc. Consumption: 0.25 A. Module supplied without trim frame or wallbox. Dimensions (H x W x D): 90 x 90 x 45 mm. Mounting accessories see Sinthesi plates. Heritage: Small Middle collective collective collective Grand Technologies: Reading</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>1105/3</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Sinthesi teclado 2 relés</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Módulo Sinthesi en la fachada de aluminio anodizado natural. Teclado iluminado con teclas retroiluminadas. Gestiona hasta 8 códigos de abrepuertas consisten en un mínimo de 3 dígitos para un máximo de 8 dígitos. 2 relés NA / NC de contacto. Corriente: 5 A / 250 V. Fuente de alimentación de 12 Vcc o 12 Vca. Consumo: 0,25 A. Módulo suministra sin marco embellecedor o caja de empotrar. Dimensiones (H x W x D): 90 x 90 x 45 mm. Accesorios de montaje ver las placas de Sinthesi. Patrimonio: Pequeño Medio colectiva colectiva colectiva Gran Tecnologías: Lectura</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>1105/3</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Sinthesi tastiera 2 relè</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Modulo Sinthesi in alluminio anodizzato naturale facciata. Illuminata tastiera con tasti retroilluminati. Gestisce fino a 8 porte codici apri costituiti da un minimo di 3 cifre ad un massimo di 8 cifre. 2 relè NO / contatto NC. Corrente: 5 A / 250 V. Alimentazione 12 Vac o 12 Vdc. Consumo: 0,25 A. Modulo fornito senza telaio assetto o scatola a muro. Dimensioni (H x L x P): 90 x 90 x 45 mm. Accessori per il montaggio vedi le tavole Sinthesi. Heritage: Piccolo Medio Grande collettiva collettiva collettiva Tecnologie: Reading</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>3</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM009</Numero_Enregistrement>
+        <Chrono>11</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 03:31:15</Date_de_creation>
+        <Titre_texte_francais>1156/10</Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>MODULE OUVRE-PORTE A CLAVIER DE CODES</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>1156/10</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>TÜRÖFFNERMODUL MIT ZAHLENKOMBINATIONSTASTATUR</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>1156/10</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>DOOR RELEASE MODULE WITH CODE KEYBOARD</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>1156/10</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>MÓDULO DE APERTURA DE PUERTA CON TECLADO POR CÓDIGOS</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>1156/10</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>MODULO APRIPORTA CON TASTIERA A CODICE</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>3</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>14/07/2012 10:56:36</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM010</Numero_Enregistrement>
+        <Chrono>12</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 03:43:00</Date_de_creation>
+        <Titre_texte_francais>141202</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Clavier codé ABS série 1412</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Claviers 12 touches Façade plastique Nombre de codes : 100 de 3 à 8 chiffres 2 Relais contact NO/NF et 1 entrée BP pour la référence 141202 4 Relais contact NO/NF et 1 entrée BP pour la référence 141204 Temporisation réglable de 1 à 99 sec Relais mono ou bistables suivant le code d'accès 1 contact anti-arrachement Bouton de sortie et entrée horloge pour le relais 1 3 groupes de code d'accès permanent /Entrée horloge ON / entrée horloge OFF Rétro-éclairage des touches par leds bleues Buzzer et Led de programmation / confirmation d'ouverture Touche 5 avec repère pour non-voyant Leds verte et rouge: activées par entrée tension de 12 Volts Indice de protection : certifié IP65 Fixation par vis antivandale non apparente (outil fourni) Alimentation 12-24Vca ou Vcc Consommation 250mA sous 12V et 125mA sous 24V</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>141202</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Coded ABS 1412 Series Tastatur</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>12-Tasten-Tastatur-Codes. Kunststoff-Front. Anzahl der Codes: 100 3 bis 8 (# und * im Lieferumfang enthalten). 2 Relais Schließer / Öffner und ein Referenz-Eingang für den BP-141 202 4 Relais-Schließer / Öffner und einen Eintrag für BP Referenz 141204. Einstellbare Verzögerung von 1 bis 99 sek. Mono-oder bistabilen Relais nach dem Zugangscode. Kontaktieren Sie einen Anti-Riss. EXIT-Taste und Takt-Eingang für Relais 1. 3 Gruppen von permanenten Zugangscode / Clock-Eingang ON / OFF-Eingang Uhr. Beleuchtete Tasten für blaue LEDs. Summer und LED-Programmierung / Open Bestätigung. Mit 5 wichtiger Gradmesser für Blinde. Grüne und rote LEDs: aktiviert Eingangsspannung von 12 Volt. Schutzklasse: IP65-zertifiziert. Schraubbefestigung Vandalismus nicht ersichtlich (Werkzeug). Versorgung 12-24VAC oder VDC. Verbrauch 250mA bei 12V und 125mA bei 24V. Empfohlene Speisen: Ref: 9000/230 - 12VAC / 20 Va. Betriebstemperatur: -20 ° C bis + 60 ° C. Eine ausführliche Montageanleitung enthalten. Außenmaße (HxBxT): 120 x 83 x 36mm.</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>141202</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Coded ABS 1412 series keyboard</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>12-key keyboard codes. Plastic front. Number of codes: 100 3 to 8 (# and * included). 2 Relay NO / NC contact and a reference input for the BP 141 202 4 relay NO / NC contact and one entry for BP reference 141204. Adjustable delay from 1 to 99 sec. Mono or bistable relay following the access code. Contact an anti-tear. Exit button and clock input for relay 1. 3 groups of permanent access code / Clock input ON / OFF input clock. Backlit keys for blue LEDs. Buzzer and LED programming / Open Confirmation. With 5 key benchmark for the blind. Green and red LEDs: enabled by input voltage of 12 volts. Protection class: IP65 certified. Screw fixing vandal not apparent (tool). Supply 12-24VAC or VDC. Consumption 250mA at 12V and 125mA at 24V. Recommended food: Ref: 9000/230 - 12VAC / 20 Va. Operating Temperature: -20 ° C to + 60 ° C. Detailed assembly instructions included. Exterior Dimensions (HxWxD): 120 x 83 x 36mm. Supplied in blister packs. Heritage: Small group Middle Tertiary collective  Technologies: Reading</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>141202</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Codificado ABS 1412 la serie del teclado</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>12-clave códigos de teclado. Frontal de plástico. Número de códigos: 100 3 a 8 (# y * incluido). 2 Relé NA / NC y una entrada de referencia para la BP 141 202 4 salidas de relé NA / NC de contacto y una entrada para BP Referencia 141204. Retardo ajustable de 1 a 99 seg. Mono o biestable transmiten siguiendo el código de acceso. Póngase en contacto con un anti-desgaste. Salir de botón y entrada de reloj para el relé 1. Tres grupos de código de acceso permanente / de reloj de entrada en el reloj de entrada / OFF. Teclas retroiluminadas para LEDs azules. Zumbador y LED de programación / confirmación de apertura. Con 5 punto de referencia clave para los ciegos. LEDs verde y rojo: habilitado por la tensión de entrada de 12 voltios. Grado de protección: IP65 certificado. Tornillo fijación vandalismo no es evidente (la herramienta). Suministro de 12 VCC o 24 VCA. 250 mA de consumo a 12V y 125mA a 24V. Los alimentos recomendados: Ref.: 9000/230 - 12VAC / 20 Virginia</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>141202</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Coded ABS 1412 serie tastiera</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>-12 codici chiave della tastiera. Frontale in plastica. Numero di codici: 100 3 a 8 (* # e incluso). 2 relè NO / contatto NC e un ingresso di riferimento per il BP 141 202 4 relè NO / NC contatto e una voce per BP di riferimento 141204. Ritardo regolabile da 1 a 99 sec. Mono o bistabile relè in seguito il codice di accesso. Contattare un anti-strappo. Pulsante di uscita e ingresso di clock per il relè 1. 3 gruppi di permanente codice di accesso / clock in ingresso clock in ingresso ON / OFF. Tasti retroilluminati per LED blu. Buzzer e LED di programmazione / conferma Open. Con 5 riferimento essenziale per i non vedenti. LED verdi e rossi: attivato per tensione di ingresso di 12 volt. Classe di protezione: certificato IP65. Vite fissaggio atti vandalici non apparente (tool). Alimentazione 12-24VAC o VDC. Consumo 250mA a 125mA e 12V a 24V. Alimentari consigliata: Ref: 9000/230 - 12VAC / 20 Virginia Temperatura di esercizio: -20 ° C a + 60 ° C.</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>3</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM011</Numero_Enregistrement>
+        <Chrono>13</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 04:54:51</Date_de_creation>
+        <Titre_texte_francais>CCS</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Clavier codé aluminium série</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Clavier à codes 12 touches Façade aluminium 33 mm Nombre de codes : 20 de 3 à 8 chiffres 2 relais contact NO/NF et 1 entrée BP
+Relais mono ou bistables suivant le code d'accès
+1 contact anti-arrachement
+1 entrée horloge pour le relais 1
+Système antifraude : une série de 20 appuis sur les touches sans code connu provoque le blocage du clavier pendant 30s Buzzer et Led de programmation /confirmation d'ouverture
+Touche 5 avec repère pour non-voyant Fixation par vis antivandale non apparente (outil fourni), joint d'étanchéité fourni
+Alimentation 12-24 Vca ou Vcc
+Alimentation conseillée : Réf : 9000/230 - 12Vca / 20 Va
+Gamme de température : - 20° C à + 50° C
+Notice incluse
+Dimensions Façade (HxLxE) : 134 x 80 x 30 mm
+Dimensions : (L x H x P) : 134 x 80 x 33
+Domaine d'activité : Contrôle d'accès
+Patrimoine : Petit collectif  Moyen collectif
+Technologies : Lecture</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>CCS</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Coded Aluminium Keyboard Serie</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>12-Tasten-Codes 33 mm Aluminium-Front Anzahl der Codes: 20 von 3 bis 8 Ziffern 2 Relais Schließer / Öffner und einem Eintrag BP Mono-oder bistabilen Relais nach dem Zugangscode Kontaktieren Sie einen Anti-Tearing Ein Takteingang für Relais 1 Betrugsbekämpfung System: eine Reihe von 20 Tastenanschläge ohne bekannte Code wird die Tastatur für 30 blockieren Summer und LED-Programmierung / Open Confirmation Mit 5 wichtiger Gradmesser für Blinde Schraubbefestigung Vandalismus nicht ersichtlich (Werkzeug), mitgelieferte Dichtung 12-24 VAC oder VDC Empfohlene Speisen: Ref: 9000/230 - 12VAC / 20 Go Temperaturbereich: - 20 ° C bis + 50 ° C Anleitung enthalten Außenmaße (HxLxE): 134 x 80 x 30 mm Abmessungen: (BxHxT): 134 x 80 x 33 Tätigkeitsbereich: Access Control Heritage: Klein Mittel Kollektiv Kollektiv Technologies: Lesen</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>CCS</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Coded aluminum keyboard series</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>12-key keypad codes 33 mm aluminum front Number of codes: 20 of 3 to 8 digits 2 relays NO / NC contact and one entry BP Mono or bistable relay following the access code Contact an anti-tearing A clock input for relay 1 Antifraud system: a series of 20 keystrokes without known code will block the keyboard for 30 Buzzer and LED programming / Open Confirmation With 5 key benchmark for the blind Screw fixing vandal not apparent (tool), supplied gasket Supply 12-24 VAC or VDC Recommended food: Ref: 9000/230 - 12VAC / 20 Go Temperature range: - 20 ° C to + 50 ° C instructions included Exterior Dimensions (HxLxE): 134 x 80 x 30 mm Dimensions: (WxHxD): 134 x 80 x 33 Field of activity: Access Control Heritage: Small Middle collective collective Technologies: Reading</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>CCS</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Codificados de aluminio</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>12-clave códigos de teclado 33 mm frontal de aluminio Número de códigos: 20, de 3 a 8 dígitos 2 relés de contacto NO / NC y una entrada de BP Mono o relé biestable siguiendo el código de acceso Póngase en contacto con un anti-desgarro Una entrada de reloj para el relé 1 Lucha contra el Fraude del sistema: una serie de 20 pulsaciones sin código conocido bloquea el teclado para el 30 de Zumbador y LED de programación / confirmación de apertura de Con 5 punto de referencia clave para los ciegos Tornillo fijación vandalismo no es evidente (herramienta), suministrado junta Suministro 12-24 VCA o VCD Los alimentos recomendados: Ref.: 9000/230 - 12VAC / 20 Ir Rango de temperatura: - 20 ° C a + 50 ° C Se incluyen las instrucciones Dimensiones exteriores (HxLxE): 134 x 80 x 30 mm Dimensiones: (WxHxD): 134 x 80 x 33 Campo de actividad: control de acceso Patrimonio: Pequeño Medio colectiva colectiva Tecnologías: Lectura</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>CCS</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Codificati da tastiera in alluminio</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Codificati da tastiera in alluminio serie di progetti CCS compatte 12-chiave tastiera codici 33 millimetri frontale in alluminio Numero di codici: 20 da 3 a 8 cifre 2 relè NO / NC di contatto e una voce BP Mono o relè bistabile in seguito il codice di accesso Contattare un anti-strappo Un ingresso di clock per il relé 1 Antifrode: una serie di 20 tasti, senza conoscere il codice si blocca la tastiera per 30 Buzzer e LED di programmazione / conferma Aperto Con 5 riferimento essenziale per i non vedenti Vite fissaggio atti vandalici non apparente (tool), fornito guarnizione Alimentazione 12-24 VAC o VDC Alimentari consigliata: Ref: 9000/230 - 12VAC / 20 Vai Campo di temperatura: - 20 ° C a + 50 ° C istruzioni incluse Esterno Dimensioni (HxLxE): 134 x 80 x 30 mm Dimensioni: (LxAxP): 134 x 80 x 33 Settore di attività: controllo degli accessi Heritage: Small collettiva Middle collettiva Tecnologie: Reading</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>3</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM012</Numero_Enregistrement>
+        <Chrono>15</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 15:35:30</Date_de_creation>
+        <Titre_texte_francais>KCV1S3</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Kit centrale 1 porte et lecteur T25VK3</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>1 centrale CV1S3. 1 lecteur VIGIK/résident câblage 2 fils format T25 réf T25VK3 1 clé MEMOPROX Centrale autonome 1 porte 1000 clés MEMOPROX. Programmation par badge porteur (Badge MEMOPROX non dédié) avec Visiosoftweb</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>KCV1S3</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Zentralverriegelung und ein Kit-Player T25VK3</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Eine zentrale CV1S3 1 Leser VIGIK / 2 Sohn Wohnsitz Verdrahtung Größe T25 réf.T25VK3 ein Schlüssel MEMOPROX Ein autonomes Zentralverriegelung mit Schlüssel MEMOPROX 1000. Programmierung badgeträger (Badge MEMOPROX nicht dediziert) mit Visiosoftweb Kapazität: 100 VIGIK Dienstleistungen. PTT / EDF-GDF / France Telecom programmiert. Selbst-Diagnose-System für LEDs Zentrale Versorgung: 12 Vac oder nur 12/24Vdc Speicher und abnehmbaren Klemmenleiste Distanz 5 Meter oder 10 Meter mit einem 50 Ohm-Koaxialkabel, zwischen Leser-und Mittelamerika. Technische Daten: Kontinuierliche Verbrauch: 9 V - 500 mA, 12 V - 300 mA, 15 V - 250 mA, 30 V - 200 mA. Alternative Verbrauch: 12 V - 4 VA. Temperaturbereich: - 20 ° C bis + 70 ° C. CE: Erfüllt. Features: Mittel-und VIGIK Wohnsitz Tasten. Management mit VISIOSOFTWEB.COM Kapazität: 1000 Schlüssel MEMOPROX lesen / schreiben Zulassung: Geprüfte Mittel VIGIK</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>KCV1S3</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Central door and a kit player T25VK3</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>A central CV1S3 1 reader VIGIK / 2 son resident wiring size T25 réf.T25VK3 a key MEMOPROX An autonomous central door key MEMOPROX 1000. Programming badge holder (Badge MEMOPROX not dedicated) with Visiosoftweb Capacity of 100 VIGIK services. PTT / EDF-GDF / France Telecom programmed. Self-diagnostic system for LEDs Central supply: 12Vac or only 12/24Vdc Memory and removable terminal block Distance 5 meters or 10 meters with a 50 ohm coaxial cable, between reader and Central. Specifications: Continuous consumption: 9V - 500 mA, 12 V - 300 mA, 15 V - 250 mA, 30 V - 200 mA. Alternative consumption: 12 V - 4 VA. Temperature range: - 20 ° C to + 70 ° C. CE: Complies. features: Central and VIGIK resident keys. Management with VISIOSOFTWEB.COM Capacity: 1000 key MEMOPROX read / write Approval: Approved Central VIGIK</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>KCV1S3</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Cierre centralizado y un kit de jugador T25VK</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Un centro de CV1S3 1 lector de VIGIK / 2 hijo de residente tamaño del cable T25 réf.T25VK3 un MEMOPROX clave Una llave de la puerta central autónoma MEMOPROX 1000. Insignia de la programación de soporte (MEMOPROX Insignia no se dedican) con Visiosoftweb Capacidad de 100 servicios de VIGIK. PTT / EDF-GDF / France Telecom programado. Sistema de autodiagnóstico para LEDs Central de la oferta: 12 Vac o 12/24Vdc sólo Memoria y bloque de terminales extraíble Distancia 5 metros o 10 metros con un cable coaxial de 50 ohmios, entre el lector y el central. Especificaciones: Continua el consumo: 9V - 500 mA, 12 V - 300 mA, 15 V - 250 mA, 30 V - 200 mA. Alternativa de consumo: 12 V - 4 VA. Rango de temperatura: - 20 ° C a + 70 ° C. CE: Cumple. Características: Central y las teclas VIGIK residentes. Gestión con VISIOSOFTWEB.COM Capacidad: 1000 MEMOPROX clave de lectura / escritura Aprobación: Aprobado central VIGIK</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>KCV1S3</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Porta centrale e un kit giocatore T25VK3</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Una centrale CV1S3 1 lettore di VIGIK / 2 residente dimensioni figlio di cablaggio T25 réf.T25VK3 uno MEMOPROX chiave Una chiave di autonoma porta centrale MEMOPROX 1000. Porta badge Programmazione (MEMOPROX Badge non dedicato) con Visiosoftweb Capacità di 100 servizi VIGIK. PTT / EDF-GDF / France Telecom programmato. Sistema di autodiagnostica per i LED Centrale di alimentazione: 12Vac o solo 12/24Vdc Memoria e morsettiera estraibile Distanza 5 metri o 10 metri con un cavo coassiale da 50 ohm, tra lettore e centrale. Specifiche tecniche: Continuo consumo: 9V - 500 mA, 12 V - 300 mA, 15 V - 250 mA, 30 V - 200 mA. Alternative Consumo: 12 V - 4 VA. Campo di temperatura: - 20 ° C a + 70 ° C. CE: Conforme. caratteristiche: Centrale e tasti residenti VIGIK. Gestione con VISIOSOFTWEB.COM Capacità: 1000 MEMOPROX chiave di lettura / scrittura Approvazione: Approvato Central VIGIK</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>4</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM013</Numero_Enregistrement>
+        <Chrono>16</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 16:01:48</Date_de_creation>
+        <Titre_texte_francais>CV2</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Centrale 2 portes</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>La plus complète des centrales du marché 5 000 clés MEMOPROX et/ou télécommande MEMOBIP Capacité de 200 services VIGIK dont services PTT/EDF/GDF/France Télécom/urgences et sécurité programmés Afficheur LCD et touches de programmation Accès libre sur horaires sur porte Câblage 2 fils (100 m) vers le lecteur</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>CV2</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>2 zentrale Türen</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Die vollständigste zentralen Markt 5000 MEMOPROX Schlüssel und / oder Remote MEMOBIP Kapazität von 200 Dienstleistungen, die VIGIK PTT / EDF / GDF / France Telecom / Notfälle und Sicherheit programmiert LCD-Display und Tasten programmieren Freier Zugang zu Zeitplänen an der Tür Verkabelung 2 Sohn (100 m) auf den Player RTBs DIN-Schiene oder Schraube 10 Module</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>CV2</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>2 central doors</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>The most complete central market. 5000 MEMOPROX key and / or remote MEMOBIP Capacity of 200 services which VIGIK PTT / EDF / GDF / France Telecom / emergencies and safety programmed. LCD display and programming buttons. Free access to schedules on door. Wiring 2 son (100 m) to the player. RTBs. DIN rail or screw 10 modules.</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>CV2</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>2 puertas centrales</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>El mercado central más completo. 5000 MEMOPROX clave y / o remota MEMOBIP Capacidad de 200 servicios que VIGIK PTT / EDF / GDF / France Telecom / emergencias y de seguridad programadas. Pantalla LCD y botones de programación. El libre acceso a los horarios en la puerta. Cableado hijo de 2 (100 m) para el jugador. RTB. En carril DIN o tornillo 10 módulos.</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>CV2</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>2 ante centrali</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Il mercato più completo centrale. 5000 MEMOPROX chiave e / o remote MEMOBIP Capacità di 200 servizi che VIGIK PTT / EDF / GDF / France Telecom / le emergenze e la sicurezza programmate. Display LCD e pulsanti di programmazione. Accesso gratuito ad orari su porta. Cablaggio figlio di 2 (100 m) al giocatore.</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>4</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM014</Numero_Enregistrement>
+        <Chrono>17</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/07/2012 16:20:21</Date_de_creation>
+        <Titre_texte_francais>VIT25M3</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Kit VIGIK + résident VIT25M3</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Idéal pour le remplacement rapide du canon PTT petite copropriété S'adapte sur toutes plaques de rue et claviers prédisposés pour recevoir un canon PTT 1 micro centrale VIGIK/Résident 1 lecteur format T25VK3 1 clé noire de proximité Centrale autonome 1 Porte VIGIK/Résidents Gestion en Local : 1000 clés MEMOPROX</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>VIT25M3</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>VIGIK + kit de residente VIT25M3</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Ideal für schnelles Barrel PTT kleinen Wohnanlage Passend für alle Straßenschilder und Tastaturen prädisponiert für ein Barrel PTT erhalten Ein Mikro zentrale VIGIK / Resident Formatieren einer Festplatte T25VK3 Ein schwarzer Schlüssel lokalen Eine autonome Zentralverriegelung mit VIGIK / Einwohner Das Management vor Ort: 1000 Schlüssel MEMOPROX Verwaltung über das Internet ohne sich zu bewegen: 5000 Schlüssel MEMOPROX (Pflanzen ab April 2011 erhältlich) mit einem Encoder PROGUSB Anzahl der Türen pro Taste: 50 Anzahl der Türen von Ort verwaltet: 128</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>VIT25M3</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>VIGIK + kit de residente VIT25M3</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Ideal for fast barrel PTT small condominium Fits all street signs and keyboards predisposed to receive a barrel PTT A micro central VIGIK / Resident Format a drive T25VK3 A black key local An autonomous central door VIGIK / Residents Local management: 1000 key MEMOPROX Management over the Internet without moving: 5000 key MEMOPROX (Plants sold from April 2011) with an encoder PROGUSB Number of doors per button: 50 Number of doors managed by site: 128</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>VIT25M3</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>VIGIK + kit de residente VIT25M3</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Ideal para el barril rápida condominio PTT pequeña Para todos los letreros de las calles y los teclados con predisposición a recibir un barril de PTT Un micro centro VIGIK / Residente Dar formato a una unidad de T25VK3 Una de las claves negro local Una de las puertas centrales autónomos VIGIK o residentes Gestión local: 1000 clave de MEMOPROX Gestión a través de Internet sin moverse: 5000 MEMOPROX clave (las plantas vendidas desde abril de 2011) con un codificador PROGUSB Número de puertas por botón: 50 Número de puertas gestionados por página: 128</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>VIT25M3</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>VIGIK kit + residente VIT25M3</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Ideale per condominio veloce PTT botte piccola Adatto a tutti i segnali stradali e tastiere predisposte per ricevere un barile PTT A VIGIK micro centrale / Resident Formattare un disco T25VK3 Un tasto nero locale Un autonomo sistema di chiusura centralizzata VIGIK / residenti Gestione locale: 1000 chiavi MEMOPROX Gestione su Internet senza muoversi: 5000 chiave MEMOPROX (piante vendute da aprile 2011) con un encoder PROGUSB Numero di porte per ogni pulsante: 50 Numero di porte gestite dal sito: 128</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>4</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM001</Numero_Enregistrement>
+        <Chrono>18</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>10/07/2012 00:27:55</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>INSTALLATION STANDARD Audio 5 FILS</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>TYPISCHE INSTALLATION Audio</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>STANDARD INSTALLATION AUDIO 5 WIRES</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Audio INSTALACIÓN ESTÁNDAR 5 HIJO</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>INSTALLAZIONE Audio STANDARD</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>3</PARAM_C>
+        <PARAM_D>4</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>1</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>True</Boolean_reserve1>
+        <Integer_reserve1>1</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>URM015</Numero_Enregistrement>
+        <Chrono>19</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>10/07/2012 23:30:42</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>AUDIO 2 FILS ELECTRONIQUE SECRET 1035</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>2 AUDIO ELECTRONIC</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>2 WIRES AUDIO ELECTRONIC SECRET 1035</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>2 HIJO DE AUDIO electrónica secreta 1035</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>2 FIGLIO SEGRETO AUDIO ELETTRONICA 1035</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>2</PARAM_C>
+        <PARAM_D>4</PARAM_D>
+        <PARAM_E>2</PARAM_E>
+        <PARAM_F>1</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>AIP001</Numero_Enregistrement>
+        <Chrono>20</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>11/07/2012 11:27:51</Date_de_creation>
+        <Titre_texte_francais>AC10S</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Clavier saillie métal injecté</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Utilisation extérieure et intérieure
+Alimentation 12 V / 24 V continu ou alternatif
+100 codes programmables par la face avant
+60 codes sur relais N°1 / 40 codes sur relais N°2
+2 relais (NO/NF) 1 A sous 24 Vac-dc ou 2 A sous 12 Vac-dc
+Sauvegarde mémoire permanente
+Réglage des temps d’ouverture de gâche
+Clavier à 4, 5 ou 6 termes numériques
+Touches rétro-éclairées et bip de fonctionnement
+Fonction blocage du clavier
+Possibilité de paramétrer le relais 2 en alarme
+Commande d’ouverture de porte par la touche “0” du clavier (horloge à prévoir)
+RAZ</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>AC10S</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Metall injiziert vorstehende Tastatur</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Innen-und Außenbereich
+Stromversorgung 12 V / 24 V DC oder AC
+100 Codes programmierbar von der Vorderseite
+60 Codes für Relais Nr. 1/40 Codes auf Relais # 2
+2 Relais (NO / NC) 1 A bei 24 V AC oder DC-2 A @ 12 Vac-dc
+Permanenter Speicher-Backup
+Einstellen Eröffnung Zeitnehmer
+Tastatur 4, 5 oder 6 digitale
+Beleuchtete Tasten und Signaltonbetrieb
+Keyboard-Lock-Funktion
+Die Fähigkeit, das Alarmrelais 2 im Set
+Befehl, um die Tür von  "0 " Taste auf der Tastatur (auf Uhr stellen) öffnen
+Zurücksetzen</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>AC10S</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Injected metal protruding keyboard</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Indoor and outdoor use
+Power supply 12 V / 24 V DC or AC
+100 codes programmable by the front face
+60 codes on relay No. 1/40 codes on relay # 2
+2 relay (NO / NC) 1 A at 24 Vac or dc-2 A @ 12 Vac-dc
+Permanent memory backup
+Setting opening time keeper
+Keyboard 4, 5 or 6 digital
+Backlit keys and beeper operation
+Keyboard Lock function
+Ability to set the alarm relay 2 in
+Command to open the door by  "0 " key on the keyboard (to provide clock)
+reset</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>AC10S</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Teclado metálico inyectado protuberantes</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Para uso en interiores y al aire libre
+Fuente de alimentación de 12 V / 24 V DC o AC
+100 códigos programables por el frontal
+60 códigos de relé N º 1/40 sobre los códigos de relé n º 2
+2 salidas de relé (NA / NC) 1 A a 24 Vca o CC-2 A @ 12 Vac-dc
+Respaldo de la memoria permanente
+Configuración de contador de tiempo de apertura
+Teclado 4, 5 o 6 digitales
+Teclas retroiluminadas y de operación zumbador
+Función de bloqueo del teclado
+Capacidad para establecer el 2 salidas de relé de alarma en
+Comando para abrir la puerta  "0 " en el teclado (para proporcionar reloj)
+reajustar</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>AC10S</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Tastiera in metallo iniettato sporgenti</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Uso interno ed esterno
+Alimentazione 12 V / 24 V DC o AC
+100 codici programmabili dalla faccia anteriore
+60 codici su relè n ° 1/40 codici su relè # 2
+2 relè (NO / NC) 1 A a 24 Vac o dc-2 A @ 12 Vac-dc
+Memoria di backup permanente
+L'impostazione di apertura cronometrista
+Tastiera 4, 5 o 6 digitale
+Tasti retroilluminati e di funzionamento beeper
+Funzione di blocco tastiera
+Possibilità di impostare il 2 relè di allarme in
+Comando per aprire la porta con il tasto  "0 " sulla tastiera (per fornire clock)
+azzerare</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>0</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>3</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>2</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+</enregistrements>

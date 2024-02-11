@@ -1,0 +1,5 @@
+<Nom_Connexion>Album photos</Nom_Connexion>
+<Adresse_Serveur>tvieil.dnsalias.com</Adresse_Serveur>
+<chaine_de_connexion>Persist Security Info=true;database=ALBUM_PHOTOS;server=tvieil.dnsalias.com;user id=TVIEIL;pwd=14071789</chaine_de_connexion>
+<Nom_de_la_base>ALBUM_PHOTOS</Nom_de_la_base>
+<langue_logiciel>3</langue_logiciel>

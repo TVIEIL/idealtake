@@ -1,0 +1,487 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ref_constructeurs>
+    <IDRef>1</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>NETZTEIL FÜR SPRECHANLAGEN</description_ref_allemand>
+    <description_ref_anglais>DOOR PHONE POWER SUPPLY</description_ref_anglais>
+    <description_ref_espagnole>ALIMENTADOR INTERFÓNICO</description_ref_espagnole>
+    <description_ref_francais>ALIMENTATION INTERPHONE</description_ref_francais>
+    <description_ref_italien>ALIMENTATORE CITOFONICO</description_ref_italien>
+    <Reference>786/11</Reference>
+    <Categorie_Ref>2</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>2</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1133</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>3</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>NETZGERÄT FÜR VIDEO-TÜRSPRECHANLAGEN</description_ref_allemand>
+    <description_ref_anglais>VIDEO POWER SUPPLY</description_ref_anglais>
+    <description_ref_espagnole>ALIMENTADOR PARA VIDEO PORTERO</description_ref_espagnole>
+    <description_ref_francais>ALIMENTATION VIDEO</description_ref_francais>
+    <description_ref_italien>ALIMENTATORE VIDEOCITOFONICO</description_ref_italien>
+    <Reference>789/5</Reference>
+    <Categorie_Ref>3</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>4</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>VERSTÄRKTER SPRECHEINSATZ MIT "ELEKTRET"-MIKROFON</description_ref_allemand>
+    <description_ref_anglais>AMPLIFIED OUTDOOR SET WITH "ELECTRET" MICROPHONE</description_ref_anglais>
+    <description_ref_espagnole>MICROALTAVOZ AMPLIFICADO CON MICROFONO DE "ELECTRETE"</description_ref_espagnole>
+    <description_ref_francais>MICRO HAUT PARLEUR AMPLIFIÉ AVEC MICROPHONE À "ELECTRET"</description_ref_francais>
+    <description_ref_italien>POSTO ESTERNO AMPLIFICATO CON MICROFONO AD "ELETTRETE"</description_ref_italien>
+    <Reference>5150/500</Reference>
+    <Categorie_Ref>15</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>5</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Kit Dreiklang-Gong.</description_ref_allemand>
+    <description_ref_anglais>Three-tone gong</description_ref_anglais>
+    <description_ref_espagnole>Kit gong de tres tonos</description_ref_espagnole>
+    <description_ref_francais>Kit gong tritonal</description_ref_francais>
+    <description_ref_italien>Kit gong tritonale</description_ref_italien>
+    <Reference>1132/54</Reference>
+    <Categorie_Ref>17</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>6</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Kit Mute-Taste und Led</description_ref_allemand>
+    <description_ref_anglais>Mute button and LED kit</description_ref_anglais>
+    <description_ref_espagnole>Kit tecla de desconexión del micrófono (mute) y led</description_ref_espagnole>
+    <description_ref_francais>Kit touche mute et diode</description_ref_francais>
+    <description_ref_italien>Kit tasto mute e led</description_ref_italien>
+    <Reference>1133/56</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>7</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zusatztasten</description_ref_allemand>
+    <description_ref_anglais>Additional buttons</description_ref_anglais>
+    <description_ref_espagnole>Teclas adicionales</description_ref_espagnole>
+    <description_ref_francais>Touches supplémentaires</description_ref_francais>
+    <description_ref_italien>Tasti addizionali</description_ref_italien>
+    <Reference>1133/55</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>8</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Halterung für die Tischinstallation</description_ref_allemand>
+    <description_ref_anglais>Table mounting stand</description_ref_anglais>
+    <description_ref_espagnole>Soporte para la instalación de sobremesa</description_ref_espagnole>
+    <description_ref_francais>Support pour installation de table</description_ref_francais>
+    <description_ref_italien>Supporto per installazione su tavolo</description_ref_italien>
+    <Reference>1133/50</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>9</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Kit Rufeinstellung NICHT montiert werden</description_ref_allemand>
+    <description_ref_anglais>Call regulator kit</description_ref_anglais>
+    <description_ref_espagnole>Kit regulador de llamada</description_ref_espagnole>
+    <description_ref_francais>Kit régulateur d’appel</description_ref_francais>
+    <description_ref_italien>Kit regolatore di chiamata</description_ref_italien>
+    <Reference>1132/53</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>10</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zusätzlicher Summer</description_ref_allemand>
+    <description_ref_anglais>Additional speaker</description_ref_anglais>
+    <description_ref_espagnole>Zumbadores adicionales</description_ref_espagnole>
+    <description_ref_francais>Ronfleurs supplémentaires</description_ref_francais>
+    <description_ref_italien>Altoparlante addizionale</description_ref_italien>
+    <Reference>9854/52</Reference>
+    <Categorie_Ref>17</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>11</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>1+1 DRAHT TÜRSPRECHANLAGE</description_ref_allemand>
+    <description_ref_anglais>Micro-hp 2 wires</description_ref_anglais>
+    <description_ref_espagnole>Micro-hijo de 2 caballos de fuerza</description_ref_espagnole>
+    <description_ref_francais>Micro-hp 2 fils</description_ref_francais>
+    <description_ref_italien>Micro-hp figlio di 2</description_ref_italien>
+    <Reference>1035/67</Reference>
+    <Categorie_Ref>15</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>12</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Transformator 12 Vac</description_ref_allemand>
+    <description_ref_anglais>Transformer 12 vac</description_ref_anglais>
+    <description_ref_espagnole>Transformador 12Vac</description_ref_espagnole>
+    <description_ref_francais>Transformateur 12 Vca</description_ref_francais>
+    <description_ref_italien>Trasformatore 12 Vac</description_ref_italien>
+    <Reference>9000/230</Reference>
+    <Categorie_Ref>1</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>13</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>RUFTONGENERATOR FÜR ANLAGEN MOD. 1035A/1+1</description_ref_allemand>
+    <description_ref_anglais>CALL SOUND GENERATOR FOR SYSTEMS MOD. 1035A/1+1</description_ref_anglais>
+    <description_ref_espagnole>GENERADOR DE SONIDO DE LLAMADA PARA SISTEMAS MOD. 1035A/1+1</description_ref_espagnole>
+    <description_ref_francais>GÈNÈRATEUR DU SON D’APPEL POUR SYSTÈMES MOD. 1035A/1+1</description_ref_francais>
+    <description_ref_italien>GENERATORE DI NOTA MOD. 1035A/1+1</description_ref_italien>
+    <Reference>787/2</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>14</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Abhörsperre</description_ref_allemand>
+    <description_ref_anglais>Secrecy device</description_ref_anglais>
+    <description_ref_espagnole>Dispositivos de secreto </description_ref_espagnole>
+    <description_ref_francais>Dispositif secret</description_ref_francais>
+    <description_ref_italien>Dispositivi segreto</description_ref_italien>
+    <Reference>1035</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>15</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais> House phones</description_ref_anglais>
+    <description_ref_espagnole>Teléfonos</description_ref_espagnole>
+    <description_ref_francais>Postes d’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1133/35A</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>16</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais> House phones</description_ref_anglais>
+    <description_ref_espagnole>Teléfonos</description_ref_espagnole>
+    <description_ref_francais>Postes d’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1133/351</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>17</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Universal-Moduluhr</description_ref_allemand>
+    <description_ref_anglais>Universal modular timer</description_ref_anglais>
+    <description_ref_espagnole>Temporizador modular universal</description_ref_espagnole>
+    <description_ref_francais>Temporisateur universel modulaire</description_ref_francais>
+    <description_ref_italien>Universale timer modulare</description_ref_italien>
+    <Reference>9406</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>18</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Nahrungsmittelhilfe-Audio</description_ref_allemand>
+    <description_ref_anglais>Food aid audio</description_ref_anglais>
+    <description_ref_espagnole>Alimentos de audio ayuda</description_ref_espagnole>
+    <description_ref_francais>Alimentation secours audio 2 fils</description_ref_francais>
+    <description_ref_italien>2 Potenza audio figlio di backup</description_ref_italien>
+    <Reference>9557/6</Reference>
+    <Categorie_Ref>2</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>19</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1134/1</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>20</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>RELAISEINHEIT FÜR DIE UMSCHALTUNG VON 2 TÜRSTATIONEN</description_ref_allemand>
+    <description_ref_anglais>DEVICE FOR AUTOMATIC SWITCHING ON 2 PUSH BUTTON PANELS </description_ref_anglais>
+    <description_ref_espagnole>DISPOSITIVO DE COMMUTACION AUTOMATICA SOBRE 2 PLACAS PULSADORAS</description_ref_espagnole>
+    <description_ref_francais>Relais de commutation pour 2 plaques de rue audio ou vidéo</description_ref_francais>
+    <description_ref_italien>DISPOSITIVO DI COMMUTAZIONE AUTOMATICA SU 2 INGRESSI</description_ref_italien>
+    <Reference>788/51</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>21</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Teller mit Tastatur Scrollen Video - Grafik-Display</description_ref_allemand>
+    <description_ref_anglais>Plate with keyboard scrolling video - graphic display</description_ref_anglais>
+    <description_ref_espagnole>Placa de video con el teclado de desplazamiento - pantalla gráfica</description_ref_espagnole>
+    <description_ref_francais>Plaque vidéo à défilement avec clavier - Afficheur graphique</description_ref_francais>
+    <description_ref_italien>Piastra con tastiera, video scorrimento - display grafico</description_ref_italien>
+    <Reference>DBG/ICV3</Reference>
+    <Categorie_Ref>12</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>22</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Videoernährung BIBUS VOP</description_ref_allemand>
+    <description_ref_anglais>Video Power Supply BIBUS VOP</description_ref_anglais>
+    <description_ref_espagnole>Alimentación Vídeo BIBUS VOP</description_ref_espagnole>
+    <description_ref_francais>Alimentation Vidéo BIBUS VOP</description_ref_francais>
+    <description_ref_italien>Alimentazione Video BIBUS VOP</description_ref_italien>
+    <Reference>1074/20</Reference>
+    <Categorie_Ref>3</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>23</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Auslöser</description_ref_allemand>
+    <description_ref_anglais>Release button</description_ref_anglais>
+    <description_ref_espagnole>Suelte el botón</description_ref_espagnole>
+    <description_ref_francais>Bouton de sortie</description_ref_francais>
+    <description_ref_italien>Rilasciare il tasto</description_ref_italien>
+    <Reference>BA/OF/90LH</Reference>
+    <Categorie_Ref>16</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>24</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Liefern</description_ref_allemand>
+    <description_ref_anglais>POWER SUPPLY</description_ref_anglais>
+    <description_ref_espagnole>ALIMENTADOR</description_ref_espagnole>
+    <description_ref_francais>ALIMENTATION</description_ref_francais>
+    <description_ref_italien>ALIMENTATORE</description_ref_italien>
+    <Reference>1140/4</Reference>
+    <Categorie_Ref>1</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>25</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Receiver Zutrittskontrolle 433 MHz</description_ref_allemand>
+    <description_ref_anglais>Receiver access control 433 MHz</description_ref_anglais>
+    <description_ref_espagnole>Receptor de control de acceso 433 MHz</description_ref_espagnole>
+    <description_ref_francais>Récepteur controle d'accès 433 MHz</description_ref_francais>
+    <description_ref_italien>Ricevitore controllo accessi 433 MHz</description_ref_italien>
+    <Reference>REC/433/2F</Reference>
+    <Categorie_Ref>19</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>26</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zentrale Zutrittskontrolle mit 2 Türen</description_ref_allemand>
+    <description_ref_anglais>Central access control 2 doors</description_ref_anglais>
+    <description_ref_espagnole>Control de acceso central con 2 puertas</description_ref_espagnole>
+    <description_ref_francais>Centrale de contrôle d'accès 2 portes</description_ref_francais>
+    <description_ref_italien>Controllo di accesso centrale con 2 porte</description_ref_italien>
+    <Reference>CV2</Reference>
+    <Categorie_Ref>13</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>27</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1172/40</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>28</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1142/42</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>29</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1172/45</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>30</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Video-Gegensprechanlage</description_ref_allemand>
+    <description_ref_anglais>video intercom</description_ref_anglais>
+    <description_ref_espagnole>videoportero</description_ref_espagnole>
+    <description_ref_francais>Interphone vidéo</description_ref_francais>
+    <description_ref_italien>videocitofono</description_ref_italien>
+    <Reference>1715/17</Reference>
+    <Categorie_Ref>7</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>31</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand> Zusätzlicher Hausstation</description_ref_allemand>
+    <description_ref_anglais> Additional door phones</description_ref_anglais>
+    <description_ref_espagnole>Teléfono suplementario </description_ref_espagnole>
+    <description_ref_francais>Poste d’appartement supplémentaires </description_ref_francais>
+    <description_ref_italien>Citofono supplementare (6 ? li)</description_ref_italien>
+    <Reference>1129/52</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>32</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zusätzlicher Läutwerk</description_ref_allemand>
+    <description_ref_anglais>Additional ringer</description_ref_anglais>
+    <description_ref_espagnole>Timbre suplementario</description_ref_espagnole>
+    <description_ref_francais>Sonnerie supplémentaires</description_ref_francais>
+    <description_ref_italien>Suoneria supplementare</description_ref_italien>
+    <Reference>9854/41</Reference>
+    <Categorie_Ref>17</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>33</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Halterung für die Tischinstallation</description_ref_allemand>
+    <description_ref_anglais>Table mounting stand</description_ref_anglais>
+    <description_ref_espagnole>Soporte para la instalación de sobremesa</description_ref_espagnole>
+    <description_ref_francais>Support pour installation de table</description_ref_francais>
+    <description_ref_italien>Supporto per installazione su tavolo</description_ref_italien>
+    <Reference>1134/50</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>34</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>AUDIO-KIT 2 DRAHT FÜR 1 FAMILIENHÄUSER </description_ref_allemand>
+    <description_ref_anglais>2-WIRE ONE FAMILY AUDIO KIT</description_ref_anglais>
+    <description_ref_espagnole>KIT AUDIO 2 HILOS UNIFAMILIAR</description_ref_espagnole>
+    <description_ref_francais>KIT AUDIO 2 FILS À 1 FAMILLE</description_ref_francais>
+    <description_ref_italien>KIT AUDIO 2 FILI MONOFAMILIARE</description_ref_italien>
+    <Reference>1129/41</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>35</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Torstelle</description_ref_allemand>
+    <description_ref_anglais>Entrance panel</description_ref_anglais>
+    <description_ref_espagnole>Portero eléctrico</description_ref_espagnole>
+    <description_ref_francais>Portier électrique</description_ref_francais>
+    <description_ref_italien>Portero eléctrico</description_ref_italien>
+    <Reference>1128/510</Reference>
+    <Categorie_Ref>15</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>36</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>KIT AUDIO V1 4 + n</description_ref_allemand>
+    <description_ref_anglais>KIT AUDIO V1 4 + n</description_ref_anglais>
+    <description_ref_espagnole>KIT AUDIO V1 4 + n</description_ref_espagnole>
+    <description_ref_francais>KIT AUDIO V1 4 + n</description_ref_francais>
+    <description_ref_italien>KIT AUDIO V1 4 + n</description_ref_italien>
+    <Reference>1129/501</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>37</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>VIDEO KIT</description_ref_allemand>
+    <description_ref_anglais>VIDEO KIT</description_ref_anglais>
+    <description_ref_espagnole>VIDEO JUEGO</description_ref_espagnole>
+    <description_ref_francais>KIT VIDEO 2 FILS MAINS LIBRES</description_ref_francais>
+    <description_ref_italien>KIT VIDEO</description_ref_italien>
+    <Reference>1722/71</Reference>
+    <Categorie_Ref>23</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>38</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>TÜRÖFFNERMODUL MIT ZAHLENKOMBINATIONSTASTATUR</description_ref_allemand>
+    <description_ref_anglais>CODE KEYBOARD</description_ref_anglais>
+    <description_ref_espagnole>TECLADO POR CÓDIGOS</description_ref_espagnole>
+    <description_ref_francais>CLAVIER A  CODES</description_ref_francais>
+    <description_ref_italien>TASTIERA A CODICE</description_ref_italien>
+    <Reference>1156/10</Reference>
+    <Categorie_Ref>4</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>39</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>TÜRÖFFNERMODUL MIT ZAHLENKOMBINATIONSTASTATUR</description_ref_allemand>
+    <description_ref_anglais>CODE KEYBOARD</description_ref_anglais>
+    <description_ref_espagnole>TECLADO POR CÓDIGOS</description_ref_espagnole>
+    <description_ref_francais>CLAVIER A  CODES</description_ref_francais>
+    <description_ref_italien>TASTIERA A CODICE</description_ref_italien>
+    <Reference>1105/3</Reference>
+    <Categorie_Ref>4</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>40</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>TÜRÖFFNERMODUL MIT ZAHLENKOMBINATIONSTASTATUR</description_ref_allemand>
+    <description_ref_anglais>CODE KEYBOARD</description_ref_anglais>
+    <description_ref_espagnole>TECLADO POR CÓDIGOS</description_ref_espagnole>
+    <description_ref_francais>CLAVIER A  CODES</description_ref_francais>
+    <description_ref_italien>TASTIERA A CODICE</description_ref_italien>
+    <Reference>141202</Reference>
+    <Categorie_Ref>4</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>41</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>TÜRÖFFNERMODUL MIT ZAHLENKOMBINATIONSTASTATUR</description_ref_allemand>
+    <description_ref_anglais>CODE KEYBOARD</description_ref_anglais>
+    <description_ref_espagnole>TECLADO POR CÓDIGOS</description_ref_espagnole>
+    <description_ref_francais>CLAVIER A  CODES</description_ref_francais>
+    <description_ref_italien>TASTIERA A CODICE</description_ref_italien>
+    <Reference>CCS</Reference>
+    <Categorie_Ref>4</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>42</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zentrale Zugriffskontrolle eine Tür lesen / schreiben</description_ref_allemand>
+    <description_ref_anglais>Central access control a door read / write</description_ref_anglais>
+    <description_ref_espagnole>Central lleva a una lectura / escritura</description_ref_espagnole>
+    <description_ref_francais>Centrale une porte lecture / écriture</description_ref_francais>
+    <description_ref_italien>Central porta di lettura / scrittura</description_ref_italien>
+    <Reference>CV1S3</Reference>
+    <Categorie_Ref>13</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>44</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Zentraler Zugriff Regeltechnik Lesen einer Tür</description_ref_allemand>
+    <description_ref_anglais>Central access control technology reading a door</description_ref_anglais>
+    <description_ref_espagnole>El acceso central tecnología de control de lectura de una puerta</description_ref_espagnole>
+    <description_ref_francais>Centrale de contrôle d'accès une porte technologie lecture</description_ref_francais>
+    <description_ref_italien>Central tecnologia di controllo dell'accesso a leggere una porta</description_ref_italien>
+    <Reference>VIT25M3</Reference>
+    <Categorie_Ref>13</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>101</IDRef>
+    <IDConstructeur>2</IDConstructeur>
+    <description_ref_allemand>Metall injiziert vorstehende Tastatur</description_ref_allemand>
+    <description_ref_anglais>Injected metal protruding keyboard</description_ref_anglais>
+    <description_ref_espagnole>Teclado metálico inyectado protuberantes</description_ref_espagnole>
+    <description_ref_francais>Clavier saillie métal injecté</description_ref_francais>
+    <description_ref_italien>Tastiera in metallo iniettato sporgenti</description_ref_italien>
+    <Reference>ACS10</Reference>
+    <Categorie_Ref>25</Categorie_Ref>
+  </ref_constructeurs>
+</NewDataSet>

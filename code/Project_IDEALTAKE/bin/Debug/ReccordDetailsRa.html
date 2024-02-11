@@ -1,0 +1,685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Details Reccord</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #8080FF;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	 height: 70px;
+        	width: 750px;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+	#Nombre_resultat
+	{
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		color: lightblue;
+		height: 23px;
+		font-weight: bold;
+	}
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	 width: 75%;
+        	border: 2px solid Black;
+        	margin: auto;
+
+        }
+
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_0
+        {
+                width: 3%;
+        }
+
+        #colonne_1
+        {
+		border-width: 15px;
+        	background-color: rgb(255, 192, 128);
+                width: 15%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_2_c
+        {
+        	border: 0px;
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		color: lightblue;
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+        </style>
+<script type="text/javascript">
+
+var Details_connexion ='Connexion : Persist Security Info=true;database=ALBUM_PHOTOS;server=tvieil.dnsalias.com;user id=TVIE\
+IL;pwd=14071789   RequêteSQLDetailsEnregistrement() - Numéro d enregistrement SELECT Numero_Enreg\
+istrement, chrono, Auteur, Date_de_creation,Titre_texte_francais, Sous_Titre_texte_francais, Comm\
+entaire_Texte_francais, Derniere_modification  FROM   ALBUM_PHOTOS .enregistrements WHERE INSTR(U\
+CASE(Numero_Enregistrement), VS2012_1 )>0; Numero_Enregistrement :VS2012_1   RequêteSQLDetailsEnr\
+egistrement() - Liste d IDRef SELECT  IDRef  FROM  ALBUM_PHOTOS .chrono_idref WHERE chrono_idref.\
+Chrono = 1;   RequêteSQLDetailsEnregistrement() - Liste des documents SELECT DOC.COMPTEUR, Concat\
+(DOC_URL.URL, DOC.Nom_Fichier_francais) AS Lien ,  DOC.Nom_Lien_francais AS Nom, DOC.Taille_fichi\
+er_Fr AS Taille, TYPE_DOC.Description_francais AS Type FROM   ALBUM_PHOTOS .enregistrements AS EN\
+R ,  ALBUM_PHOTOS .types_documents AS TYPE_DOC ,  ALBUM_PHOTOS .documents  AS DOC,  ALBUM_PHOTOS \
+.doc_url AS DOC_URL  WHERE  ENR.chrono = DOC.chrono AND DOC_URL.IDDoc=DOC.Type_Doc AND TYPE_DOC.I\
+NDICE_AUTO = DOC.Type_Doc AND   DOC.chrono = 1; Nombre de documents ajoutés : 3  Déconnexion. ';
+
+
+
+</script>
+
+
+</head>
+<body id ="Corp_0">
+<br />
+<br />
+<P id="Nombre_resultat">&nbsp;&nbsp;&nbsp;&nbsp;<a href="G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\Project_IDEALTAKE\bin\Debug\ra.html" class="Transition_1" >Retour aux r&#233;sultats</a>&nbsp;<input type="button" value="D&#233;tails de la Recherche" name="button1" onClick="alert(Details_connexion)"></P>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Ajout Enregistrement</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #0080C0;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	7height: 70px;
+        	7width: auto;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+
+        #Form_0
+	{	
+
+                position : relative; 
+		left: 7%;
+	}
+
+	#Etat_Identification
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 7%;
+	}
+	#Etat_Supprimer
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 7%;
+	}
+
+	#IndexPage_1
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative;
+		left: 7%;
+	}
+
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	width: 95%;
+        	border: 2px solid Black;
+                margin : 20px;
+                position : relative; 
+		left: 2%;
+
+        }
+
+       #IframeSymbole
+        {
+
+        	background-color: rgb(255, 255, 208);
+                /*width: 50%;*/
+        	/*border-radius: 30px;*/
+        	border: 2px solid Black;
+                margin : 0px;
+                position : relative; 
+		left: 1%;
+
+        }
+	#TitreTreeview
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #TitreLierRéférences
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #TitreLierDocuments
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 1%;
+	}
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_1
+        {
+                width: 3%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+
+        .style1
+        {
+            width: 500px;
+            border: 1px solid #00FF00;
+            /*background-color : #FF8000;*/
+            background-color: rgb(230, 177, 154);
+        }
+        .style_Commentaire_Francais
+        {
+            width: 100%;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #Label_Numero_Enregistrement
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdNumero_Enregistrement
+        {
+            width: 160px;
+        }
+        #Label_Constructeur
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdConstructeur
+        {
+            width: 160px;
+        }
+        #Label_Niveau
+        {
+            width: 340px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        #tdNiveau
+        {
+            width: 160px;
+        }
+        .style2
+        {
+            width: 200px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        .style3
+        {
+            width: 300px;
+        }
+        .style4
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 12pt;
+            color: #000000;
+        }
+        .Limitation
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 1pt;
+            background-color: #C0FF80;
+            color: #000000;
+        }
+        .Limitation2
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 10pt;
+            background-color: #C0FF80;
+            color: #000000;
+        }
+        #Nota01
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 12pt;
+            color: #cc0000;
+        }
+
+        #Titre_Recherche_enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 10pt;
+            color: #000000;
+        }
+        #Titre_Gestion_des_données
+        {
+            margin-top: 0.4cm;
+            page-break-after: avoid;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            text-decoration: underline;
+            color: #000000;
+            font-weight: bold;
+        }
+
+
+        #Titre_texte_Allemand
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Allemand
+        {
+            width: 250px;
+        }
+        #Titre_texte_Anglais
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Anglais
+        {
+            width: 250px;
+        }
+        #Titre_texte_Espagnole
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Espagnole
+        {
+            width: 250px;
+        }
+        #Titre_texte_Italien
+        {
+            width: 250px;
+        }
+        #Sous_Titre_texte_Italien
+        {
+            width: 250px;
+        }
+        #Titre_texte_francais
+        {
+        	width: 250px;
+        }
+        #Sous_Titre_texte_francais
+        {
+            width: 250px;
+        }
+        #commentaire_francais
+        {
+        }
+        #Numero_Enregistrement
+        {
+            width: 250px;
+        }
+        #Nom_Constructeur
+        {
+            width: 250px;
+        }
+        #Nbre_de_resultat_par_page
+        {
+            height: 20px;
+        }
+        #Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+        #Ajouter_reference
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+        #Réinitialiser_le_formulaire
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+
+        #Etat_Ajout_Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+
+        #Etat_Ajout_Symbole
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+        #Etat_LiensReferences_Enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+        #Etat_Liens_Documents_Transferts
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+
+
+        #Corp_page
+        {
+        	background-color : #00cccc;
+        }
+        #PARAM_A
+        {
+            position : relative; 
+	    left: 21%;
+            /*width: 300px;*/
+        }
+        #PARAM_B
+        {
+            position : relative; 
+	    left: 19%;
+            /*width: 300px;*/
+        }
+        #PARAM_C
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+        #PARAM_D
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+        #PARAM_E
+        {
+            position : relative; 
+	    left: 22%;
+            /*width: 300px;*/
+        }
+
+	#StyleHR
+	{
+	    color: #000000;
+            box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+            /*width: 90%;*/
+            /*position : relative; */
+	    /*left: 100px;*/
+	}
+    </style>
+<script language="javascript" type="text/javascript">
+
+function Enregistrement_onclick(){
+window.external.CréationEnregistrementDansLaBase();
+}
+
+function Reload_page_onclick() {
+window.location.reload();
+}
+
+function Ajouter_Reference_onclick(){
+window.external.AjouterReferenceDansLaListe();
+}
+
+function Effacer_Liste_References_onclick(){
+window.external.EffacerListeReferences();
+}
+
+function Lier_references_enregistrement_onclick(){
+window.external.LierListeReferencesAvecEnregistrement();
+}
+
+function Annulation_Liens_references_enregistrement_onclick(){
+window.external.AnnulationDesLiensReferencesAvecEnregistrement();
+}
+
+function Liens_Documents_et_Transferts_onclick(){
+window.external.SoftDeLiensDocumentsEtTransferts();
+}
+
+
+<table  id="Table_0">
+<div  id="Table_1" >
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/1/01.bmp" target="New[ID]">Moi</a><br />Portrait<br />300 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/9/P8200011.JPG" target="New[ID]">Plongée à Fuerteventura 07_2012</a><br />Mer - Plage<br />69 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/1/M11.bmp" target="New[ID]">Photo de moi</a><br />Portrait<br />225 Ko</td>
+
+</div></table>&nbsp;
+&nbsp;
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;" class="Transition_1" onClick="window.external.CloseWebBrowser('WebBrowser2');">Fermeture de la page</a>
+</body>
+</html>

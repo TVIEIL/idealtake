@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sauvegarde>
+    <schema>Album photos_ALBUM_PHOTOS_1492012_16438_schema.xml</schema>
+    <PARAM_C>Album photos_ALBUM_PHOTOS_1492012_16438_table_c.xml</PARAM_C>
+    <PARAM_B>Album photos_ALBUM_PHOTOS_1492012_16438_table_b.xml</PARAM_B>
+    <PARAM_D>Album photos_ALBUM_PHOTOS_1492012_16438_table_d.xml</PARAM_D>
+    <PARAM_E>Album photos_ALBUM_PHOTOS_1492012_16438_table_e.xml</PARAM_E>
+    <PARAM_A>Album photos_ALBUM_PHOTOS_1492012_16438_table_a.xml</PARAM_A>
+    <niveau_acces>Album photos_ALBUM_PHOTOS_1492012_16438_niveau_acces.xml</niveau_acces>
+    <constructeurs>Album photos_ALBUM_PHOTOS_1492012_16438_constructeurs.xml</constructeurs>
+    <types_documents>Album photos_ALBUM_PHOTOS_1492012_16438_types_documents.xml</types_documents>
+    <doc_url>Album photos_ALBUM_PHOTOS_1492012_16438_doc_url.xml</doc_url>
+    <categories>Album photos_ALBUM_PHOTOS_1492012_16438_categories.xml</categories>
+    <ref_constructeurs>Album photos_ALBUM_PHOTOS_1492012_16438_ref_constructeurs.xml</ref_constructeurs>
+    <table_xaml>Album photos_ALBUM_PHOTOS_1492012_16438_table_xaml.xml</table_xaml>
+    <messages_utilisateur>Album photos_ALBUM_PHOTOS_1492012_16438_messages_utilisateur.xml</messages_utilisateur>
+    <enregistrements>Album photos_ALBUM_PHOTOS_1492012_16438_enregistrements.xml</enregistrements>
+    <chrono_idref>Album photos_ALBUM_PHOTOS_1492012_16438_chrono_idref.xml</chrono_idref>
+    <documents>Album photos_ALBUM_PHOTOS_1492012_16438_documents.xml</documents>
+    <elements_winform>Album photos_ALBUM_PHOTOS_1492012_16438_elements_winform.xml</elements_winform>
+    <racine_zero>Album photos_ALBUM_PHOTOS_1492012_16438_racine_zero.xml</racine_zero>
+    <racine1>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_un.xml</racine1>
+    <racine2>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_deux.xml</racine2>
+    <racine3>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_trois.xml</racine3>
+    <racine4>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_quatre.xml</racine4>
+    <racine5>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_cinq.xml</racine5>
+    <racine6>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_six.xml</racine6>
+    <racine7>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_sept.xml</racine7>
+    <racine8>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_huit.xml</racine8>
+    <racine9>Album photos_ALBUM_PHOTOS_1492012_16438_racine_moin_neuf.xml</racine9>
+    <elements_html>Album photos_ALBUM_PHOTOS_1492012_16438_elements_html.xml</elements_html>
+    <HISTORY_EVENTS>Album photos_ALBUM_PHOTOS_1492012_16438_HISTORY_EVENTS.xml</HISTORY_EVENTS>
+    <Users>Album photos_ALBUM_PHOTOS_1492012_16438_Users.xml</Users>
+    <Questions>Album photos_ALBUM_PHOTOS_1492012_16438_Questions.xml</Questions>
+</Sauvegarde>

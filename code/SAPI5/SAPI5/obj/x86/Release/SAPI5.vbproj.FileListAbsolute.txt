@@ -1,0 +1,14 @@
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Release\SAPI5.exe.config
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Release\SAPI5.exe
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Release\SAPI5.pdb
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Release\SAPI5.xml
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\SAPI5.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\Formulaire_SAPI.Formulaire_SAPI.resources
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\Formulaire_SAPI.Resources.resources
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\SAPI5.exe
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\SAPI5.xml
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Release\SAPI5.pdb

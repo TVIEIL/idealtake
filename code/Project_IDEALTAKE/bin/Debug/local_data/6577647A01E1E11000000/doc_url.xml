@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>1</IDDoc>
+    <URL>c:\TEST001\</URL>
+    <COMPTEUR>1</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>2</IDDoc>
+    <URL>c:\TEST001\</URL>
+    <COMPTEUR>2</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>3</IDDoc>
+    <URL>c:\TEST001\</URL>
+    <COMPTEUR>3</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>4</IDDoc>
+    <URL>c:\TEST001\</URL>
+    <COMPTEUR>4</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>5</IDDoc>
+    <URL>c:\TEST001\</URL>
+    <COMPTEUR>5</COMPTEUR>
+  </doc_url>
+</NewDataSet>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enregistrements>
+    <DATA>
+        <Numero_Enregistrement>TEST 001</Numero_Enregistrement>
+        <Chrono>1</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>21/08/2013 19:27:35</Date_de_creation>
+        <Titre_texte_francais>001</Titre_texte_francais>
+        <Sous_Titre_texte_francais>ST 001</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>- Pas d'information -</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>001</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>ST 001</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>- Kein Information -</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>001</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>ST 001</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>- No Information -</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>001</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>ST 001</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>- No Información -</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>001</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>ST 001</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>- Non Informazione -</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>0</PARAM_A>
+        <PARAM_B>2</PARAM_B>
+        <PARAM_C>2</PARAM_C>
+        <PARAM_D>3</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-0-0</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>True</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+</enregistrements>

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <DATA>
+        <Indice_AUTO>1</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Elektrische Stromversorgung</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Power supply</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Alimentación de energía</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Alimentation</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Alimentatore</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>2</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Netzteil für sprechanlagen</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Audio door phone power supply</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Alimentador interfónico</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Alimentation interphone audio</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Alimentatore citofonico</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>3</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Netzgerät für video-türsprechanlagen</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Video power supply</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Alimentador para video portero</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Alimentation interphone vidéo</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Alimentatore videocitofonico</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>4</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Türöffner mit tastatur</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Digital keypad</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Módulo de apertura de la puerta con teclado</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Clavier codé</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Modulo apriporta con tastiera</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>5</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Lesemodul</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Proximity reader</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Módulo lector</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Lecteur de proximité</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Modulo lettore</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>6</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Sprechanlagen</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Audio door phone</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Interfónico</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Interphone audio</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Citofonico</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>7</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Video-türsprechanlagen</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Video door phone</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Video portero</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Interphone vidéo</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Videocitofonico</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>8</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Warze</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Lock system</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Verruga</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Verrouillage</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Chiusura</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>9</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Akustisch Türstation mit Schalter</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Audio push button panel</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Audio Módulo pulsadores</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Platine de rue audio à bouton</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Audio modulo pulsante</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>10</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Video-Türstation mit Schalter </TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Video push button panel</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Video Módulo pulsadores</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Platine de rue Vidéo à bouton</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Video modulo pulsante</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>11</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Akustisch Rufmodul mit Namensregister</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Audio call module with directory</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Audio módulo de llamada con repertorio</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Platine de rue audio numérique</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Audio modulo di chiamata con repertorio</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>12</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Video Rufmodul mit Namensregister</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Video call module with directory</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Video módulo de llamada con repertorio</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Platine de rue vidéo numérique</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Video modulo di chiamata con repertorio</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>13</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Zentrale</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Access control unit</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Unidad central</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Centrale de contrôle d'acces</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Centralina</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>14</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>TV-Kamera-Einheit</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>TV camera unit</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Unidad de telecámara</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Caméra vidéo</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Unità di ripresa</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>15</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Verstärkter Sprecheinsatz</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Amplified outdoor set</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Microaltavoz amplificado con microfono</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Micro haut parleur amplifié</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Posto esterno amplificato con microfono</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>16</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Schalter</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Button</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Pulsadores</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Bouton</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Pulsante</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>17</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Klingelanlage</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Ring</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Círculo</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Sonnerie</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Suonare</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>18</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Zeichen Licht</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Mark Light</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Señal luminoso</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Voyant</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Segnale luminoso</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>19</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Radio Empfänger</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Radio Receiver</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Radio receptor</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Récepteur radio</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Radio ricevitore</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>20</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Radio Sender</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Radio remote control</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Transmisor</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Télécommande radio</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Telecomando</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>21</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Software</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Software</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Software</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Logiciel</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Software</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>22</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Lesemodul metrisch</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Biometric reader</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Lector métrico</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Lecteur biométrique</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Lettore Metrico</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>23</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>Verschieden</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>Various</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>Diverso</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Divers</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>Diversi</TYPE_REFERENCE_italien>
+    </DATA>
+    <DATA>
+        <Indice_AUTO>24</Indice_AUTO>
+        <IDConstructeur>1</IDConstructeur>
+        <TYPE_REFERENCE_allemand>RFID TAG</TYPE_REFERENCE_allemand>
+        <TYPE_REFERENCE_anglais>RFID TAG</TYPE_REFERENCE_anglais>
+        <TYPE_REFERENCE_espagnole>RFID TAG Proximity key</TYPE_REFERENCE_espagnole>
+        <TYPE_REFERENCE_francais>Badge de proximité</TYPE_REFERENCE_francais>
+        <TYPE_REFERENCE_italien>RFID TAG</TYPE_REFERENCE_italien>
+    </DATA>
+</categories>

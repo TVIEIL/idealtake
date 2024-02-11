@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chrono_idref>
+    <DATA>
+        <Chrono>1</Chrono>
+        <IDRef>2</IDRef>
+        <Quantite_Ref>nul</Quantite_Ref>
+        <Compteur>1</Compteur>
+    </DATA>
+    <DATA>
+        <Chrono>1</Chrono>
+        <IDRef>4</IDRef>
+        <Quantite_Ref>nul</Quantite_Ref>
+        <Compteur>2</Compteur>
+    </DATA>
+    <DATA>
+        <Chrono>1</Chrono>
+        <IDRef>1</IDRef>
+        <Quantite_Ref>nul</Quantite_Ref>
+        <Compteur>3</Compteur>
+    </DATA>
+    <DATA>
+        <Chrono>1</Chrono>
+        <IDRef>3</IDRef>
+        <Quantite_Ref>nul</Quantite_Ref>
+        <Compteur>4</Compteur>
+    </DATA>
+</chrono_idref>

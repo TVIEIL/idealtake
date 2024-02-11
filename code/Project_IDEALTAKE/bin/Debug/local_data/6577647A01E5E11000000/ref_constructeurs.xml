@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ref_constructeurs>
+    <IDRef>1</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>NETZTEIL FÜR SPRECHANLAGEN</description_ref_allemand>
+    <description_ref_anglais>DOOR PHONE POWER SUPPLY</description_ref_anglais>
+    <description_ref_espagnole>ALIMENTADOR INTERFÓNICO</description_ref_espagnole>
+    <description_ref_francais>ALIMENTATION INTERPHONE</description_ref_francais>
+    <description_ref_italien>ALIMENTATORE CITOFONICO</description_ref_italien>
+    <Reference>786/11</Reference>
+    <Categorie_Ref>2</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>2</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>Haustelefone</description_ref_allemand>
+    <description_ref_anglais>House phone</description_ref_anglais>
+    <description_ref_espagnole>Interfono</description_ref_espagnole>
+    <description_ref_francais>Postes d’’appartement</description_ref_francais>
+    <description_ref_italien>Citofoni</description_ref_italien>
+    <Reference>1133</Reference>
+    <Categorie_Ref>6</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>3</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>NETZGERÄT FÜR VIDEO-TÜRSPRECHANLAGEN</description_ref_allemand>
+    <description_ref_anglais>VIDEO POWER SUPPLY</description_ref_anglais>
+    <description_ref_espagnole>ALIMENTADOR PARA VIDEO PORTERO</description_ref_espagnole>
+    <description_ref_francais>ALIMENTATION VIDEO</description_ref_francais>
+    <description_ref_italien>ALIMENTATORE VIDEOCITOFONICO</description_ref_italien>
+    <Reference>789/5</Reference>
+    <Categorie_Ref>3</Categorie_Ref>
+  </ref_constructeurs>
+  <ref_constructeurs>
+    <IDRef>4</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>VERSTÄRKTER SPRECHEINSATZ MIT "ELEKTRET"-MIKROFON</description_ref_allemand>
+    <description_ref_anglais>AMPLIFIED OUTDOOR SET WITH "ELECTRET" MICROPHONE</description_ref_anglais>
+    <description_ref_espagnole>MICROALTAVOZ AMPLIFICADO CON MICROFONO DE "ELECTRETE"</description_ref_espagnole>
+    <description_ref_francais>MICRO HAUT PARLEUR AMPLIFIÉ AVEC MICROPHONE À "ELECTRET"</description_ref_francais>
+    <description_ref_italien>POSTO ESTERNO AMPLIFICATO CON MICROFONO AD "ELETTRETE"</description_ref_italien>
+    <Reference>5150/500</Reference>
+    <Categorie_Ref>15</Categorie_Ref>
+  </ref_constructeurs>
+</NewDataSet>

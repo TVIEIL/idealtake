@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Liste_des_connexions>
+    <Connexion />
+    <Connexion>
+        <Nom_Connexion>Multimedia</Nom_Connexion>
+        <Adresse_Serveur>idealtake.dyndns-ip.com</Adresse_Serveur>
+        <Utilisateur>IDEALTAKE</Utilisateur>
+        <mot_de_passe>IDEALTAKE</mot_de_passe>
+        <Nom_de_la_base>ALBUM_PHOTOS</Nom_de_la_base>
+        <Description_Allemande>Diese Datenbank ermöglicht die Verwaltung Ihrer
+Musik, Bilder, Videos, Dokumente...
+        </Description_Allemande>
+        <Description_Anglaise>This database allows managing your
+Music, Pictures, Videos, Documents...
+        </Description_Anglaise>
+        <Description_Espagnole>Esta base de datos permite la gestión de su
+Música, Imágenes, Vídeos, Documentos
+        </Description_Espagnole>
+        <Description_Française>Cette base permet la gestion de vos
+Musiques, Photos, Vidéos, documents...
+        </Description_Française>
+        <Description_Italienne>Questa banca dati permette di gestire la vostra
+Musica, foto, video, documenti...
+        </Description_Italienne>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>DEMO Access control &amp; Intercoms</Nom_Connexion>
+        <Adresse_Serveur>idealtake.dyndns-ip.com</Adresse_Serveur>
+        <Utilisateur>IDEALTAKE</Utilisateur>
+        <mot_de_passe>IDEALTAKE</mot_de_passe>
+        <Nom_de_la_base>DEMO</Nom_de_la_base>
+        <Description_Allemande>Basierend auf Zutrittskontrollsysteme und
+Sprechanlagen</Description_Allemande>
+        <Description_Anglaise>Based on access control systems and intercoms</Description_Anglaise>
+        <Description_Espagnole>Basado en los sistemas de control de acceso y
+los intercomunicadores</Description_Espagnole>
+        <Description_Française>Base sur des systèmes de contrôle d'accès et
+d'interphones</Description_Française>
+        <Description_Italienne>Sulla base di sistemi di controllo accessi
+e citofoni</Description_Italienne>
+    </Connexion>
+</Liste_des_connexions>

@@ -1,0 +1,5532 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CLASS_IDEALTAKE
+</name>
+</assembly>
+<members>
+<member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.ID_HISTORY_EVENTS">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+obj1.ID_HISTORY_EVENTS = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_HISTORY_EVENTS</c> est un entier identifiant de façon unique un événement de l'historique.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Date_evenement">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Date_evenement = "14/07/1789..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Date_evenement</c> indique la date d'un événement de l'historique.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.User_ID">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.User_ID = "Victor007"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>User_ID</c> indique le nom de l'utilisateur à l'origine de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.IP">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.IP = "217.235.21.15"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>IP</c> indique l'I.P de l'utilisateur à l'origine de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Name_of_Computer">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Name_of_Computer = "Victor_computer"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Name_of_Computer</c> indique le nom de l'ordinateur à l'origine de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Operating_System">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Operating_System = "Windows 7"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Operating_System</c> indique le nom du système d'exploitation à l'origine de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Action">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Action = "Delete"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Action</c> indique le type d'action à l'origine de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Table_Name">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Table_Name = "Enregistrements"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Table_Name</c> indique le nom de la table lié à l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.ID_Record">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.ID_Record = "2153"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>ID_Record</c> indique le numéro d'enregistrement lié à l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.SQL_String">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.SQL_String = "SELECT * FROM..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>SQL_String</c> requête SQL de l'événement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS.Result_Action">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS
+Obj1.Result_Action = "Failed"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Result_Action</c> indique le statut de la requête SQL.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.HISTORY_EVENTS">
+	<summary>
+ La classe HISTORY_EVENTS stocke l'historique de l'activité sur la base.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.ID_Message">
+	<remarks>
+		<example>
+			<code>
+Dim ID_Message As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+ID_Message.ID_Message = 23
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_Message</c> est un entier identifiant de façon unique un message utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Type_Message">
+	<remarks>
+		<example>
+			<code>
+Dim Type_Message As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+Type_Message.Type_Message = "Information"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_Message</c> est une chaîne identifiant la nature du message utilisateur
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim description_Anglais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+description_Anglais.Anglais = "Close this form"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Anglais</c> est une chaîne contenant un message utilisateur en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim description_msg As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+description_msg.Allemand = "Das ist gut"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Allemand</c> est une chaîne contenant un message utilisateur en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim description_msg As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+description_msg.Espagnole = "hola"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Espagnole</c> est une chaîne contenant un message utilisateur en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Italien">
+	<remarks>
+		<example>
+			<code>
+Dim description_msg As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+description_msg.Italien = "Mangare"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Italien</c> est une chaîne contenant un message utilisateur en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur.Francais">
+	<remarks>
+		<example>
+			<code>
+Dim description_msg As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur
+description_msg.Francais = "Bonjour"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Francais</c> est une chaîne contenant un message utilisateur en Français.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.messages_utilisateur">
+	<summary>
+ La classe messages_utilisateur manipule des messages utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim Centrale As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Centrale.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant de façon unique le type de contrôle d'acces.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le type de contrôle en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_LOGICIEL_anglais = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_anglais</c> est une chaîne décrivant le type de contrôle en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_LOGICIEL_allemand = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_allemand</c> est une chaîne décrivant le type de contrôle  en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_LOGICIEL_espagnole = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_espagnole</c> est une chaîne décrivant le type de contrôle en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_LOGICIEL_italien = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_italien</c> est une chaîne décrivant le type de contrôle en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.VALEUR_REELLE = "Centrale Vigik/Résidents"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c> est une chaîne historiquement utilisée comme valeur stockée dans la table SCHEMA maintenant ENREGISTREMENTS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E
+Str_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur se servant de ce type de contrôle.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_E">
+	<summary>
+ La classe PARAM_E (Anciennement : menu_controle_acces) détermine le type de centrale au clavier qui autorise l'entrée.
+ le nom PARAM_E rend la propriété utilisable dans d'autres domaines.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef.Chrono">
+	<remarks>
+		<example>
+			<code>
+Dim num_Chrono As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef
+num_Chrono.Chrono = 4
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ Le champ <c>Chrono</c> indique le numéro d'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef.IDRef">
+	<remarks>
+		<example>
+			<code>
+Dim num_IDRef As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef
+num_IDRef.IDRef = 23
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ Le champ <c>IDRef</c> indique le numéro d'une référence.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef.Quantite_Ref">
+	<remarks>
+		<example>
+			<code>
+Dim Quantité_Ref As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef
+Quantité_Ref.Quantite_Ref = "2 ou 3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Quantite_Ref</c> indique le nombre (sous la forme d'une chaîne) de référence ou une description des besoins.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Chrono_IDRef">
+	<summary>
+ La classe Chrono_IDRef met en relation une référence 'Ref' avec un numéro d'enregistrement unique 'Chrono'.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.ID_SR2">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.ID_SR2 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR2</c> est un entier identifiant de façon unique la rubrique en Racine -2.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.ID_SR1">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.ID_SR1 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR1</c> est un entier identifiant de façon unique la rubrique en Racine -1.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_R_moin_2.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_2 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2
+obj_2.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_2">
+	<summary>
+ La classe racine_moin_2 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Chrono">
+	<remarks>
+		<example>
+			<code>
+Dim num_Chrono As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+num_Chrono.Chrono = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Chrono</c> est un entier identifiant de façon unique un document lié à un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Lien_francais">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Lien_francais = "Notice_du_clavier"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Lien_francais</c> est une chaîne identifiant un document lié à un enregistrement en langue Française.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Lien_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Lien_anglais = "Notice_du_clavier"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Lien_anglais</c> est une chaîne identifiant un document lié à un enregistrement en langue Anglaise.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Lien_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Lien_allemand = "Notice_du_clavier"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Lien_allemand</c> est une chaîne identifiant un document lié à un enregistrement en langue Allemande.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Lien_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Lien_espagnole = "Notice_du_clavier"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Lien_espagnole</c> est une chaîne identifiant un document lié à un enregistrement en langue Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Lien_italien">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Lien_italien = "Notice_du_clavier"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Lien_italien</c> est une chaîne identifiant un document lié à un enregistrement en langue Italienne.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Type_Doc">
+	<remarks>
+		<example>
+			<code>
+Dim Type_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+Type_Doc.Nom_Document_italien = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_Doc</c> est un entier identifiant le type de document.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Fichier_francais">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Fichier_francais = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Fichier_francais</c> est une chaîne identifiant le nom d'un document lié à un enregistrement en langue Française.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Fichier_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Fichier_anglais = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Fichier_anglais</c> est une chaîne identifiant le nom d'un document lié à un enregistrement en langue Anglaise.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Fichier_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Fichier_allemand = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Fichier_allemand</c> est une chaîne identifiant le nom d'un document lié à un enregistrement en langue Allemande.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Fichier_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Fichier_espagnole = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Fichier_espagnole</c> est une chaîne identifiant le nom d'un document lié à un enregistrement en langue Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Nom_Fichier_italien">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Nom_Fichier_italien = "Notice_du_clavier_001.pdf"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Fichier_italien</c> est une chaîne identifiant le nom d'un document lié à un enregistrement en langue Italienne.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Taille_fichier_Fr">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Taille_fichier_Fr = "200 Ko"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Taille_fichier_Fr</c> est une chaîne représentant la taille du document.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Taille_fichier_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Taille_fichier_anglais = "200 Ko"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Taille_fichier_anglais</c> est une chaîne représentant la taille du document version anglaise.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Taille_fichier_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Taille_fichier_allemand = "200 Ko"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Taille_fichier_allemand</c> est une chaîne représentant la taille du document version Allemande.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Taille_fichier_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Taille_fichier_espagnole = "200 Ko"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Taille_fichier_espagnole</c> est une chaîne représentant la taille du document version Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Taille_fichier_italien">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Taille_fichier_italien = "200 Ko"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Taille_fichier_italien</c> est une chaîne représentant la taille du document version Italienne.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Largeur">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Largeur = "200"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Largeur</c> est une chaîne représentant la largeur d'une image prévisualisable en miniature grace au ratio de l'image.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document.Hauteur">
+	<remarks>
+		<example>
+			<code>
+Dim nom_Doc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document
+nom_Doc.Hauteur = "200"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Hauteur</c> est une chaîne représentant la hauteur d'une image prévisualisable en miniature grace au ratio de l'image.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.document">
+	<summary>
+ La classe document stocke le nom de fichier et le type de document pour un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Doc_URL.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim num_IDConstructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+num_IDConstructeur.IDConstructeur = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant de façon unique le constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Doc_URL.IDDoc">
+	<remarks>
+		<example>
+			<code>
+Dim Num_IDDoc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Num_IDDoc.IDDoc = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDDoc</c> est un entier identifiant de façon unique le type de document.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Doc_URL.URL">
+	<remarks>
+		<example>
+			<code>
+Dim URL1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+URL1.URL = "http://www.monsite.fr/doc1/"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>URL</c> est une chaîne fournissant l'URL d'un type de document.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Doc_URL">
+	<summary>
+ La classe Doc_URL donne l'URL d'un document en fonction du type de document un entier et un identifiant constructeur un entier également.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.ID_SR9">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.ID_SR9 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR9</c> est un entier identifiant de façon unique la rubrique en Racine -9.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.ID_SR8">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.ID_SR8 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR8</c> est un entier identifiant de façon unique la rubrique en Racine -8.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_R_moin_9.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_9 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9
+obj_9.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_9">
+	<summary>
+ La classe racine_moin_9 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.ID_elements_HTML">
+	<remarks>
+		<example>
+			<code>
+Dim num_ID_elements_HTML As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+num_ID_elements_HTML.ID_elements_HTML = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_elements_HTML</c> est un entier identifiant de façon unique un élément HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Name_of_page">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_Name_of_page As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj_Name_of_page.Name_of_page = "Advanced_Research"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Name_of_page</c> indique le nom de la page dans lequel se trouve l'élément HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Additional_Name">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_Name_of_page As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj_Name_of_page.Additional_Name = "Récupération mot de passe"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Additional_Name</c> indique le nom de la page dans lequel se trouve l'élément HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Position_in_page">
+	<remarks>
+		<example>
+			<code>
+Dim num_Position_in_page As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+num_Position_in_page.Position_in_page = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Position_in_page</c> est un entier identifiant de façon unique la position de l'élément dans la page HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Name_of_TAG">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.Name_of_TAG = "Advanced_Research"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Name_of_TAG</c> indique le nom de la page dans lequel se trouve l'élément HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.German_CODE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.German_CODE = "<a>Test</a>"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>German_CODE</c> code de l'élément HTML en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.English_CODE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.English_CODE = "<a>Test</a>"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>English_CODE</c> code de l'élément HTML en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Spanish_CODE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.Spanish_CODE = "<a>Test</a>"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Spanish_CODE</c> code de l'élément HTML en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.French_CODE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.French_CODE = "<a>Test</a>"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>French_CODE</c> code de l'élément HTML en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML.Italian_CODE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML
+Obj1.Italian_CODE = "<a>Test</a>"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Italian_CODE</c> code de l'élément HTML en Français.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_HTML">
+	<summary>
+ La classe Elements_HTML stocke du code HTML permettant de crééer les interafes utilisateurs.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.IDElements_Windows_Forms">
+	<remarks>
+		<example>
+			<code>
+Dim num_IDElements_Windows_Forms As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+num_IDElements_Windows_Forms.IDElements_Windows_Forms = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDElements_Windows_Forms</c> est un entier identifiant de façon unique un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim num_IDConstructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+num_IDConstructeur.IDConstructeur = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant de façon unique un constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.AutoCompleteMode">
+	<remarks>
+ AutoCompleteMode.None = 0,
+ AutoCompleteMode.Suggest = 1,                                                          
+ AutoCompleteMode.Append = 2,                                                             
+ AutoCompleteMode.SuggestAppend = 3;                                                    
+ 
+ <example>
+			<code>
+Dim num_IDConstructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+num_IDConstructeur.AutoCompleteMode = ...
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>AutoCompleteMode</c>
+	</summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.AutoCompleteSource">
+	<remarks>
+ AutoCompleteSource.FileSystem = 1,
+ AutoCompleteSource.HistoryList = 2,
+ AutoCompleteSource.RecentlyUsedList = 4,
+ AutoCompleteSource.AllUrl = 6,
+ AutoCompleteSource.AllSystemSources = 7,
+ AutoCompleteSource.FileSystemDirectories = 32,
+ AutoCompleteSource.CustomSource = 64,
+ AutoCompleteSource.None = 128,
+ AutoCompleteSource.ListItems = 256;
+ 
+ <example>
+			<code>
+Dim num_IDConstructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+num_IDConstructeur.AutoCompleteSource = ...
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>AutoCompleteSource</c>
+	</summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.BackColor">
+	<remarks>
+ 
+ aliceblue #F0F8FF,
+ antiquewhite #FAEBD7,
+ aqua #00FFFF,
+ aquamarine #7FFFD4,
+ azure #F0FFFF,
+ beige #F5F5DC,
+ bisque #FFE4C4,
+ black #000000,
+ blanchedalmond #FFEBCD,
+ blue #0000FF,
+ blueviolet #8A2BE2,
+ brown #A52A2A,
+ burlywood #DEB887,
+ cadetblue #5F9EA0,
+ chartreuse #7FFF00,
+ chocolate #D2691E,
+ coral #FF7F50,
+ cornflowerblue #6495ED,
+ cornsilk #FFF8DC,
+ crimson #DC143C,
+ cyan #00FFFF,
+ darkblue #00008B,
+ darkcyan #008B8B,
+ darkgoldenrod #B8860B,
+ darkgray #A9A9A9,
+ darkgreen #006400,
+ darkkhaki #BDB76B,
+ darkmagenta #8B008B,
+ darkolivegreen #556B2F,
+ darkorange #FF8C00,
+ darkorchid #9932CC,
+ darkred #8B0000,
+ darksalmon #E9967A,
+ darkseagreen #8FBC8F,
+ darkslateblue #483D8B,
+ darkslategray #2F4F4F,
+ darkturquoise #00CED1,
+ darkviolet #9400D3,
+ deeppink #FF1493,
+ deepskyblue #00BFFF,
+ dimgray #696969,
+ dodgerblue #1E90FF,
+ firebrick #B22222,
+ floralwhite #FFFAF0,
+ forestgreen #228B22,
+ fuchsia #FF00FF,
+ gainsboro #DCDCDC,
+ ghostwhite #F8F8FF,
+ gold #FFD700,
+ goldenrod #DAA520,
+ gray #808080,
+ green #008000,
+ greenyellow #ADFF2F,
+ honeydew #F0FFF0,
+ hotpink #FF69B4,
+ indianred #CD5C5C,
+ indigo #4B0082,
+ ivory #FFFFF0,
+ khaki #F0E68C,
+ lavender #E6E6FA,
+ lavenderblush #FFF0F5,
+ lawngreen #7CFC00,
+ lemonchiffon #FFFACD,
+ lightblue #ADD8E6,
+ lightcoral #F08080,
+ lightcyan #E0FFFF,
+ lightgoldenrodyellow #FAFAD2,
+ lightgreen #90EE90,
+ lightgrey #D3D3D3,
+ lightpink #FFB6C1,
+ lightsalmon #FFA07A,
+ lightseagreen #20B2AA,
+ lightskyblue #87CEFA,
+ lightslategray #778899,
+ lightsteelblue #B0C4DE,
+ lightyellow #FFFFE0,
+ lime #00FF00,
+ limegreen #32CD32,
+ linen #FAF0E6,
+ magenta #FF00FF,
+ maroon #800000,
+ mediumaquamarine #66CDAA,
+ mediumblue #0000CD,
+ mediumorchid #BA55D3,
+ mediumpurple #9370DB,
+ mediumseagreen #3CB371,
+ mediumslateblue #7B68EE,
+ mediumspringgreen #00FA9A,
+ mediumturquoise #48D1CC,
+ mediumvioletred #C71585,
+ midnightblue #191970,
+ mintcream #F5FFFA,
+ mistyrose #FFE4E1,
+ moccasin #FFE4B5,
+ navajowhite #FFDEAD,
+ navy #000080,
+ oldlace #FDF5E6,
+ olive #808000,
+ olivedrab #6B8E23,
+ orange #FFA500,
+ orangered #FF4500,
+ orchid #DA70D6,
+ palegoldenrod #EEE8AA,
+ palegreen #98FB98,
+ paleturquoise #AFEEEE,
+ palevioletred #DB7093,
+ papayawhip #FFEFD5,
+ peachpuff #FFDAB9,
+ peru #CD853F,
+ pink #FFC0CB,
+ plum #DDA0DD,
+ powderblue #B0E0E6,
+ purple #800080,
+ red #FF0000,
+ rosybrown #BC8F8F,
+ royalblue #4169E1,
+ saddlebrown #8B4513,
+ salmon #FA8072,
+ sandybrown #F4A460,
+ seagreen #2E8B57,
+ seashell #FFF5EE,
+ sienna #A0522D,
+ silver #C0C0C0,
+ skyblue #87CEEB,
+ slateblue #6A5ACD,
+ slategray #708090,
+ snow #FFFAFA,
+ springgreen #00FF7F,
+ steelblue #4682B4,
+ tan #D2B48C,
+ teal #008080,
+ thistle #D8BFD8,
+ tomato #FF6347,
+ turquoise #40E0D0,
+ violet #EE82EE,
+ wheat #F5DEB3,
+ white #FFFFFF,
+ whitesmoke #F5F5F5,
+ yellow #FFFF00,
+ yellowgreen #9ACD32
+ ;
+ 
+ <example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.BackColor = "white"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>BackColor</c> est une chaîne représentant la couleur de fond d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Background_image">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Background_image = "image.jpg"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Background_image</c> est une chaîne représentant le nom de fichier d'une image d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.BackGroungImageLayout">
+	<remarks>
+ ImageLayout.None = 0,
+ ImageLayout.Tile = 1,
+ ImageLayout.Center = 2,
+ ImageLayout.Stretch =3,
+ ImageLayout.Zoom = 4;
+ <example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.BackGroungImageLayout = "(AUCUN)"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>BackGroungImageLayout</c> est une chaîne qui définit l'image d'arrière
+ plan pour le contrôle.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.BorderStyle">
+	<remarks>
+ 0 = BorderStyle.None,
+ 1 = BorderStyle.FixedSingle,
+ 2 = BorderStyle.Fixed3D;
+ <example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.BorderStyle = ...
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ Propriété <c>BorderStyle</c>
+	</summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.CheckStateChanged">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.CheckStateChanged = "Function01"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>CheckStateChanged</c> indique la fonction répondant à cet événement
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Click">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Click = "Function01"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Click</c> indique la fonction répondant à cet événement
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Cursor">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Cursor = "Hand"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Cursor</c> est une chaîne indiquant l'apparence du curseur
+ du curseur au passage du pointeur sur le contrôle.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Dock">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Dock = "None"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Dock</c> est une chaîne qui définit les bordures du
+ contrôle liées au conteneur.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.DropDownHeight">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.DropDownHeight = 8
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>DropDownHeight</c> est un entier indiquant la hauteur d'un DropDown.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.DropDownStyle">
+	<remarks>
+ 0 = ComboBoxStyle.Simple,
+ 1 = ComboBoxStyle.DropDown,
+ 2 = ComboBoxStyle.DropDownList;
+ <example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.DropDownStyle = "DropDown"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>DropDownStyle</c> est une chaîne indiquant l'apparence et la fonctionnalité
+ d'une zonne de liste déroulante.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.DropDownWidth">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.DropDownWidth = 250
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>DropDownWidth</c> est un entier indiquant la largeur d'un DropDown.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Enable">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Enable = true
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Enable</c> est un booléen qui indique l'accessibilité d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Font">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Font = "Microsoft Sans Serif; 8,25pt"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Font</c> est une chaîne qui définit la police
+ de caractères, taille.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ForeColor">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ForeColor = "black"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ForeColor</c> est une chaîne représentant la couleur forecolor d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Form_Parent">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Form_Parent = "Form_Demarrage"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Form_Parent</c> est une chaîne qui définit le formulaire
+ dans lequel le contrôle apparait.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.FormatString">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.FormatString = "N3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>FormatString</c> est une chaîne qui définit comment une valeur
+ doit être affichée.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.hauteur">
+	<remarks>
+		<example>
+			<code>
+Dim pos1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+pos1.hauteur = 17
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>hauteur</c> est un entier qui représente la hauteur d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Image">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Image = "nom_de_l'image"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Image</c> est une chaîne qui définit le nom
+ de l'image dans un contrôle Button.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ImageLocation">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ImageLocation = "c:\path\image01.jpg"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ImageLocation</c> est une chaîne.
+ Obtient ou définit le chemin d'accès ou l'URL de l'image à afficher dans un PictureBox.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ItemHeight">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ItemHeight = 8
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ItemHeight</c> est un entier indiquant la hauteur d'un Item.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Items_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Items = "Element1;Element2;Element3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Items</c> est une chaîne qui définit une liste
+ d'éléments d'une liste déroulante Allemand.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Items_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Items = "Element1;Element2;Element3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Items</c> est une chaîne qui définit une liste
+ d'éléments d'une liste déroulante Anglais.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Items_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Items = "Element1;Element2;Element3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Items</c> est une chaîne qui définit une liste
+ d'éléments d'une liste déroulante Espagnole.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Items_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Items = "Element1;Element2;Element3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Items</c> est une chaîne qui définit une liste
+ d'éléments d'une liste déroulante Francais.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Items_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Items = "Element1;Element2;Element3"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Items</c> est une chaîne qui définit une liste
+ d'éléments d'une liste déroulante Italien.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.largeur">
+	<remarks>
+		<example>
+			<code>
+Dim pos1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+pos1.largeur = 150
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>largeur</c> est un entier qui représente la largeur d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.MaxLength">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.MaxLength = 10
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>MaxLength</c> est un entier indiquant le nombre maximal de caractères pouvant être insérer dans la zone de liste.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Multiline">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Multiline = "True"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Multiline</c> est une chaîne qui définit l'aspect
+ d'un TextBox par exemple.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Nom_Elements_Windows_Forms">
+	<remarks>
+		<example>
+			<code>
+Dim nom1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+nom1.Nom_Elements_Windows_Forms = "label1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Nom_Elements_Windows_Forms</c> est une chaîne contenant le nom d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Opacity">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Opacity = 25
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Opacity</c> est un entier qui indique la transparence en % d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Position_X">
+	<remarks>
+		<example>
+			<code>
+Dim pos1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+pos1.Position_X = 25
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Position_X</c> est un entier qui représente la position en abscisse d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Position_Y">
+	<remarks>
+		<example>
+			<code>
+Dim pos1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+pos1.Position_Y = 17
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Position_Y</c> est un entier qui représente la position en ordonnée d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Element_ReadOnly">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Element_ReadOnly = "True"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Element_ReadOnly</c> est une chaîne qui spécifie 
+ Qu'une variable ou une propriété peut être lue, mais pas écrite.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ScrollBars">
+	<remarks>
+		<example>
+ ScrollBars.None = 0, 
+ ScrollBars.Horizontal = 1,
+ ScrollBars.Vertical = 2, 
+ ScrollBars.Both = 3 
+ <code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ScrollBars = "..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ScrollBars</c> est une chaîne qui spécifie 
+ Obtient ou définit le type de barres de défilement à afficher
+ Dans le contrôle RichTextBox.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.SelectedValueChanged">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.SelectedValueChanged = "Function01"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>SelectedValueChanged</c> indique la fonction répondant à cet événement
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Sorted">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Sorted = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sorted</c> est un booléen indiquant si une liste déroulante est trié.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Tab_Index">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Tab_Index = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Tab_Index</c> est un entier représentant l'ordre de tabulation d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Tab_Stop">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Tab_Stop = True
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Tab_Stop</c> est un booléen qui définit si le focus
+ peut être donné au contrôle par la touche TABULATION.
+ 
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Text_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Text_Allemand = "Menu"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Text_Allemand</c> est une chaîne représentant le texte d'un élément winform en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Text_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Text_Anglais = "Menu"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Text_Anglais</c> est une chaîne représentant le texte d'un élément winform en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Text_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Text_Espagnole = "Menu"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Text_Espagnole</c> est une chaîne représentant le texte d'un élément winform en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Text_Français">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Text_Français = "Menu"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Text_Français</c> est une chaîne représentant le texte d'un élément winform en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Text_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Text_Italien = "Menu"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Text_Italien</c> est une chaîne représentant le texte d'un élément winform en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.TextChanged">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.TextChanged = "Function01"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TextChanged</c> indique la fonction répondant à cet événement
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ToolTip_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ToolTip_Allemand = "Information sur le contrôle"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ToolTip_Allemand</c> est une chaîne représentant le tooltip d'un élément winform en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ToolTip_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ToolTip_Anglais = "Information sur le contrôle"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ToolTip_Anglais</c> est une chaîne représentant le tooltip d'un élément winform en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ToolTip_Français">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ToolTip_Français = "Information sur le contrôle"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ToolTip_Français</c> est une chaîne représentant le tooltip d'un élément winform en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ToolTip_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ToolTip_Espagnole = "Information sur le contrôle"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ToolTip_Espagnole</c> est une chaîne représentant le tooltip d'un élément winform en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.ToolTip_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.ToolTip_Italien = "Information sur le contrôle"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ToolTip_Italien</c> est une chaîne représentant le tooltip d'un élément winform en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Type_Elements_Windows_Forms">
+	<remarks>
+		<example>
+			<code>
+Dim Type1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+Type1.Type_Elements_Windows_Forms = "System.Windows.Forms.TextBox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_Elements_Windows_Forms</c> est une chaîne contenant le type de contrôle winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.Visibilité">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+obj1.Visibilité = true
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Visibilité</c> est un booléen qui indique la visibilité d'un élément winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform.WordWrap">
+	<remarks>
+		<example>
+			<code>
+Dim Type1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform
+Type1.WordWrap = "True"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>WordWrap</c> est une chaîne qui  Indique si un contrôle zone de texte 
+ Multiligne renvoie les mots au début de la ligne suivante lorsque cela est nécessaire. 
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Elements_Winform">
+	<summary>
+ La classe Elements_Winform stocke les paramètres des différents winform de l'application.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim Platine As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Platine.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant de façon unique le type de platine.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le type de platine.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_LOGICIEL_anglais = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_anglais</c> est une chaîne décrivant le type de platine en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_LOGICIEL_allemand = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_allemand</c> est une chaîne décrivant le type de platine en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_LOGICIEL_espagnole = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_espagnole</c> est une chaîne décrivant le type de platine en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_LOGICIEL_italien = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_italien</c> est une chaîne décrivant le type de platine en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.VALEUR_REELLE = "KSTEEL/SINTHESI"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c> est une chaîne historiquement utilisée comme valeur stockée dans la table SCHEMA maintenant ENREGISTREMENTS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D
+Str_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur se servant de ce type de platine.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_D">
+	<summary>
+ La classe PARAM_D (Anciennement : menu_serie) détermine l'aspect des platines de rue 52000 ou KSTEEL.
+ le nom PARAM_D rend la propriété utilisable dans d'autres domaines.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.ID_SR5">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.ID_SR5 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR5</c> est un entier identifiant de façon unique la rubrique en Racine -5.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.ID_SR4">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.ID_SR4 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR4</c> est un entier identifiant de façon unique la rubrique en Racine -4.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_R_moin_5.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_5 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5
+obj_5.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_5">
+	<summary>
+ La classe racine_moin_5 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.IDRef">
+	<remarks>
+		<example>
+			<code>
+Dim int_IDRef As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+int_IDRef.IDRef = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDRef</c> est un entier identifiant une référence.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim int_construct As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+int_construct.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.Categorie_Ref">
+	<remarks>
+		<example>
+			<code>
+Dim int_Categorie_Ref As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+int_Categorie_Ref.Categorie_Ref = 6
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Categorie_Ref</c> est un entier désignant une catégorie de produits.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.Reference">
+	<remarks>
+		<example>
+			<code>
+Dim Str_REF1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_REF1.Reference = 6
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Reference</c> est un chaîne désignant le nom d'une référence.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.description_ref_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_DESCRIPTION_ref_francais.description_ref_francais = "Platine de rue compacte en inox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>description_ref_francais</c> est une chaîne décrivant une référence en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.description_ref_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_DESCRIPTION.description_ref_anglais = "Platine de rue compacte en inox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>description_ref_anglais</c> est une chaîne décrivant une référence en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.description_ref_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_DESCRIPTION.description_ref_allemand = "Platine de rue compacte en inox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>description_ref_allemand</c> est une chaîne décrivant une référence en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.description_ref_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_DESCRIPTION.description_ref_espagnole = "Platine de rue compacte en inox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>description_ref_espagnole</c> est une chaîne décrivant une référence en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs.description_ref_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs
+Str_DESCRIPTION.description_ref_italien = "Platine de rue compacte en inox"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>description_ref_italien</c> est une chaîne décrivant une référence en Italien.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.ref_constructeurs">
+	<summary>
+ La classe ref_constructeurs stocke des informations sur les références d'un construteur
+ </summary>
+</member><member name="M:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.version.VERSION_CLASS_IDEALTAKE">
+	<remarks>
+		<example>
+			<code>
+Dim String_Version_CLASS_IDEALTAKE As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.version
+Mssgbox(String_Version_CLASS_IDEALTAKE.VERSION_CLASS_IDEALTAKE))
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La fonction <c>VERSION_CLASS_IDEALTAKE()</c> retourne une chaîne identifiant le nom interne de la classe et sa version.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.ID_SR1">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.ID_SR1 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR1</c> est un entier identifiant de façon unique la rubrique en Racine 0.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.ID_R">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.ID_R = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_R</c> est un entier identifiant de façon unique la rubrique en Racine 0.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_R_moin_1.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1
+obj_1.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_1">
+	<summary>
+ La classe racine_moin_1 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.ID_SR8">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.ID_SR8 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR8</c> est un entier identifiant de façon unique la rubrique en Racine -8.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.ID_SR7">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.ID_SR7 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR7</c> est un entier identifiant de façon unique la rubrique en Racine -7.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_R_moin_8.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_8 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8
+obj_8.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_8">
+	<summary>
+ La classe racine_moin_8 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Numero_Enregistrement">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Numero_Enregistrement = "ENR001"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Numero_Enregistrement</c> indique par une chaîne le nom unique de l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Chrono">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Chrono = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Chrono</c> indique par un entier le numéro unique de l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Auteur">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Auteur = "TVIEIL"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Auteur</c> indique par une chaîne le nom de l'auteur de l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Date_de_creation">
+	<remarks>
+		<example>
+			<code>
+Dim num_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+num_Enr1.Date_de_creation = "17/12/2007"
+ MsgBox(num_Enr1.Date_ENR.Day)
+ MsgBox(num_Enr1.Date_ENR.Month)
+ MsgBox(num_Enr1.Date_ENR.Year)
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Date_de_creation</c> indique la date de création d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Titre_texte_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Titre_francais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Titre_francais_Enr1.Titre_texte_francais = "Titre du document en français"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Titre_texte_francais</c> indique par une chaîne en Français le titre d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Sous_Titre_texte_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Sous_Titre_francais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Sous_Titre_francais_Enr1.Sous_Titre_texte_francais = "Sous Titre du document en français"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sous_Titre_texte_francais</c> indique par une chaîne le sous titre en Français d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Commentaire_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Commentaire_francais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Commentaire_francais_Enr1.Commentaire_francais = "Ce document traite de..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire_francais</c> indique par une chaîne en Français décrivant un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Titre_texte_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Titre_Allemand_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Titre_francais_Enr1.Titre_texte_Allemand = "Titre du document en Allemand"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Titre_texte_Allemand</c> indique par une chaîne du titre en Allemand d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Sous_Titre_texte_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Sous_Titre_Allemand_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Sous_Titre_Allemand_Enr1.Sous_Titre_texte_Allemand = "Sous Titre du document en Allemand"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sous_Titre_texte_Allemand</c> indique par une chaîne du sous titre en Allemand d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Commentaire_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Commentaire_allemand_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Commentaire_allemand_Enr1.Commentaire_anglais = "Ce document traite de..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire_allemand</c> indique par une chaîne en Allemand décrivant un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Titre_texte_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Titre_Anglais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Titre_Anglais_Enr1.Titre_texte_Anglais = "Titre du document en Anglais"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Titre_texte_Anglais</c> indique par une chaîne du titre en Anglais d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Sous_Titre_texte_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Sous_Titre_Anglais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Sous_Titre_Anglais_Enr1.Sous_Titre_texte_Anglais = "Sous Titre du document en Anglais"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sous_Titre_texte_Anglais</c> indique par une chaîne du sous titre en Anglais d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Commentaire_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Commentaire_anglais_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Commentaire_anglais_Enr1.Commentaire_anglais = "Ce document traite de..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire_anglais</c> indique par une chaîne en Anglais décrivant un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Titre_texte_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Titre_texte_Espagnole_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Titre_texte_Espagnole_Enr1.Titre_texte_Espagnole = "Titre du document en Espagnole"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Titre_texte_Espagnole</c> indique par une chaîne du titre en Espagnole d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Sous_Titre_texte_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Sous_Titre_texte_Espagnole_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Sous_Titre_texte_Espagnole_Enr1.Sous_Titre_texte_Espagnole = "Sous Titre du document en Espagnole"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sous_Titre_texte_Espagnole</c> indique par une chaîne du sous titre en Espagnole d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Commentaire_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Commentaire_espagnole_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Commentaire_espagnole_Enr1.Commentaire_anglais = "Ce document traite de..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire_espagnole</c> indique par une chaîne en Espagnole décrivant un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Titre_texte_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim Titre_texte_Italien_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Titre_texte_Italien_Enr1.Titre_texte_Italien = "Titre du document en Italien"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Titre_texte_Italien</c> indique par une chaîne du titre en Italien d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Sous_Titre_texte_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim Sous_Titre_texte_Italien_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Sous_Titre_texte_Italien_Enr1.Sous_Titre_texte_Italien = "Sous Titre du document en Italien"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Sous_Titre_texte_Italien</c> indique par une chaîne du sous titre en Italien d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Commentaire_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Commentaire_italien_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Commentaire_italien_Enr1.Commentaire_anglais = "Ce document traite de..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire_italien</c> indique par une chaîne en Italien décrivant un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Activation_XAML">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Activation_XAML = TRUE
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Activation_XAML</c> indique par un booléen l'utilisation de code XAML pour la présentation.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Titre_predefini">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Titre_predefini = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Titre_predefini</c> entier se rapportant à la table 'table_xaml'codant la présentation du titre en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Sous_Titre_predefini">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Sous_Titre_predefini = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Sous_Titre_predefini</c> entier se rapportant à la table 'table_xaml'codant la présentation du sous titre en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Commentaire_predefini">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Commentaire_predefini = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Commentaire_predefini</c> entier se rapportant à la table 'table_xaml'codant la présentation du commentaire en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Titre_specifique">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Titre_specifique = "...Canvas xmlns=..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Titre_specifique</c> est un chaîne qui code la présentation du titre en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Sous_Titre_specifique">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Sous_Titre_specifique = "...Canvas xmlns=..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Sous_Titre_specifique</c> est un chaîne qui code la présentation du sous titre en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_XAML_Commentaire_specifique">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Type_XAML_Commentaire_specifique = "...Canvas xmlns=..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_XAML_Commentaire_specifique</c> est un chaîne qui code la présentation du commentaire en XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_A">
+	<remarks>
+		<example>
+			<code>
+Dim ID_PARAM_A As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+ID_PARAM_A.PARAM_A = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_A</c> indique par un entier le type de verrouillage d'un enregistrement(Lie Table_A).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_B">
+	<remarks>
+		<example>
+			<code>
+Dim Type_systeme_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Type_systeme_Enr1.PARAM_B = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_B</c> indique par un entier le type d'installation audio, vidéo, mixte d'un enregistrement(Lie Table_B).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_C">
+	<remarks>
+		<example>
+			<code>
+Dim systeme_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+systeme_Enr1.PARAM_C = 4
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_C</c> indique par un entier le type de système interphonie d'un enregistrement(Lie Table_C).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_D">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_Pri_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_Pri_Enr1.PARAM_D = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_D</c> indique par un entier Lie à Table_D (serie - PLATINE).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_E">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_sec_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_sec_Enr1.PARAM_E = 0
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_E</c> indique par un entier Lie Table_E (CONTROLE_ACCESS).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_F">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_sec_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_sec_Enr1.PARAM_F = 0
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_F</c> indique par un entier Non lie -NBRE_PRI_AUDIO-.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_G">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_sec_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_sec_Enr1.PARAM_G = 0
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_G</c> indique par un entier Non lie -NBRE_PRI_VIDEO-.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_H">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_sec_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_sec_Enr1.PARAM_H = 0
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_H</c> indique par un entier Non lie -NBRE_SEC_AUDIO-.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.PARAM_I">
+	<remarks>
+		<example>
+			<code>
+Dim Platine_sec_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Platine_sec_Enr1.PARAM_I = 0
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>PARAM_I</c> indique par un entier Non lie -NBRE_SEC_VIDEO-.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Recherche_par_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Recherche_par_Arbre = "R0=2;R-1=1;R-2=4"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Recherche_par_Arbre</c> indique par une chaîne la position dans un arbre de recherche de l'enregistrement(cré à partir des
+ valeurs des tables Racine_zero à racine-9).
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Label_reserve1_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Label_reserve1_francais = "Label de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Label_reserve1_francais</c> indique par une chaîne un label complémentaire en Français dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Texte_reserve1_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Texte_reserve1_francais = "texte de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Texte_reserve1_francais</c> indique par une chaîne un texte complémentaire en Français dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Label_reserve1_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Label_reserve1_Allemand = "Label de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Label_reserve1_Allemand</c> indique par une chaîne un label complémentaire en Allemand dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Texte_reserve1_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Texte_reserve1_Allemand = "Texte de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Texte_reserve1_Allemand</c> indique par une chaîne un texte complémentaire en Allemand dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Label_reserve1_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Label_reserve1_Anglais = "Label de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Label_reserve1_Anglais</c> indique par une chaîne un label complémentaire en Anglais dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Texte_reserve1_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Texte_reserve1_Anglais = "Texte de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Texte_reserve1_Anglais</c> indique par une chaîne un texte complémentaire en Anglais dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Label_reserve1_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Label_reserve1_Espagnole = "Label de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Label_reserve1_Espagnole</c> indique par une chaîne un label complémentaire en Espagnole dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Texte_reserve1_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Texte_reserve1_Espagnole = "Texte de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Texte_reserve1_Espagnole</c> indique par une chaîne un texte complémentaire en Espagnole dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Label_reserve1_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Label_reserve1_Italien = "Label de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Label_reserve1_Italien</c> indique par une chaîne un label complémentaire en Italien dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Texte_reserve1_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Texte_reserve1_Italien = "Texte de réserve"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Texte_reserve1_Italien</c> indique par une chaîne un texte complémentaire en Italien dans l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Boolean_reserve1">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Boolean_reserve1 = TRUE
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Boolean_reserve1</c> booléen de réserve.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Integer_reserve1">
+	<remarks>
+		<example>
+			<code>
+Dim xaml_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+xaml_Enr1.Integer_reserve1 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Integer_reserve1</c> entier de réserve.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Date_reserve1">
+	<remarks>
+		<example>
+			<code>
+Dim num_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+num_Enr1.Date_reserve1 = "17/12/2007"
+ MsgBox(num_Enr1.Date_ENR.Day)
+ MsgBox(num_Enr1.Date_ENR.Month)
+ MsgBox(num_Enr1.Date_ENR.Year)
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Date_reserve1</c> date de réserve.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.IDConstructeur = 4
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> indique par un entier le numéro unique d'un constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Niveau_acces">
+	<remarks>
+		<example>
+			<code>
+Dim Type_Niveau_acces_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Type_Niveau_acces_Enr1.Niveau_acces = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Niveau_acces</c> indique par un entier le Niveau d'acces d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.STANDARD">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.STANDARD = TRUE
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>STANDARD</c> booléen de indique si l'enregistrement est standard.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Derniere_modification">
+	<remarks>
+		<example>
+			<code>
+Dim num_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+num_Enr1.Derniere_modification = "17/12/2007"
+ MsgBox(num_Enr1.Date_ENR.Day)
+ MsgBox(num_Enr1.Date_ENR.Month)
+ MsgBox(num_Enr1.Date_ENR.Year)
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Derniere_modification</c> date de dernière modification.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Auteur_derniere_modification">
+	<remarks>
+		<example>
+			<code>
+Dim Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Enr1.Auteur_derniere_modification = "T.VIEIL"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Auteur_derniere_modification</c> indique par une chaîne l'auteur de la dernière modification de l'enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.NUMERO_MODIFICATION">
+	<remarks>
+		<example>
+			<code>
+Dim Type_Niveau_acces_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Type_Niveau_acces_Enr1.NUMERO_MODIFICATION = 3
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>NUMERO_MODIFICATION</c> indique par un entier l'indice de modification d'un enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement.Type_Doc">
+	<remarks>
+		<example>
+			<code>
+Dim Type_Doc_Enr1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement
+Type_Doc_Enr1.Type_Doc = 23
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_Doc</c> indique par un entier le type de verrouillage d'un enregistrement.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.enregistrement">
+	<summary>
+ La classe enregistrement regroupe les infos de chaque enregistrement.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim num_Indice_AUTO As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+num_Indice_AUTO.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant de façon unique le type de système e.g : Audio 5fils.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Int_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Int_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur se servant de cet ype de système e.g : Audio 5fils.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VISIBLE_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "Audio 5 Fils"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le type de système en Français  e.g : Audio 5fils.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VISIBLE_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Str_DESCRIPTION.VISIBLE_LOGICIEL_anglais = "Audio 5 wires"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VISIBLE_LOGICIEL_anglais</c> est une chaîne décrivant le type de système en Anglais  e.g : Audio 5 wires.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VISIBLE_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Str_DESCRIPTION.VISIBLE_LOGICIEL_allemand = "Audio 5 fils"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VISIBLE_LOGICIEL_allemand</c> est une chaîne décrivant le type de système en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VISIBLE_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Str_DESCRIPTION.VISIBLE_LOGICIEL_espagnole = "Audio 5 fils"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VISIBLE_LOGICIEL_espagnole</c> est une chaîne décrivant le type de système en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VISIBLE_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+Str_DESCRIPTION.VISIBLE_LOGICIEL_italien = "Audio 5 fils"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VISIBLE_LOGICIEL_italien</c> est une chaîne décrivant le type de système en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_REELLE = "Audio 5fils"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c> est une chaîne historiquement utilisée comme valeur stockée dans la table SCHEMA maintenant ENREGISTREMENTS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.VALEUR_PARAM_B">
+	<remarks>
+		<example>
+			<code>
+Dim val_defaut As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+val_defaut.VALEUR_PARAM_B = 3
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_PARAM_B</c> est un entier désignant la valeur par défaut.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.FIGER_PARAM_B">
+	<remarks>
+		<example>
+			<code>
+Dim val_defaut As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+val_defaut.FIGER_PARAM_B = false
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>FIGER_PARAM_B</c> est un booleen désignant si il faut empécher une autre sélection.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C.SUPPRIMER_DE_PARAM_B">
+	<remarks>
+		<example>
+			<code>
+Dim val_defaut As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C
+sup_val.SUPPRIMER_DE_PARAM_B = false
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>SUPPRIMER_DE_PARAM_B</c> est un entier désignant un des éléments ne devant plus faire partit de la liste des valeurs possible de ce paramètre.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_C">
+	<summary>
+ La classe PARAM_C (Anciennement : menu_systemes) détermine la technologie 2fils 5fils etc....
+ le nom PARAM_C rend la propriété utilisable dans d'autres domaines.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.ID_SR4">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.ID_SR4 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR4</c> est un entier identifiant de façon unique la rubrique en Racine -4.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.ID_SR3">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.ID_SR3 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR3</c> est un entier identifiant de façon unique la rubrique en Racine -3.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_R_moin_4.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_4 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4
+obj_4.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_4">
+	<summary>
+ La classe racine_moin_4 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.ID_R">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.ID_R = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_R</c> est un entier identifiant de façon unique la rubrique en Racine 0.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R0 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero
+obj_R0.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_zero">
+	<summary>
+ La classe racine_zero est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.User_ID">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+obj1.User_ID = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>User_ID</c> est un entier identifiant de façon unique l'utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.User_Name">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.User_Name = "my_name"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>User_Name</c> indique le nom de l'utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.Password">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.Password = "6798521"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Password</c> indique le mot de passe de l'utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.e_mail">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.e_mail = "Mon_email@domaine.com"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>e_mail</c> indique l'e-mail de l'utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.Question_ID">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.Question_ID = "How old are you?"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Question_ID</c> question pour la récupération du mot de passe.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.Answer">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.Answer = "I'am 35 years old"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Answer</c> réponse à la question.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users.Enable">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users
+Obj1.Enable = "No"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Enable</c> compte actif.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Users">
+	<summary>
+ La classe Users stocke les paramètres des utilisateurs sur la base.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.ID">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.ID = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID</c> est un entier identifiant le numéro de ligne dans la table.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.RECORD_DATE">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.RECORD_DATE = Date.Today
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>RECORD_DATE</c> est la date d'enregistrement de la ligne dans la base de données.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.categories">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.categories = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>categories</c> est un entier identifiant la version de la table categories.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.chrono_idref">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.chrono_idref = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>chrono_idref</c> est un entier identifiant la version de la table chrono_idref.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.CONSTRUCTEURS">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.CONSTRUCTEURS = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>CONSTRUCTEURS</c> est un entier identifiant la version de la table CONSTRUCTEURS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.doc_url">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.doc_url = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>doc_url</c> est un entier identifiant la version de la table doc_url.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.documents">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.documents = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>documents</c> est un entier identifiant la version de la table documents.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.elements_HTML">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.elements_HTML = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>elements_HTML</c> est un entier identifiant la version de la table elements_HTML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.elements_winform">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.elements_winform = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>elements_winform</c> est un entier identifiant la version de la table elements_winform.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.enregistrements">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.enregistrements = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>enregistrements</c> est un entier identifiant la version de la table enregistrements.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.HISTORY_EVENTS">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.HISTORY_EVENTS = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>HISTORY_EVENTS</c> est un entier identifiant la version de la table HISTORY_EVENTS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.messages_utilisateur">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.messages_utilisateur = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>messages_utilisateur</c> est un entier identifiant la version de la table messages_utilisateur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.niveau_acces">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.niveau_acces = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>niveau_acces</c> est un entier identifiant la version de la table niveau_acces.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.Questions">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.Questions = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Questions</c> est un entier identifiant la version de la table Questions.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine_zero">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine_zero = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine_zero</c> est un entier identifiant la version de la table racine_zero.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine1">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine1 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine1</c> est un entier identifiant la version de la table racine1.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine2">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine2 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine2</c> est un entier identifiant la version de la table racine2.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine3">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine3 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine3</c> est un entier identifiant la version de la table racine3.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine4">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine4 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine4</c> est un entier identifiant la version de la table racine4.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine5">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine5 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine5</c> est un entier identifiant la version de la table racine5.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine6">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine6 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine6</c> est un entier identifiant la version de la table racine6.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine7">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine7 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine7</c> est un entier identifiant la version de la table racine7.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine8">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine8 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine8</c> est un entier identifiant la version de la table racine8.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.racine9">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.racine9 = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>racine9</c> est un entier identifiant la version de la table racine9.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.ref_constructeurs">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.ref_constructeurs = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ref_constructeurs</c> est un entier identifiant la version de la table ref_constructeurs.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.schema">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.schema = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>schema</c> est un entier identifiant la version de la table schema.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_A">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_A = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_A</c> est un entier identifiant la version de la table TABLE_A.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_B">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_B = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_B</c> est un entier identifiant la version de la table TABLE_B.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_C">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_C = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_C</c> est un entier identifiant la version de la table TABLE_C.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_D">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_D = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_D</c> est un entier identifiant la version de la table TABLE_D.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_E">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_E = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_E</c> est un entier identifiant la version de la table TABLE_E.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.TABLE_XAML">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.TABLE_XAML = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TABLE_XAML</c> est un entier identifiant la version de la table TABLE_XAML.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.types_documents">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.types_documents = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>types_documents</c> est un entier identifiant la version de la table types_documents.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.Users">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.Users = 1
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Users</c> est un entier identifiant la version de la table Users.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES.Commentaire">
+	<remarks>
+		<example>
+			<code>
+Dim Obj_VERSIONS_TABLES As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES
+Obj_VERSIONS_TABLES.Commentaire = "Mise à jour des données de TABLE_A et TABLE_B"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Commentaire</c> est une chaîne donnant des informations sur la mise à jour.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.VERSIONS_TABLES">
+	<summary>
+ La classe VERSIONS_TABLES stocke des informations sur les versions des tables dans la base de données.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim num_Indice_AUTO As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+num_Indice_AUTO.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant de façon unique le système de AUDIO/VIDEO/MIXTE.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le système Audio/Video/Mixte.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_LOGICIEL_anglais = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_anglais</c>  est une chaîne décrivant le système Audio/Video/Mixte en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_LOGICIEL_allemand = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_allemand</c>  est une chaîne décrivant le système Audio/Video/Mixte en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_LOGICIEL_espagnole = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_espagnole</c>  est une chaîne décrivant le système Audio/Video/Mixte en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_LOGICIEL_italien = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_italien</c>  est une chaîne décrivant le système Audio/Video/Mixte en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Str_DESCRIPTION.VALEUR_REELLE = "Audio"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c>  est une chaîne Historiquement utilisé dans M.R.U.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Int_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B
+Int_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur se servant de ce type de systeme Audio/Video/Mixte.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_B">
+	<summary>
+ La classe PARAM_B détermine le système AUDIO/VIDEO (Anciennement : menu_audio_video).
+ le nom PARAM_B rend la propriété utilisable dans d'autres domaines.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.ID_SR7">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.ID_SR7 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR7</c> est un entier identifiant de façon unique la rubrique en Racine -7.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.ID_SR6">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.ID_SR6 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR6</c> est un entier identifiant de façon unique la rubrique en Racine -6.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_R_moin_7.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_7 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7
+obj_7.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_7">
+	<summary>
+ La classe racine_moin_7 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim num_IDConstructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+num_IDConstructeur.IDConstructeur = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant de façon unique le constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.NOM">
+	<remarks>
+		<example>
+			<code>
+Dim NOM1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+NOM1.NOM = "Entreprise Debolitchvi"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>NOM</c> est une chaîne représentatnt le nom de la société du constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.SITE_CONSTRUCTEUR">
+	<remarks>
+		<example>
+			<code>
+Dim Site_Web1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Site_Web1.SITE_CONSTRUCTEUR = "http://www.SiteDebolitchvi.fr"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>SITE_CONSTRUCTEUR</c> est une chaîne représentatnt l'URL du site web du constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.INFORMATIONS_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Infos_Fr As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Infos_Fr.INFORMATIONS_francais = "Fabricant de machine spécialisé dans le..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>INFORMATIONS_francais</c> est une chaîne représentant la description de l'activité de la société en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.INFORMATIONS_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Infos_An As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Infos_An.INFORMATIONS_anglais = "Our company build industrial tools..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>INFORMATIONS_anglais</c> est une chaîne représentant la description de l'activité de la société en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.INFORMATIONS_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Infos_Al As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Infos_Al.INFORMATIONS_allemand = "Das Ziel unseres Betriebes..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>INFORMATIONS_allemand</c> est une chaîne représentant la description de l'activité de la société en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.INFORMATIONS_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Infos_Es As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Infos_Es.INFORMATIONS_espagnole = "Buenos dias..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>INFORMATIONS_espagnole</c> est une chaîne représentant la description de l'activité de la société en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.INFORMATIONS_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Infos_It As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Infos_It.INFORMATIONS_italien = "Il scopo della nostra impresa..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>INFORMATIONS_italien</c> est une chaîne représentant la description de l'activité de la société en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.CHEMIN_LOGOS">
+	<remarks>
+		<example>
+			<code>
+Dim URL_Logos As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+URL_Logos.CHEMIN_LOGOS = "http://www.sites/images/"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>CHEMIN_LOGOS</c> est une chaîne représentant l'URL sans le nom du fichier du logos de la société.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.NOM_FICHIER_IMAGE_LOGOS">
+	<remarks>
+		<example>
+			<code>
+Dim Logos As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+Logos.NOM_FICHIER_IMAGE_LOGOS = "societe.jpg"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>NOM_FICHIER_IMAGE_LOGOS</c> est une chaîne représentant le nom du fichier logos de la société.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.LARGEUR_IMAGE_LOGOS">
+	<remarks>
+		<example>
+			<code>
+Dim L_Logos As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+L_Logos.LARGEUR_IMAGE_LOGOS = "220"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>LARGEUR_IMAGE_LOGOS</c> est une chaîne représentant la largeur en pixel du logos de la société.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur.HAUTEUR_IMAGE_LOGOS">
+	<remarks>
+		<example>
+			<code>
+Dim H_Logos As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur
+H_Logos.HAUTEUR_IMAGE_LOGOS = "110"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>HAUTEUR_IMAGE_LOGOS</c> est une chaîne représentant la hauteur en pixel du logos de la société.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.constructeur">
+	<summary>
+ La classe constructeur fournit des informations sur le construteur de produit.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim num_niveau_acces As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+num_niveau_acces.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant le niveau d'acces du document.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "-- Facil --"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le  niveau d'acces du document en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_LOGICIEL_anglais = "-- Easy --"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_anglais</c> est une chaîne décrivant le  niveau d'acces du document en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_LOGICIEL_allemand = "-- Easy --"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_allemand</c> est une chaîne décrivant le  niveau d'acces du document en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_LOGICIEL_espagnole = "-- Easy --"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_espagnole</c> est une chaîne décrivant le  niveau d'acces du document en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_LOGICIEL_italien = "-- Easy --"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_italien</c> est une chaîne décrivant le  niveau d'acces du document en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.VALEUR_REELLE = "Facil"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c> est une chaîne décrivant le niveau d'acces du document anciennement dans M.R.U.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces
+Str_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.niveau_acces">
+	<summary>
+ La classe niveau_acces détermine le niveau d'acces d'un document
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.ID_SR3">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.ID_SR3 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR3</c> est un entier identifiant de façon unique la rubrique en Racine -3.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.ID_SR2">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.ID_SR2 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR2</c> est un entier identifiant de façon unique la rubrique en Racine -2.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_R_moin_3.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_3 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3
+obj_3.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_3">
+	<summary>
+ La classe racine_moin_3 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim num_categorie As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+num_categorie.Indice_AUTO = 4
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> indique le numéro d'une catégorie d'article.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim num_constructeur As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+num_constructeur.IDConstructeur = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> indique le numéro du constructeur.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.TYPE_REFERENCE_francais">
+	<remarks>
+		<example>
+			<code>
+Dim TYPE1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+TYPE1.TYPE_REFERENCE_francais = "Panneau Solaire"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TYPE_REFERENCE_francais</c> indique le nom de la catégorie en francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.TYPE_REFERENCE_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim TYPE1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+TYPE1.TYPE_REFERENCE_anglais = "circuit"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+La propriété <c>TYPE_REFERENCE_anglais</c> indique le nom de la catégorie en anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.TYPE_REFERENCE_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim TYPE1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+TYPE1.TYPE_REFERENCE_allemand = "Panneau Solaire"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TYPE_REFERENCE_allemand</c> indique le nom de la catégorie en allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.TYPE_REFERENCE_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim TYPE1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+TYPE1.TYPE_REFERENCE_espagnole = "Panneau Solaire"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TYPE_REFERENCE_espagnole</c> indique le nom de la catégorie en espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie.TYPE_REFERENCE_italien">
+	<remarks>
+		<example>
+			<code>
+Dim TYPE1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie
+TYPE1.TYPE_REFERENCE_italien = "Panneau Solaire"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>TYPE_REFERENCE_italien</c> indique le nom de la catégorie en italien.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.categorie">
+	<summary>
+ La classe categorie regroupe des références de même fonction.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:CLASS_IDEALTAKE.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:CLASS_IDEALTAKE.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim num_Indice_AUTO As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+num_Indice_AUTO.Indice_AUTO = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant de façon unique le système de verrouillage.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_LOGICIEL_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_LOGICIEL_francais = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_francais</c> est une chaîne décrivant le système de verrouillage en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_LOGICIEL_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_LOGICIEL_anglais = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_anglais</c> est une chaîne décrivant le système de verrouillage en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_LOGICIEL_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_LOGICIEL_allemand = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_allemand</c> est une chaîne décrivant le système de verrouillage en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_LOGICIEL_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_LOGICIEL_espagnole = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_espagnole</c> est une chaîne décrivant le système de verrouillage en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_LOGICIEL_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_LOGICIEL_italien = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_LOGICIEL_italien</c> est une chaîne décrivant le système de verrouillage en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.VALEUR_REELLE">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.VALEUR_REELLE = "Gache 2T"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>VALEUR_REELLE</c> est une chaîne historiquement utilisée comme valeur stockée dans la table SCHEMA maintenant ENREGISTREMENTS.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A.IDConstructeur">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A
+Str_DESCRIPTION.IDConstructeur = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>IDConstructeur</c> est un entier identifiant un constructeur se servant de ce type de verrouillage.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.PARAM_A">
+	<summary>
+ La classe PARAM_A (Anciennement : menu_verrouillages) détermine le système fermant les portes.
+ le nom PARAM_A rend la propriété utilisable dans d'autres domaines.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.ID">
+	<remarks>
+		<example>
+			<code>
+Dim obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+obj1.ID = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID</c> est un entier identifiant de façon unique une question.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.German">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+Obj1.German = "question..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>User_Name</c> question en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.English">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+Obj1.English = "question..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>English</c> question en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.Spanish">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+Obj1.Spanish = "question..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Spanish</c> question en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.French">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+Obj1.French = "question..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>French</c> question en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions.Italian">
+	<remarks>
+		<example>
+			<code>
+Dim Obj1 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions
+Obj1.Italian = "question..."
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ propriété <c>Italian</c> question en Italien.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.Questions">
+	<summary>
+ La classe Questions stocke les questions types pour la récupération du compte.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.ID_SR6">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.ID_SR6 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR6</c> est un entier identifiant de façon unique la rubrique en Racine -6.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.ID_SR5">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.ID_SR5 = 2
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>ID_SR5</c> est un entier identifiant de façon unique la rubrique en Racine -5.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Rubrique_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Rubrique_Allemand = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Allemand</c> est la chaîne de la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Rubrique_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Rubrique_Anglais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Anglais</c> est la chaîne de la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Rubrique_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Rubrique_Espagnole = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Espagnole</c> est la chaîne de la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Rubrique_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Rubrique_Francais = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Francais</c> est la chaîne de la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Rubrique_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Rubrique_Italien = "Nom rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Rubrique_Italien</c> est la chaîne de la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Description_Allemand">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Description_Allemand = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Allemand</c> est la chaîne décrivant la rubrique en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Description_Anglais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Description_Anglais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Anglais</c> est la chaîne décrivant la rubrique en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Description_Espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Description_Espagnole = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Espagnole</c> est la chaîne décrivant la rubrique en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Description_Francais">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Description_Francais = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Francais</c> est la chaîne décrivant la rubrique en Francais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Description_Italien">
+	<remarks>
+		<example>
+			<code>
+Dim obj_R_moin_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_R_moin_6.Description_Italien = "Description rubrique"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_Italien</c> est la chaîne décrivant la rubrique en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6.Symbole_Arbre">
+	<remarks>
+		<example>
+			<code>
+Dim obj_6 As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6
+obj_6.Symbole_Arbre = "0-1"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Symbole_Arbre</c> est une chaîne permettant la recherche guidée.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.racine_moin_6">
+	<summary>
+ La classe racine_moin_6 est utlisée dans la recherche guidée.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Indice_AUTO">
+	<remarks>
+		<example>
+			<code>
+Dim int_typedoc As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+int_typedoc.Indice_AUTO = 7
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Indice_AUTO</c> est un entier identifiant un type de document.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Description_francais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION_ref_francais As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Str_DESCRIPTION_ref_francais.Description_francais = "Vidéo"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_francais</c> est une chaîne décrivant un type de document en Français.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Description_anglais">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Str_DESCRIPTION.Description_anglais = "Video"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_anglais</c> est une chaîne décrivant un type de document en Anglais.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Description_allemand">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Str_DESCRIPTION.Description_allemand = "Video"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_allemand</c> est une chaîne décrivant un type de document en Allemand.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Description_espagnole">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Str_DESCRIPTION.Description_espagnole = "Video"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_espagnole</c> est une chaîne décrivant un type de document en Espagnole.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Description_italien">
+	<remarks>
+		<example>
+			<code>
+Dim Str_DESCRIPTION As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Str_DESCRIPTION.Description_italien = "Video"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Description_italien</c> est une chaîne décrivant un type de document en Italien.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Type_Previsualisable">
+	<remarks>
+		<example>
+			<code>
+Dim Type_DOC As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Type_DOC.Type_Previsualisable = true
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Type_Previsualisable</c> est un booléen décrivant si ce type de document est prévisualisable comme une image.
+ </summary>
+</member><member name="P:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents.Picto_Doc">
+	<remarks>
+		<example>
+			<code>
+Dim Type_DOC As New CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents
+Type_DOC.Picto_Doc = "http://www.monsite.fr/images/type_doc/Son.jpg"
+ </code>
+		</example>
+	</remarks>
+	<summary>
+ La propriété <c>Picto_Doc</c> est une chaîne pointant sur une image illustrant de type de document par exemple d'un son.
+ </summary>
+</member><member name="T:CLASS_IDEALTAKE.CLASS_IDEALTAKE.Objects.types_documents">
+	<summary>
+ La classe types_documents stocke des informations sur les différents types de documents
+ </summary>
+</member>
+</members>
+</doc>

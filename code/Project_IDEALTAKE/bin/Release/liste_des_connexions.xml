@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Liste_des_connexions>
+    <Connexion />
+    <Connexion>
+        <Nom_Connexion>TEST110</Nom_Connexion>
+        <Adresse_Serveur>127.0.0.1</Adresse_Serveur>
+        <Utilisateur>root</Utilisateur>
+        <mot_de_passe>FML6A42V1B</mot_de_passe>
+        <Nom_de_la_base>TEST110</Nom_de_la_base>
+        <Localisation_Schema>c:\TEST110_1</Localisation_Schema>
+        <Localisation_Synoptique>c:\TEST110_2</Localisation_Synoptique>
+        <Localisation_Notice>c:\TEST110_3</Localisation_Notice>
+        <Localisation_Fiche_Produit>c:\TEST110_4</Localisation_Fiche_Produit>
+        <Localisation_Photos_produit>c:\TEST110_5</Localisation_Photos_produit>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>TEST109</Nom_Connexion>
+        <Adresse_Serveur>127.0.0.1</Adresse_Serveur>
+        <Utilisateur>root</Utilisateur>
+        <mot_de_passe>FML6A42V1B</mot_de_passe>
+        <Nom_de_la_base>TEST109</Nom_de_la_base>
+        <Localisation_Schema>c:\TEST109-1</Localisation_Schema>
+        <Localisation_Synoptique>c:\TEST109-2</Localisation_Synoptique>
+        <Localisation_Notice>c:\TEST109-3</Localisation_Notice>
+        <Localisation_Fiche_Produit>c:\TEST109-4</Localisation_Fiche_Produit>
+        <Localisation_Photos_produit>c:\TEST109-5</Localisation_Photos_produit>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>TEST108</Nom_Connexion>
+        <Adresse_Serveur>127.0.0.1</Adresse_Serveur>
+        <Utilisateur>root</Utilisateur>
+        <mot_de_passe>FML6A42V1B</mot_de_passe>
+        <Nom_de_la_base>TEST108</Nom_de_la_base>
+        <Localisation_Schema>C:\TEST108_1</Localisation_Schema>
+        <Localisation_Synoptique>C:\TEST108_2</Localisation_Synoptique>
+        <Localisation_Notice>C:\TEST108_3</Localisation_Notice>
+        <Localisation_Fiche_Produit>C:\TEST108_4</Localisation_Fiche_Produit>
+        <Localisation_Photos_produit>C:\TEST108_5</Localisation_Photos_produit>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>TEST105</Nom_Connexion>
+        <Adresse_Serveur>127.0.0.1</Adresse_Serveur>
+        <Utilisateur>root</Utilisateur>
+        <mot_de_passe>FML6A42V1B</mot_de_passe>
+        <Nom_de_la_base>TEST105</Nom_de_la_base>
+        <Localisation_Schema>C:\TEST105</Localisation_Schema>
+        <Localisation_Synoptique>C:\TEST105</Localisation_Synoptique>
+        <Localisation_Notice>C:\TEST105</Localisation_Notice>
+        <Localisation_Fiche_Produit>C:\TEST105</Localisation_Fiche_Produit>
+        <Localisation_Photos_produit>C:\TEST105</Localisation_Photos_produit>
+    </Connexion>
+</Liste_des_connexions>

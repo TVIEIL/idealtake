@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <VERSIONS_TABLES>
+    <ID>4</ID>
+    <Date>2013-08-24T00:20:43+02:00</Date>
+    <categories>2</categories>
+    <chrono_idref>2</chrono_idref>
+    <CONSTRUCTEURS>2</CONSTRUCTEURS>
+    <doc_url>2</doc_url>
+    <documents>2</documents>
+    <elements_HTML>2</elements_HTML>
+    <elements_winform>2</elements_winform>
+    <enregistrements>2</enregistrements>
+    <HISTORY_EVENTS>2</HISTORY_EVENTS>
+    <messages_utilisateur>2</messages_utilisateur>
+    <niveau_acces>2</niveau_acces>
+    <Questions>2</Questions>
+    <racine_zero>2</racine_zero>
+    <racine1>2</racine1>
+    <racine2>2</racine2>
+    <racine3>2</racine3>
+    <racine4>2</racine4>
+    <racine5>2</racine5>
+    <racine6>2</racine6>
+    <racine7>2</racine7>
+    <racine8>2</racine8>
+    <racine9>2</racine9>
+    <ref_constructeurs>2</ref_constructeurs>
+    <schema>2</schema>
+    <TABLE_A>2</TABLE_A>
+    <TABLE_B>2</TABLE_B>
+    <TABLE_C>2</TABLE_C>
+    <TABLE_D>2</TABLE_D>
+    <TABLE_E>2</TABLE_E>
+    <TABLE_XAML>2</TABLE_XAML>
+    <types_documents>2</types_documents>
+    <Users>2</Users>
+  </VERSIONS_TABLES>
+</NewDataSet>

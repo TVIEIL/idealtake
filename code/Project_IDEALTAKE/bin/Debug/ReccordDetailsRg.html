@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Details Reccord</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #FF3E9E;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	 height: 70px;
+        	width: 750px;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+	#Nombre_resultat
+	{
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		color: lightblue;
+		height: 23px;
+		font-weight: bold;
+	}
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	 width: 75%;
+        	border: 2px solid Black;
+        	margin: auto;
+
+        }
+
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_0
+        {
+                width: 3%;
+        }
+
+        #colonne_1
+        {
+		border-width: 15px;
+        	background-color: rgb(255, 192, 128);
+                width: 15%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_2_c
+        {
+        	border: 0px;
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		color: lightblue;
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+        </style>
+<script type="text/javascript">
+
+var Details_connexion ='Connexion : Persist Security Info=true;database=ALBUM_PHOTOS;server=tvieil.dnsalias.com;user id=TVIE\
+IL;pwd=14071789   RequêteSQLDetailsEnregistrement() - Numéro d enregistrement SELECT Numero_Enreg\
+istrement, chrono, Auteur, Date_de_creation,Titre_texte_francais, Sous_Titre_texte_francais, Comm\
+entaire_Texte_francais, Derniere_modification  FROM   ALBUM_PHOTOS .enregistrements WHERE INSTR(U\
+CASE(Numero_Enregistrement), VS2012_0 )>0; Numero_Enregistrement :VS2012_0   RequêteSQLDetailsEnr\
+egistrement() - Liste d IDRef SELECT  IDRef  FROM  ALBUM_PHOTOS .chrono_idref WHERE chrono_idref.\
+Chrono = 15;   RequêteSQLDetailsEnregistrement() - Liste des documents SELECT DOC.COMPTEUR, Conca\
+t(DOC_URL.URL, DOC.Nom_Fichier_francais) AS Lien ,  DOC.Nom_Lien_francais AS Nom, DOC.Taille_fich\
+ier_Fr AS Taille, TYPE_DOC.Description_francais AS Type FROM   ALBUM_PHOTOS .enregistrements AS E\
+NR ,  ALBUM_PHOTOS .types_documents AS TYPE_DOC ,  ALBUM_PHOTOS .documents  AS DOC,  ALBUM_PHOTOS\
+ .doc_url AS DOC_URL  WHERE  ENR.chrono = DOC.chrono AND DOC_URL.IDDoc=DOC.Type_Doc AND TYPE_DOC.\
+INDICE_AUTO = DOC.Type_Doc AND   DOC.chrono = 15; Nombre de documents ajoutés : 58  Déconnexion. \
+';
+
+
+
+</script>
+
+
+</head>
+<body id ="Corp_0">
+<br />
+<br />
+<P id="Nombre_resultat">&nbsp;&nbsp;&nbsp;&nbsp;<a href="G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\Project_IDEALTAKE\bin\Debug\rg.html" class="Transition_1" >Retour aux r&#233;sultats</a>&nbsp;<input type="button" value="D&#233;tails de la Recherche" name="button1" onClick="alert(Details_connexion)"></P>
+
+<table id="Table_0">
+<div  id="Table_1" >
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+            <td  id="colonne_2_c">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_1">&nbsp;Enregistrement :<br >&nbsp;VS2012_0</td>
+            <td  id="colonne_2_a"><H3 class="padding_1"> </H3></td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;</td>
+            <td id="colonne_2_a">&nbsp; </td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Cr&#233;ation :<br >&nbsp;06/09/2012</td>
+            <td id="colonne_2_a"><p id="Paragraphe_1">Touriste à Paris 10/05/2012</p>
+                                 <hr align="center" />
+                                 <P id="Paragraphe_1"></P>
+            </td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Modification :<br >&nbsp;11/09/2012</td>
+            <td id="colonne_2_c">&nbsp;</td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td id="colonne_1">&nbsp;Auteur :<br >&nbsp;LEVITI</td>
+            <td id="colonne_2_c">&nbsp;</td>
+            <td id="colonne_3">&nbsp;</td>
+        </tr>
+        <tr>
+            <td  id="colonne_0">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+            <td  id="colonne_2_c">&nbsp;</td>
+            <td  id="colonne_3">&nbsp;</td>
+        </tr>
+
+        </table>
+<br />
+        <table  id="Table_0">
+<div  id="Table_1" >
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000836.JPG" target="New[ID]">P1000836</a><br />Autre Photo<br />1329 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000837.JPG" target="New[ID]">P1000837</a><br />Autre Photo<br />1202 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000838.JPG" target="New[ID]">P1000838</a><br />Autre Photo<br />978 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000839.JPG" target="New[ID]">P1000839</a><br />Autre Photo<br />896 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000840.JPG" target="New[ID]">P1000840</a><br />Autre Photo<br />1018 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000841.JPG" target="New[ID]">P1000841</a><br />Autre Photo<br />965 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000842.JPG" target="New[ID]">P1000842</a><br />Autre Photo<br />928 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000843.JPG" target="New[ID]">P1000843</a><br />Autre Photo<br />1071 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000844.JPG" target="New[ID]">P1000844</a><br />Autre Photo<br />1487 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000845.JPG" target="New[ID]">P1000845</a><br />Autre Photo<br />1556 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000846.JPG" target="New[ID]">P1000846</a><br />Autre Photo<br />1332 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000847.JPG" target="New[ID]">P1000847</a><br />Autre Photo<br />1165 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000848.JPG" target="New[ID]">P1000848</a><br />Autre Photo<br />974 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000849.JPG" target="New[ID]">P1000849</a><br />Autre Photo<br />983 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000850.JPG" target="New[ID]">P1000850</a><br />Autre Photo<br />1301 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000851.JPG" target="New[ID]">P1000851</a><br />Autre Photo<br />1083 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000852.JPG" target="New[ID]">P1000852</a><br />Autre Photo<br />1348 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000853.JPG" target="New[ID]">P1000853</a><br />Autre Photo<br />1422 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000854.JPG" target="New[ID]">P1000854</a><br />Autre Photo<br />1099 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000855.JPG" target="New[ID]">P1000855</a><br />Autre Photo<br />1947 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000856.JPG" target="New[ID]">P1000856</a><br />Autre Photo<br />1239 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000857.JPG" target="New[ID]">P1000857</a><br />Autre Photo<br />1111 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000858.JPG" target="New[ID]">P1000858</a><br />Autre Photo<br />1307 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000859.JPG" target="New[ID]">P1000859</a><br />Autre Photo<br />1539 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000860.JPG" target="New[ID]">P1000860</a><br />Autre Photo<br />731 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000862.JPG" target="New[ID]">P1000862</a><br />Autre Photo<br />865 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000863.JPG" target="New[ID]">P1000863</a><br />Autre Photo<br />1428 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000864.JPG" target="New[ID]">P1000864</a><br />Autre Photo<br />1563 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000865.JPG" target="New[ID]">P1000865</a><br />Autre Photo<br />2238 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000866.JPG" target="New[ID]">P1000866</a><br />Autre Photo<br />1117 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000867.JPG" target="New[ID]">P1000867</a><br />Autre Photo<br />1127 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000868.JPG" target="New[ID]">P1000868</a><br />Autre Photo<br />908 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000869.JPG" target="New[ID]">P1000869</a><br />Autre Photo<br />925 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000870.JPG" target="New[ID]">P1000870</a><br />Autre Photo<br />973 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000871.JPG" target="New[ID]">P1000871</a><br />Autre Photo<br />889 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000872.JPG" target="New[ID]">P1000872</a><br />Autre Photo<br />997 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000873.JPG" target="New[ID]">P1000873</a><br />Autre Photo<br />891 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000874.JPG" target="New[ID]">P1000874</a><br />Autre Photo<br />908 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000875.JPG" target="New[ID]">P1000875</a><br />Autre Photo<br />871 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000876.JPG" target="New[ID]">P1000876</a><br />Autre Photo<br />590 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000877.JPG" target="New[ID]">P1000877</a><br />Autre Photo<br />450 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000878.JPG" target="New[ID]">P1000878</a><br />Autre Photo<br />869 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000879.JPG" target="New[ID]">P1000879</a><br />Autre Photo<br />1017 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000880.JPG" target="New[ID]">P1000880</a><br />Autre Photo<br />765 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000881.JPG" target="New[ID]">P1000881</a><br />Autre Photo<br />784 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000882.JPG" target="New[ID]">P1000882</a><br />Autre Photo<br />907 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000883.JPG" target="New[ID]">P1000883</a><br />Autre Photo<br />1086 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000884.JPG" target="New[ID]">P1000884</a><br />Autre Photo<br />1257 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000885.JPG" target="New[ID]">P1000885</a><br />Autre Photo<br />1198 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000886.JPG" target="New[ID]">P1000886</a><br />Autre Photo<br />808 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000887.JPG" target="New[ID]">P1000887</a><br />Autre Photo<br />1131 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000888.JPG" target="New[ID]">P1000888</a><br />Autre Photo<br />1429 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000889.JPG" target="New[ID]">P1000889</a><br />Autre Photo<br />868 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000890.JPG" target="New[ID]">P1000890</a><br />Autre Photo<br />1294 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000891.JPG" target="New[ID]">P1000891</a><br />Autre Photo<br />1250 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000892.JPG" target="New[ID]">P1000892</a><br />Autre Photo<br />405 Ko</td>
+
+          <td  id="colonne_3">&nbsp;</td>
+       </tr>
+
+        <tr>
+        <td id="colonne_0">&nbsp;</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000893.JPG" target="New[ID]">P1000893</a><br />Autre Photo<br />437 Ko</td>
+
+<td ><a href="http://tvieil.dnsalias.com/AlbumPhotos/11/P1000894.JPG" target="New[ID]">P1000894</a><br />Autre Photo<br />419 Ko</td>
+
+</div></table>&nbsp;
+&nbsp;
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;" class="Transition_1" onClick="window.external.CloseWebBrowser('WebBrowser3');">Fermeture de la page</a>
+</body>
+</html>

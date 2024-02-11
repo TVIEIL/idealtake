@@ -1,0 +1,128 @@
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe.config
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.dll
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.pdb
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.xml
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\bin\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Form_Demarrage.resources
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.LoginForm1.resources
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Resources.resources
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Parametres.resources
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.TrustInfo.xml
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe.config
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.dll
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\CLASS_IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\bin\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Form_Demarrage.resources
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.LoginForm1.resources
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Resources.resources
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.Parametres.resources
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.TrustInfo.xml
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Moteur_de_recherche_Schémas\obj\Release\IDEALTAKE.logiciel_dessin.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\IDEALTAKE.exe.config
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\CLASS_IDEALTAKE.dll
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\CLASS_IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\CLASS_IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\bin\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\Interop.HTTSLib.dll
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.Form_Demarrage.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.logiciel_dessin.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.LoginForm1.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.Resources.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.Parametres.resources
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.TrustInfo.xml
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2009\Project_IDEALTAKE\obj\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe.config
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.dll
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.Form_Demarrage.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.logiciel_dessin.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.LoginForm1.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.Resources.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.Parametres.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.UserControl1.resources
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.TrustInfo.xml
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\obj\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe.config
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.dll
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\CLASS_IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\bin\Debug\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Ajout_Suppresion_connexion_base.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Form_Demarrage.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.logiciel_dessin.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.LoginForm1.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Resources.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Parametres.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Message_Box_Question.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.UserControl1.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.TrustInfo.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe.manifest
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.application
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.exe
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.pdb
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Attente_Chargement.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\obj\Release\IDEALTAKE.Test_SAPI5.resources

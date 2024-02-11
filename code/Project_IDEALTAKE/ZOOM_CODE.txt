@@ -1,0 +1,678 @@
+﻿Public Interface ZOOM_CODE
+
+
+    Public Sub Zoom_webbrowser(ByVal Facteur_ZOOM_EN As Integer, ByVal Nom_du_web_Browser As String)
+
+        If (Nom_du_web_Browser = "WebBrowser1") Then
+
+
+
+            If (Facteur_ZOOM_EN = 10) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 10, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 20) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 20, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 30) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 30, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 40) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 40, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 50) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 50, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 60) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 60, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 70) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 70, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 80) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 80, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 90) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 90, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 100) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 100, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 110) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 110, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 120) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 120, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 130) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 130, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 140) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 140, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 150) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 150, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 160) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 160, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 170) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 170, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 180) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 180, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 190) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 190, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 200) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser1.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 200, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+        End If
+
+
+        If (Nom_du_web_Browser = "WebBrowser2") Then
+
+
+
+            If (Facteur_ZOOM_EN = 10) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 10, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 20) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 20, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 30) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 30, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 40) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 40, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 50) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 50, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 60) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 60, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 70) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 70, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 80) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 80, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 90) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 90, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 100) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 100, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 110) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 110, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 120) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 120, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 130) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 130, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 140) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 140, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 150) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 150, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 160) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 160, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 170) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 170, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 180) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 180, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+            If (Facteur_ZOOM_EN = 190) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 190, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+
+            If (Facteur_ZOOM_EN = 200) Then
+                Try
+Dim Res As Object = Nothing
+Dim MyWeb As Object
+
+                    MyWeb = Me.WebBrowser2.ActiveXInstance
+                    MyWeb.ExecWB(Exec.OLECMDID_OPTICAL_ZOOM, _
+                          ExecOpt.OLECMDEXECOPT_DONTPROMPTUSER, 200, IntPtr.Zero)
+
+                Catch ex As Exception
+                    MsgBox("Error:" & ex.Message)
+                End Try
+            End If
+
+        End If
+
+    End Sub
+
+Private Sub ZOOM_MOIN_webbrowser1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ZoomMoinToolStripMenuItem4.Click, ToolStripMenuItem7.Click
+
+    zoom1 = zoom1 - 10
+
+    If (zoom1 > 10) Then
+        Zoom_webbrowser(zoom1, "WebBrowser1")
+    End If
+
+    If (zoom1 <= 10) Then
+        zoom1 = 10
+        Zoom_webbrowser(zoom1, "WebBrowser1")
+    End If
+
+    ToolStripMenuItem5.Text = "Zoom " & zoom1.ToString & "%"
+
+End Sub
+
+Private Sub ZOOM_PLUS_webbrowser1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ZoomPlusToolStripMenuItem3.Click, ToolStripMenuItem6.Click
+
+    zoom1 = zoom1 + 10
+
+    If (zoom1 < 200) Then
+        Zoom_webbrowser(zoom1, "WebBrowser1")
+    End If
+
+    If (zoom1 >= 200) Then
+        zoom1 = 200
+        Zoom_webbrowser(zoom1, "WebBrowser1")
+    End If
+
+    ToolStripMenuItem5.Text = "Zoom " & zoom1.ToString & "%"
+End Sub
+
+Private Sub Reset_ZOOM_webbrowser1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ResetZoomToolStripMenuItem1.Click, ToolStripMenuItem8.Click
+
+    zoom1 = 100
+    Zoom_webbrowser(zoom1, "WebBrowser1")
+    ToolStripMenuItem5.Text = "Zoom " & zoom1.ToString & "%"
+
+End Sub
+
+Private Sub ZOOM_MOIN_webbrowser2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem3.Click, ToolStripMenuItem11.Click
+
+    zoom2 = zoom2 - 10
+
+    If (zoom2 > 10) Then
+        Zoom_webbrowser(zoom2, "WebBrowser2")
+    End If
+
+    If (zoom2 <= 10) Then
+        zoom2 = 10
+        Zoom_webbrowser(zoom2, "WebBrowser2")
+    End If
+
+    ToolStripMenuItem9.Text = "Zoom " & zoom2.ToString & "%"
+
+End Sub
+
+Private Sub ZOOM_PLUS_webbrowser2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem2.Click, ToolStripMenuItem10.Click
+
+    zoom2 = zoom2 + 10
+
+    If (zoom2 < 200) Then
+        Zoom_webbrowser(zoom2, "WebBrowser2")
+    End If
+
+    If (zoom2 >= 200) Then
+        zoom2 = 200
+        Zoom_webbrowser(zoom2, "WebBrowser2")
+    End If
+
+    ToolStripMenuItem9.Text = "Zoom " & zoom2.ToString & "%"
+End Sub
+
+Private Sub Reset_ZOOM_webbrowser2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem4.Click, ToolStripMenuItem12.Click
+
+    zoom2 = 100
+    Zoom_webbrowser(zoom2, "WebBrowser2")
+    ToolStripMenuItem9.Text = "Zoom " & zoom2.ToString & "%"
+
+End Sub
+
+End Interface

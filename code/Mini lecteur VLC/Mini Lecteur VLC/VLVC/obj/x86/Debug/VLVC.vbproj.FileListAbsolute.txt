@@ -1,0 +1,26 @@
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\VLVC.vbproj.ResolveComReference.cache
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\bin\Debug\VLVC.exe
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\bin\Debug\VLVC.pdb
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\bin\Debug\VLVC.xml
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\VLVC.exe
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\VLVC.xml
+C:\Users\VIEIL\Documents\Visual Studio 2010\Projects\LECTEUR VLC\VLVC\VLVC\obj\x86\Debug\VLVC.pdb
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\Interop.AXVLC.dll
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\VLVC.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\bin\Debug\MiniVLCPlayer.exe
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\bin\Debug\MiniVLCPlayer.pdb
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\bin\Debug\MiniVLCPlayer.xml
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\MiniVLCPlayer.Form1.resources
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\MiniVLCPlayer.Resources.resources
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\MiniVLCPlayer.exe
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\MiniVLCPlayer.xml
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\Mini lecteur VLC\Mini Lecteur VLC\VLVC\obj\x86\Debug\MiniVLCPlayer.pdb

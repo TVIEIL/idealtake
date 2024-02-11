@@ -1,0 +1,5 @@
+<Nom_Connexion>TEST03</Nom_Connexion>
+<Adresse_Serveur>192.168.1.51</Adresse_Serveur>
+<chaine_de_connexion>Persist Security Info=true;database=TEST03_SERVER;server=192.168.1.51;user id=IDEALTAKE;pwd=IDEALTAKE</chaine_de_connexion>
+<Nom_de_la_base>TEST03_SERVER</Nom_de_la_base>
+<langue_logiciel>3</langue_logiciel>

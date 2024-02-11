@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Idealtake
+</name>
+</assembly>
+<members>
+<member name="P:IDEALTAKE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:IDEALTAKE.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:IDEALTAKE.My.Resources.Form_Demarrage.Texte_Aide_Text">
+	<summary>
+  Recherche une chaîne localisée semblable à 
+    --------------------------------------------------------------
+
+   Ce logiciel a été conçu afin de simplifier vos recherches sur des
+   documents  personnel ou professionnel : 
+
+    - Schémas électriques
+    - Schémas synoptiques
+    - Notices + photos
+    - Fiches Produits
+
+
+   Vous disposez, à cet effet, de sept onglets :
+
+
+   1/ Gestion de Base
+    
+    Utilisé pour la gestion de la base de données du moteur de recherche,
+    géré uniquement par un gestionnaire ou un administrateur [le reste de la chaîne a été tronqué]";.
+</summary>
+</member><member name="T:IDEALTAKE.My.Resources.Form_Demarrage">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

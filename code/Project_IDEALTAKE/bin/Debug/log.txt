@@ -1,0 +1,477 @@
+
+	=== Evenement Log Idealtake : 24/08/2012 09:47:00
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 09:47:49
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 09:49:04
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 09:50:52
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 09:52:06
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:00:32
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:03:50
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:04:52
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:05:54
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:07:31
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:08:26
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:09:51
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:12:04
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:13:58
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:16:52
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:19:16
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:22:42
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 10:49:00
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 11:05:03
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 11:05:35
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 11:13:47
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 11:25:30
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 11:29:50
+   Public Function Chargement_Collections_Menus() - Erreur_3 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 16:08:24
+   Erreur_1 Function Chargement_des_connexions() :Not OK 
+La balise de début 'Utilisateur' sur la ligne 7 à la position 10 ne correspond pas à la balise de fin de 'Connexion'. Ligne 20, position 7.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 16:11:25
+   Erreur_1 Function Chargement_des_connexions() :Not OK 
+La balise de début 'Utilisateur' sur la ligne 7 à la position 10 ne correspond pas à la balise de fin de 'Connexion'. Ligne 20, position 7.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2012 16:14:36
+   Erreur_1 Function Chargement_des_connexions() :Not OK 
+La balise de début 'Utilisateur' sur la ligne 7 à la position 10 ne correspond pas à la balise de fin de 'Connexion'. Ligne 20, position 7.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 30/08/2012 19:26:02
+   Public Function Chargement_Collections_Menus() - filtre le combobox des références en fonction de la position actuelle du combobox constructeurs 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 01/09/2012 17:54:21
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 01/09/2012 20:16:14
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 01/09/2012 21:13:02
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 04/09/2012 20:24:54
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 04/09/2012 20:25:26
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (404) Introuvable.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 04/09/2012 23:49:52
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (403) Interdit.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 04/09/2012 23:51:18
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (403) Interdit.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 05/09/2012 00:02:09
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (403) Interdit.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/09/2012 20:50:42
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 07/09/2012 22:29:15
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 10/09/2012 21:35:50
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 12/09/2012 18:51:37
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 14/09/2012 20:52:14
+   AppIdealtake
+Sub AjoutFireWallException() :Not OK  
+La création d'une instance du composant COM avec le CLSID {304CE942-6E39-40D8-943A-B913C40C9CD4} à partir de IClassFactory a échoué en raison de l'erreur suivante : 800706d9.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 27/09/2012 20:01:42
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (404) Introuvable.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 27/09/2012 21:34:07
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (404) Introuvable.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 28/09/2012 17:32:34
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (404) Introuvable.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 02/01/2013 23:31:04
+   Function Charge_une_image_à_partir_URL() :Not OK 
+Le serveur distant a retourné une erreur : (404) Introuvable.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 04/01/2013 22:59:53
+   Public Function Chargement_Collections_Menus() Liste des Tables :Not OK 
+Unable to connect to any of the specified MySQL hosts.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 05/01/2013 00:15:46
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Midnight_Oil_Beds_Are_Burning.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 05/01/2013 00:17:22
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Midnight_Oil_Beds_Are_Burning.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 00:57:18
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 00:57:25
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 00:57:30
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 00:57:40
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:08:29
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:18:45
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:18:50
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:19:57
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:19:59
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:20:29
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:21:37
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:23:04
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:25:32
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:35:12
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:36:06
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:42:23
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:42:29
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:45:49
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 01:46:56
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 15:55:34
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 15:55:47
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 06/01/2013 15:56:35
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 07/01/2013 19:15:24
+   Function objVlcPlay("http://tvieil.dnsalias.com/AlbumPhotos/14/Queen_-_I_Want_To_Break_Free__480p.flv" ) : Not OK 
+BackgroundWorker est actuellement occupé et ne peut pas exécuter plusieurs tâches simultanément.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 21/08/2013 20:51:37
+   Function Charge_une_image_à_partir_URL() :Not OK 
+c:\a\1\6083_ImagePreview.gif
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:15:13
+   Public Function Chargement_Collections_Menus() :Not OK 
+Unknown database 'test_shuetter_loaded'
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:15:31
+   Public Function Chargement_Collections_Menus() - filtre le combobox des références en fonction de la position actuelle du combobox constructeurs 
+La référence d'objet n'est pas définie à une instance d'un objet.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:16:22
+   Erreur_1 Sub Restauration_Base_Click() :Not OK 
+Impossible de trouver le fichier 'G:\PROJET IDEALTAKE 2013\Idealtake_2013\Project_IDEALTAKE\bin\Debug\Multimedia_ALBUM_PHOTOS_2282013_191921_constructeurs.xml'.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:16:36
+   Erreur_1 Sub Restauration_Base_Click() :Not OK 
+Impossible de trouver le fichier 'G:\PROJET IDEALTAKE 2013\Idealtake_2013\Project_IDEALTAKE\bin\Debug\TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_constructeurs.xml'.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:17:23
+   Erreur_1 Sub Restauration_Base_Click() :Not OK 
+Impossible de trouver le fichier 'G:\PROJET IDEALTAKE 2013\Idealtake_2013\Project_IDEALTAKE\bin\Debug\TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_constructeurs.xml'.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 22/08/2013 20:18:02
+   Erreur_1 Sub Restauration_Base_Click() :Not OK 
+Impossible de trouver le fichier 'G:\PROJET IDEALTAKE 2013\Idealtake_2013\Project_IDEALTAKE\bin\Debug\TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_constructeurs.xml'.
+	=== Log Stop
+
+
+	=== Evenement Log Idealtake : 24/08/2013 00:19:06
+   Erreur_1 Sub Restauration_Base_Click() :Not OK 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\" + MultimediaPath +\" \\"\", 3, true);\\r\\n    }\\r\\n catch(Ex_[CHRONO]_[COM' at line 1
+	=== Log Stop
+

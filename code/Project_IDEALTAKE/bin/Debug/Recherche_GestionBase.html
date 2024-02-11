@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Menu Principale</title>
+    <style type="text/css">
+
+        #Corp_0
+        {
+
+        	background-color: #0080C0;
+  
+        }
+
+        #Titre_de_la_page
+        {
+        	color:black;
+        	font-family: Comic sans MS, Arial, Helvetica;
+        	background-color: rgb(224, 224, 224);
+        	border-radius: 24px;
+        	border-width: 0px;
+        	box-shadow: 3px 3px 26px 7px hsl(225,56%,42%);
+        	7height: 70px;
+        	7width: auto;
+        }
+
+        #Image_0
+        {
+		padding: 8pt;
+        }
+
+	#Nombre_resultat
+	{
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		color: lightblue;
+		height: 23px;
+		font-weight: bold;
+	}
+
+        #Form_0
+	{	
+
+                position : relative; 
+		left: 7%;
+	}
+
+	#IndexPage_0
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative; 
+		left: 7%;
+	}
+
+
+	#IndexPage_1
+	{	
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-size: 14pt;
+		height: 23px;
+		font-weight: bold;
+                position : relative;
+		left: 7%;
+	}
+
+
+	#Page_0
+	{	
+		/*position: absolute;*/
+		/*left: 12%;*/
+
+	}
+
+       #Table_0
+        {
+
+        	background-color: rgb(255, 255, 208);
+        	border-radius: 24px;
+        	width: 95%;
+        	border: 2px solid Black;
+                margin : 20px;
+                position : relative; 
+		left: 2%;
+
+        }
+
+        #Table_1
+        {
+                width: 100%;
+        }
+
+        #colonne_1
+        {
+                width: 3%;
+        }
+
+        #colonne_2_a
+        {
+        	border: thin solid #6495ed;
+	}
+
+
+        #colonne_2_b
+        {
+        	background-color: rgb(240, 240, 204);
+	}
+
+        #colonne_3
+        {
+                width: 3%;
+        }
+
+	h3.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	h4.padding_1
+	{
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+	#Paragraphe_1
+	{
+		font-size: 10pt;
+		padding: 5pt;
+		text-align: left;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: normal;
+		color:black;
+	}
+
+
+	a.Transition_1
+	{
+		padding: 5pt;
+		font-size: 12pt;
+		font-family: Comic sans MS, Arial, Helvetica;
+		font-weight: bold;
+		transition: background 0.3s ease 0.5s;
+	}
+
+	a.Transition_1:hover
+	{
+		color:white;
+		background: #9C3;
+
+	}
+
+        .style1
+        {
+            width: 260px;
+            border: 1px solid #00FF00;
+            /*background-color : #FF8000;*/
+            background-color: rgb(230, 177, 154);
+        }
+        .style2
+        {
+            width: 36px;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            background-color: #FFC080;
+        }
+        .style3
+        {
+            width: 280px;
+        }
+        .style4
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 12pt;
+            color: #000000;
+        }
+        #Text1
+        {
+            width: 169px;
+        }
+        #Text2
+        {
+            width: 27px;
+        }
+        #Text3
+        {
+            width: 24px;
+        }
+        #Titre_Recherche_enregistrement
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-weight: bold;
+            font-size: 10pt;
+            color: #000000;
+        }
+        #Titre_Gestion_des_données
+        {
+            margin-top: 0.4cm;
+            page-break-after: avoid;
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            text-decoration: underline;
+            color: #000000;
+            font-weight: bold;
+        }
+        #Numero_enregistrement_Text
+        {
+        	width: 165px;
+        }
+        #Auteur_enregistrement_Text
+        {
+        	width: 165px;
+        }
+        #Jour_Enregistrement
+        {
+            width: 32px;
+        }
+        #Mois_Enregistrement
+        {
+            width: 32px;
+        }
+        #Année_Enregistrement
+        {
+            width: 60px;
+        }
+        #Nbre_de_resultat_par_page
+        {
+            height: 20px;
+        }
+        #Lancez_la_recherche
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+        #Réinitialiser_le_formulaire
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            font-weight: bold;
+            height: 27px;
+        }
+
+        #Etat_Recherche
+        {
+            font-family: 'Comic sans MS' , 'Arial' , 'Helvetica';
+            font-size: 12pt;
+            color: #000000;
+            position : relative; 
+	    left: 7%;
+        }
+
+        #Corp_page
+        {
+        	background-color : #00cccc;
+        }
+    </style>
+<script language="javascript" type="text/javascript">
+// <!CDATA[
+
+function Lancez_la_recherche_onclick(Param1) {
+window.external.RechercheEnregistrementGestionBase(Param1)
+}
+
+function Reload_page_onclick() {
+window.location.reload();
+}
+
+// ]]>
+</script>
+</head>
+<body id="Corp_page">
+
+
+<p>&nbsp;</p>
+        <div id="Titre_de_la_page">
+<table>
+        <tr>
+        <td>
+<img id="Image_0"src="data:image/png;base64,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">
+        </td>
+        <td>
+        <h3>Recherche d'enregistrement</h3>
+        </td>
+	</tr>
+</table>
+</div>
+
+<form action="" id ="Form_0">
+	<h2 id="Titre_Recherche_enregistrement">&nbsp;Recherche d'un enregistrement &nbsp;|&nbsp;
+        <a href="javascript:;" class="Transition_1" onClick="window.external.AjoutEnregistrement('GestionBase');">Ajout d'un enregistrement</a> &nbsp;</h2> 
+
+    <table class="style1"  border="1">
+        <tr>
+            <td  class="style2">
+		        &nbsp;Numéro</td>
+            <td class="style3">
+                &nbsp;<input id="Numero_enregistrement_Text" type="text" 
+                    name="Numero_enregistrement" title="Numéro Enregistrement" tabindex="2" /></td>
+        </tr>
+        <tr>
+            <td class="style2">
+                &nbsp;Auteur</td>
+            <td class="style3">
+                &nbsp;<input id="Auteur_enregistrement_Text" type="text" 
+                    name="Auteur_enregistrement" title="Auteur" tabindex="3" /></td>
+        </tr>
+        <tr>
+            <td class="style2">
+		        &nbsp;Date</td>
+            <td class="style3">
+                &nbsp;<input name="Jour_Enregistrement" id="Jour_Enregistrement" type="text" 
+                    title="Jour" tabindex="4" /> &nbsp;/
+                <input name="Mois_Enregistrement" id="Mois_Enregistrement" type="text" 
+                    title="Mois" tabindex="5" />&nbsp;/
+                <input name="Année_Enregistrement"  id="Année_Enregistrement" type="text" 
+                    title="Année" tabindex="6" /></td>
+        </tr>
+        <tr>
+<td colspan="2"  class="style4">Résultats par page&nbsp;
+    <select id="Nbre_de_resultat_par_page" name="Nbre_de_résultat" size="16px" 
+        tabindex="7">
+        <option value="20">20</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+    </select>
+</td>
+            
+        </tr>
+        </table>
+
+        <p>
+        <input  id="Lancez_la_recherche" type="button" value="Lancez la recherche " 
+                onclick="return Lancez_la_recherche_onclick('1')" tabindex="8" />
+        &nbsp;<input id="Réinitialiser_le_formulaire" type="button" value="Annuler" 
+                onclick="Reload_page_onclick()" tabindex="9" /></p>
+    </form>
+
+<div id = "Etat_Recherche" ></div>
+<div id="IndexPage_0"></div>
+<div id="Page_0"></div>
+<div id="IndexPage_1"></div>
+<P>&nbsp;</P>
+</body>
+</html>

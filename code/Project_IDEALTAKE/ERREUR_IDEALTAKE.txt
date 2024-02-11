@@ -1,0 +1,137 @@
+Consultez la fin de ce message pour plus de détails sur l'appel du débogage
+juste-à-temps (JIT) à la place de cette boîte de dialogue.
+
+************** Texte de l'exception **************
+System.Runtime.InteropServices.COMException (0x80040202): Exception de HRESULT : 0x80040202
+   à HTTSLib.TextToSpeechClass.Speak(String Text)
+   à IDEALTAKE.Form_Demarrage.Parle_Click(Object sender, EventArgs e) dans G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Form_Demarrage.vb:ligne 39471
+   à System.Windows.Forms.Control.OnClick(EventArgs e)
+   à System.Windows.Forms.Button.OnClick(EventArgs e)
+   à System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   à System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   à System.Windows.Forms.Control.WndProc(Message& m)
+   à System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   à System.Windows.Forms.Button.WndProc(Message& m)
+   à System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   à System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   à System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+************** Assemblys chargés **************
+mscorlib
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4952 (win7RTMGDR.050727-4900)
+    CodeBase : file:///C:/Windows/Microsoft.NET/Framework/v2.0.50727/mscorlib.dll
+----------------------------------------
+IDEALTAKE
+    Version de l'assembly : 1.4.346.2504
+    Version Win32 : 1.4.346.2504
+    CodeBase : file:///G:/PROJET%20IDEALTAKE%202011/Project_IDEALTAKE/bin/Debug/IDEALTAKE.exe
+----------------------------------------
+Microsoft.VisualBasic
+    Version de l'assembly : 8.0.0.0
+    Version Win32 : 8.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/Microsoft.VisualBasic/8.0.0.0__b03f5f7f11d50a3a/Microsoft.VisualBasic.dll
+----------------------------------------
+System
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System/2.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+System.Windows.Forms
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Windows.Forms/2.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+System.Drawing
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Drawing/2.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System.Configuration
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Configuration/2.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Xml
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Xml/2.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+System.Runtime.Remoting
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Runtime.Remoting/2.0.0.0__b77a5c561934e089/System.Runtime.Remoting.dll
+----------------------------------------
+System.Data
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_32/System.Data/2.0.0.0__b77a5c561934e089/System.Data.dll
+----------------------------------------
+CLASS_IDEALTAKE
+    Version de l'assembly : 1.0.32.58
+    Version Win32 : 1.0.32.58
+    CodeBase : file:///G:/PROJET%20IDEALTAKE%202011/Project_IDEALTAKE/bin/Debug/CLASS_IDEALTAKE.DLL
+----------------------------------------
+System.Windows.Forms.resources
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/System.Windows.Forms.resources/2.0.0.0_fr_b77a5c561934e089/System.Windows.Forms.resources.dll
+----------------------------------------
+Accessibility
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/Accessibility/2.0.0.0__b03f5f7f11d50a3a/Accessibility.dll
+----------------------------------------
+Interop.HTTSLib
+    Version de l'assembly : 1.0.0.0
+    Version Win32 : 1.0.0.0
+    CodeBase : file:///G:/PROJET%20IDEALTAKE%202011/Project_IDEALTAKE/bin/Debug/Interop.HTTSLib.DLL
+----------------------------------------
+Interop.SpeechLib
+    Version de l'assembly : 5.4.0.0
+    Version Win32 : 5.4.0.0
+    CodeBase : file:///G:/PROJET%20IDEALTAKE%202011/Project_IDEALTAKE/bin/Debug/Interop.SpeechLib.DLL
+----------------------------------------
+CustomMarshalers
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_32/CustomMarshalers/2.0.0.0__b03f5f7f11d50a3a/CustomMarshalers.dll
+----------------------------------------
+MySql.Data
+    Version de l'assembly : 6.3.6.0
+    Version Win32 : 6.3.6.0
+    CodeBase : file:///C:/Windows/assembly/GAC_MSIL/MySql.Data/6.3.6.0__c5687fc88969c44d/MySql.Data.dll
+----------------------------------------
+System.Transactions
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_32/System.Transactions/2.0.0.0__b77a5c561934e089/System.Transactions.dll
+----------------------------------------
+System.EnterpriseServices
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4927 (NetFXspW7.050727-4900)
+    CodeBase : file:///C:/Windows/assembly/GAC_32/System.EnterpriseServices/2.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll
+----------------------------------------
+mscorlib.resources
+    Version de l'assembly : 2.0.0.0
+    Version Win32 : 2.0.50727.4952 (win7RTMGDR.050727-4900)
+    CodeBase : file:///C:/Windows/Microsoft.NET/Framework/v2.0.50727/mscorlib.dll
+----------------------------------------
+
+************** Débogage JIT **************
+Pour activer le débogage juste-à-temps (JIT), le fichier de configuration pour cette
+application ou cet ordinateur (machine.config) doit avoir la valeur
+jitDebugging définie dans la section system.windows.forms.
+L'application doit également être compilée avec le débogage
+activé.
+
+Par exemple :
+
+<configuration>
+    <system.windows.forms jitDebugging="true" />
+</configuration>
+
+Lorsque le débogage juste-à-temps est activé, les exceptions non gérées
+seront envoyées au débogueur JIT inscrit sur l'ordinateur
+plutôt que d'être gérées par cette boîte de dialogue.

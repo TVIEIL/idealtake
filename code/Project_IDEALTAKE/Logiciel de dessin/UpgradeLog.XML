@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="logiciel_dessin">
+</Property><Property Name="Fichier solution" Value="G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\logiciel_dessin.sln">
+</Property><Property Name="Date" Value="dimanche 1 mai 2011">
+</Property><Property Name="Time" Value="22:03:52">
+</Property></Properties><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.vbproj" Description="Fichier projet correctement sauvegardé en tant que G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\logiciel_dessin.vbproj">
+</Event><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\logiciel_dessin.vb">
+</Event><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.Designer.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\logiciel_dessin.Designer.vb">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\AssemblyInfo.vb" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Application.Designer.vb" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Resources.Designer.vb" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Settings.Designer.vb" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Application.myapp" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Settings.settings" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.resx" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\logiciel_dessin.resx">
+</Event><Event ErrorLevel="2" Project="logiciel_dessin" Source="My Project\Resources.resx" Description="Échec de la sauvegarde du fichier avec le nom G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="logiciel_dessin" Source="logiciel_dessin.vbproj" Description="Votre projet cible le .NET Framework 2.0 ou 3.0. Si votre projet utilise des assemblys qui requièrent une version plus récente du .NET Framework, votre projet ne sera pas généré. Vous pouvez modifier la version du .NET Framework en cliquant sur Propriétés dans le menu du projet et en sélectionnant une autre version dans la liste déroulante '.NET Framework'. (Dans Visual Basic, cliquez sur le bouton Paramètres avancés du compilateur sous l'onglet Compiler.)">
+</Event><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="logiciel_dessin" Source="logiciel_dessin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="logiciel_dessin" Source="My Project\Application.Designer.vb" Description="Fichier introuvable. Impossible de déterminer si le fichier requiert une mise à niveau.">
+</Event><Event ErrorLevel="3" Project="logiciel_dessin" Source="My Project\Application.Designer.vb" Description="Non converti">
+</Event><Event ErrorLevel="1" Project="logiciel_dessin" Source="My Project\AssemblyInfo.vb" Description="Fichier introuvable. Impossible de déterminer si le fichier requiert une mise à niveau.">
+</Event><Event ErrorLevel="3" Project="logiciel_dessin" Source="My Project\AssemblyInfo.vb" Description="Non converti">
+</Event><Event ErrorLevel="1" Project="logiciel_dessin" Source="My Project\Resources.Designer.vb" Description="Fichier introuvable. Impossible de déterminer si le fichier requiert une mise à niveau.">
+</Event><Event ErrorLevel="3" Project="logiciel_dessin" Source="My Project\Resources.Designer.vb" Description="Non converti">
+</Event><Event ErrorLevel="1" Project="logiciel_dessin" Source="My Project\Settings.Designer.vb" Description="Fichier introuvable. Impossible de déterminer si le fichier requiert une mise à niveau.">
+</Event><Event ErrorLevel="3" Project="logiciel_dessin" Source="My Project\Settings.Designer.vb" Description="Non converti">
+</Event><Event ErrorLevel="0" Project="logiciel_dessin" Source="logiciel_dessin.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

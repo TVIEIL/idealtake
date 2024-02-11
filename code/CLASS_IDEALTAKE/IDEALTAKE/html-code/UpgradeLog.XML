@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication1">
+</Property><Property Name="Fichier solution" Value="G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1.suo">
+</Property><Property Name="Date" Value="dimanche 11 janvier 2009">
+</Property><Property Name="Time" Value="22:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsApplication1.sln" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication1.suo" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1.suo">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Fichier projet correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\WindowsApplication1.vbproj">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\Form1.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\Form1.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\Form1.Designer.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\Form1.resx" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\Backup\WindowsApplication1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication1.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

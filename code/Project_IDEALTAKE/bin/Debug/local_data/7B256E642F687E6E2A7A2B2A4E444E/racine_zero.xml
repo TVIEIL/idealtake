@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <racine_zero>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Vakanz</Rubrique_Allemand>
+    <Rubrique_Anglais>Holiday</Rubrique_Anglais>
+    <Rubrique_Espagnole>Vacancia</Rubrique_Espagnole>
+    <Rubrique_Francais>Vacance</Rubrique_Francais>
+    <Rubrique_Italien>Vacanza</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0</Symbole_Arbre>
+  </racine_zero>
+  <racine_zero>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Business</Rubrique_Allemand>
+    <Rubrique_Anglais>Business</Rubrique_Anglais>
+    <Rubrique_Espagnole>Negocios</Rubrique_Espagnole>
+    <Rubrique_Francais>Affaire</Rubrique_Francais>
+    <Rubrique_Italien>Lavoro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>1</Symbole_Arbre>
+  </racine_zero>
+  <racine_zero>
+    <ID_R>3</ID_R>
+    <Rubrique_Allemand>Freizeit</Rubrique_Allemand>
+    <Rubrique_Anglais>Leisure</Rubrique_Anglais>
+    <Rubrique_Espagnole>Tiempo libre</Rubrique_Espagnole>
+    <Rubrique_Francais>Loisir</Rubrique_Francais>
+    <Rubrique_Italien>Tempo libero</Rubrique_Italien>
+    <Description_Allemand>nul</Description_Allemand>
+    <Description_Anglais>nul</Description_Anglais>
+    <Description_Espagnole>nul</Description_Espagnole>
+    <Description_Francais>nul</Description_Francais>
+    <Description_Italien>nul</Description_Italien>
+    <Symbole_Arbre>2</Symbole_Arbre>
+  </racine_zero>
+  <racine_zero>
+    <ID_R>4</ID_R>
+    <Rubrique_Allemand>Zuhause</Rubrique_Allemand>
+    <Rubrique_Anglais>House</Rubrique_Anglais>
+    <Rubrique_Espagnole>Casa</Rubrique_Espagnole>
+    <Rubrique_Francais>Maison</Rubrique_Francais>
+    <Rubrique_Italien>Casa</Rubrique_Italien>
+    <Description_Allemand>nul</Description_Allemand>
+    <Description_Anglais>nul</Description_Anglais>
+    <Description_Espagnole>nul</Description_Espagnole>
+    <Description_Francais>nul</Description_Francais>
+    <Description_Italien>nul</Description_Italien>
+    <Symbole_Arbre>3</Symbole_Arbre>
+  </racine_zero>
+</NewDataSet>

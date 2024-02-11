@@ -1,0 +1,215 @@
+
+	=== Log Start : 24/08/2012 11:33:53
+Persist Security Info=true;database=ALBUM_PHOTOS;server=192.168.1.51;user id=TVIEIL;pwd=14071789
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7075707B7C6968667E7A7A62000"  n'est pas existant.
+Le sous répertoire des données : "7075707B7C6968667E7A7A62000"  a été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 11:33:53
+
+Le fichier "VERSIONS_TABLES.xml" n'existe pas.
+
+Une erreur s'est produite : L'invocation de la méthode a échoué parce que 'Public Property Commentaire() As String' ne peut pas être appelé avec ces arguments :
+    L'argument qui correspond au paramètre 'value' ne peut pas être converti de 'DBNull' en 'String'.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 11:34:09
+
+Création du fichier : categories.xml
+Création du fichier : chrono_idref.xml
+Création du fichier : CONSTRUCTEURS.xml
+Création du fichier : doc_url.xml
+Création du fichier : documents.xml
+Création du fichier : elements_HTML.xml
+Création du fichier : elements_winform.xml
+Création du fichier : messages_utilisateur.xml
+Création du fichier : niveau_acces.xml
+Création du fichier : Questions.xml
+Création du fichier : racine1.xml
+Création du fichier : racine2.xml
+Création du fichier : racine3.xml
+Création du fichier : racine4.xml
+Création du fichier : racine5.xml
+Création du fichier : racine6.xml
+Création du fichier : racine7.xml
+Création du fichier : racine8.xml
+Création du fichier : racine9.xml
+Création du fichier : racine_zero.xml
+Création du fichier : ref_constructeurs.xml
+Création du fichier : TABLE_A.xml
+Création du fichier : TABLE_B.xml
+Création du fichier : TABLE_C.xml
+Création du fichier : TABLE_D.xml
+Création du fichier : TABLE_E.xml
+Création du fichier : TABLE_XAML.xml
+Création du fichier : types_documents.xml
+Création du fichier : Users.xml
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 11:34:09
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine3.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 11:34:09
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:03:47
+Persist Security Info=true;database=ALBUM_PHOTOS;server=192.168.1.51;user id=TVIEIL;pwd=14071789
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7075707B7C6968667E7A7A62000"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:03:48
+
+Une erreur s'est produite : La colonne 'Commentaire' n'appartient pas à la table VERSIONS_TABLES.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:03:52
+
+Création du fichier : racine2.xml
+Création du fichier : VERSIONS_TABLES.xml
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:03:53
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine3.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:03:53
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:23:09
+Persist Security Info=true;database=ALBUM_PHOTOS;server=192.168.1.51;user id=TVIEIL;pwd=14071789
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7075707B7C6968667E7A7A62000"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:23:09
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:23:09
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:23:10
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine3.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2012 15:23:10
+
+Connexion Fermée...
+
+	=== Log Stop
+

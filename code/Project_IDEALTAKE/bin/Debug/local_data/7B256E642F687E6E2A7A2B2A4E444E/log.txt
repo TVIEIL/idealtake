@@ -1,0 +1,703 @@
+
+	=== Log Start : 24/06/2013 21:03:59
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"  n'est pas existant.
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"  a été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/06/2013 21:03:59
+
+Le fichier "VERSIONS_TABLES.xml" n'existe pas.
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+Le fichier "VERSIONS_TABLES.xml" a été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/06/2013 21:03:59
+
+Création du fichier : categories.xml
+Création du fichier : chrono_idref.xml
+Création du fichier : CONSTRUCTEURS.xml
+Création du fichier : doc_url.xml
+Création du fichier : documents.xml
+Création du fichier : elements_HTML.xml
+Création du fichier : elements_winform.xml
+Création du fichier : messages_utilisateur.xml
+Création du fichier : niveau_acces.xml
+Création du fichier : Questions.xml
+Création du fichier : racine1.xml
+Création du fichier : racine2.xml
+Création du fichier : racine3.xml
+Création du fichier : racine4.xml
+Création du fichier : racine5.xml
+Création du fichier : racine6.xml
+Création du fichier : racine7.xml
+Création du fichier : racine8.xml
+Création du fichier : racine9.xml
+Création du fichier : racine_zero.xml
+Création du fichier : ref_constructeurs.xml
+Création du fichier : TABLE_A.xml
+Création du fichier : TABLE_B.xml
+Création du fichier : TABLE_C.xml
+Création du fichier : TABLE_D.xml
+Création du fichier : TABLE_E.xml
+Création du fichier : TABLE_XAML.xml
+Création du fichier : types_documents.xml
+Création du fichier : Users.xml
+	=== Log Stop
+
+
+	=== Log Start : 24/06/2013 21:04:00
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 24/06/2013 21:04:00
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 06/08/2013 18:45:24
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 06/08/2013 18:45:24
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 06/08/2013 18:45:25
+
+Création du fichier : elements_HTML.xml
+Création du fichier : VERSIONS_TABLES.xml
+	=== Log Stop
+
+
+	=== Log Start : 06/08/2013 18:45:25
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 06/08/2013 18:45:25
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:44:57
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:44:58
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:44:58
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:44:58
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:44:58
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:59:11
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:59:11
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:59:11
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:59:12
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 21:59:12
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:05:29
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:05:29
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:05:29
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:05:30
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:05:30
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:10:17
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:10:17
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:10:17
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:10:18
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 21/08/2013 22:10:18
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 19:58:04
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 19:58:04
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 19:58:04
+
+Création du fichier : elements_HTML.xml
+Création du fichier : VERSIONS_TABLES.xml
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 19:58:05
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 19:58:05
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 20:12:00
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 20:12:00
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 20:12:00
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 20:12:01
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 22/08/2013 20:12:01
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2013 00:35:26
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2013 00:35:26
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2013 00:35:26
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2013 00:35:27
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 24/08/2013 00:35:27
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 28/12/2013 21:03:30
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 28/12/2013 21:03:30
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 28/12/2013 21:03:30
+Aucune mise à jour.
+	=== Log Stop
+
+
+	=== Log Start : 28/12/2013 21:03:30
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 28/12/2013 21:03:30
+
+Connexion Fermée...
+
+	=== Log Stop
+
+
+	=== Log Start : 02/08/2014 14:39:54
+Persist Security Info=true;database=ALBUM_PHOTOS;server=idealtake.dyndns-ip.com;user id=IDEALTAKE;pwd=IDEALTAKE
+Connexion Ouverte...
+
+
+Le répertoire des données locales  : "local_data" existe.
+
+Le sous répertoire des données : "7B256E642F687E6E2A7A2B2A4E444E"   existe.
+
+	=== Log Stop
+
+
+	=== Log Start : 02/08/2014 14:39:54
+
+Un objet  VERSIONS_TABLES locale et serveur ont été créé.
+
+	=== Log Stop
+
+
+	=== Log Start : 02/08/2014 14:39:55
+
+Création du fichier : doc_url.xml
+Création du fichier : elements_HTML.xml
+Création du fichier : TABLE_B.xml
+Création du fichier : types_documents.xml
+Création du fichier : VERSIONS_TABLES.xml
+	=== Log Stop
+
+
+	=== Log Start : 02/08/2014 14:39:55
+
+"categories" a été chargé avec les données du fichier categories.xml.
+"CONSTRUCTEURS" a été chargé avec les données du fichier CONSTRUCTEURS.xml.
+"doc_url" a été chargé avec les données du fichier doc_url.xml.
+"elements_HTML" a été chargé avec les données du fichier elements_HTML.xml.
+"elements_winform" a été chargé avec les données du fichier elements_winform.xml.
+"messages_utilisateur" a été chargé avec les données du fichier messages_utilisateur.xml.
+"niveau_acces" a été chargé avec les données du fichier niveau_acces.xml.
+"TABLE_A" a été chargé avec les données du fichier TABLE_A.xml.
+"TABLE_B" a été chargé avec les données du fichier TABLE_B.xml.
+"TABLE_C" a été chargé avec les données du fichier TABLE_C.xml.
+"TABLE_D" a été chargé avec les données du fichier TABLE_D.xml.
+"TABLE_E" a été chargé avec les données du fichier TABLE_E.xml.
+"types_documents" a été chargé avec les données du fichier types_documents.xml.
+"racine_zero" a été chargé avec les données du fichier racine_zero.xml.
+"racine1" a été chargé avec les données du fichier racine1.xml.
+"racine2" a été chargé avec les données du fichier racine2.xml.
+"racine3" a été chargé avec les données du fichier racine3.xml.
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine4.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine5.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine6.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine7.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine8.xml
+Une erreur s'est produite : Impossible de trouver la table 0., chargement des données à partir du fichier : racine9.xml
+"ref_constructeurs" a été chargé avec les données du fichier ref_constructeurs.xml.
+	=== Log Stop
+
+
+	=== Log Start : 02/08/2014 14:39:55
+
+Connexion Fermée...
+
+	=== Log Stop
+

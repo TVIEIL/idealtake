@@ -1,0 +1,3843 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <racine2>
+    <ID_SR2>1</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand>nul</Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>2</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>3</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>4</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>5</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>6</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>7</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>8</ID_SR2>
+    <ID_SR1>1</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>9</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>10</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>11</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>12</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>13</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>14</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>15</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>16</ID_SR2>
+    <ID_SR1>2</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>17</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>18</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>19</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>20</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>21</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>22</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>23</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>24</ID_SR2>
+    <ID_SR1>3</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>25</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>26</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>27</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>28</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>29</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>30</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>31</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>32</ID_SR2>
+    <ID_SR1>4</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>33</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>34</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>35</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>36</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>37</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>38</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>39</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>40</ID_SR2>
+    <ID_SR1>5</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>41</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>42</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>43</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>44</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>45</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>46</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>47</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>48</ID_SR2>
+    <ID_SR1>6</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>49</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>50</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>51</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>52</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>53</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>54</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>55</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>56</ID_SR2>
+    <ID_SR1>7</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>57</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>58</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>59</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>60</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>61</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>62</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>63</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>64</ID_SR2>
+    <ID_SR1>8</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>65</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>66</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>67</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>68</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>69</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>70</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>71</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>72</ID_SR2>
+    <ID_SR1>9</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>73</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>74</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>75</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>76</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>77</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>78</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>79</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>80</ID_SR2>
+    <ID_SR1>10</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>81</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>82</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>83</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>84</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>85</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>86</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>87</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>88</ID_SR2>
+    <ID_SR1>11</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>89</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>90</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>91</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>92</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>93</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>94</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>95</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>96</ID_SR2>
+    <ID_SR1>12</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>97</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>98</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>99</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>100</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>101</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>102</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>103</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>104</ID_SR2>
+    <ID_SR1>13</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>105</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>106</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>107</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>108</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>109</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>110</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>111</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>112</ID_SR2>
+    <ID_SR1>14</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>113</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>114</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>115</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>116</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>117</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>118</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>119</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>120</ID_SR2>
+    <ID_SR1>15</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>121</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>122</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>123</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>124</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>125</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>126</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>127</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>128</ID_SR2>
+    <ID_SR1>16</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>129</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>130</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>131</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>132</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>133</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>134</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>135</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>136</ID_SR2>
+    <ID_SR1>17</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>137</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>138</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>139</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>140</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>141</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>142</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>143</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>144</ID_SR2>
+    <ID_SR1>18</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>145</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>146</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>147</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>148</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>149</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>150</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>151</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>152</ID_SR2>
+    <ID_SR1>19</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>153</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>154</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>155</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>156</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>157</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>158</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>159</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>160</ID_SR2>
+    <ID_SR1>20</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>161</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>162</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>163</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>164</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>165</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>166</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>167</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>168</ID_SR2>
+    <ID_SR1>21</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>169</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>170</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>171</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>172</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>173</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>174</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>175</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>176</ID_SR2>
+    <ID_SR1>22</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>177</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>178</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>179</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>180</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>181</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>182</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>183</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>184</ID_SR2>
+    <ID_SR1>23</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>185</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>186</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>187</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>188</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>189</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>190</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>191</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>192</ID_SR2>
+    <ID_SR1>24</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>193</ID_SR2>
+    <ID_SR1>25</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>194</ID_SR2>
+    <ID_SR1>25</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>195</ID_SR2>
+    <ID_SR1>25</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>196</ID_SR2>
+    <ID_SR1>25</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>197</ID_SR2>
+    <ID_SR1>25</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>198</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>199</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>200</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>201</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>202</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>203</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>204</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>205</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>206</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>207</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>208</ID_SR2>
+    <ID_SR1>26</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>209</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>210</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>211</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>212</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>213</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>214</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>215</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>216</ID_SR2>
+    <ID_SR1>27</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>217</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>218</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>219</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>220</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>221</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>222</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>223</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>224</ID_SR2>
+    <ID_SR1>28</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>225</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>226</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>227</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>228</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>229</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>230</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>231</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>232</ID_SR2>
+    <ID_SR1>29</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>233</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>234</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>235</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>236</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>237</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>238</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>239</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>240</ID_SR2>
+    <ID_SR1>30</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>241</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>242</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>243</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>244</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>245</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>246</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>247</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>248</ID_SR2>
+    <ID_SR1>31</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30-7</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>249</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Wald</Rubrique_Allemand>
+    <Rubrique_Anglais>Forest</Rubrique_Anglais>
+    <Rubrique_Espagnole>Forestal</Rubrique_Espagnole>
+    <Rubrique_Francais>Fôret</Rubrique_Francais>
+    <Rubrique_Italien>Foresta</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-0</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>250</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Berg</Rubrique_Allemand>
+    <Rubrique_Anglais>Mountain</Rubrique_Anglais>
+    <Rubrique_Espagnole>Montaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Montagne</Rubrique_Francais>
+    <Rubrique_Italien>Montagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-1</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>251</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Meer</Rubrique_Allemand>
+    <Rubrique_Anglais>Sea</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mar</Rubrique_Espagnole>
+    <Rubrique_Francais>Mer</Rubrique_Francais>
+    <Rubrique_Italien>Mare</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-2</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>252</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Heiße Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Hot Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto caliente</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Chaud</Rubrique_Francais>
+    <Rubrique_Italien>Deserto caldo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-3</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>253</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>kalte Wüste</Rubrique_Allemand>
+    <Rubrique_Anglais>Cold Desert</Rubrique_Anglais>
+    <Rubrique_Espagnole>Desierto frío</Rubrique_Espagnole>
+    <Rubrique_Francais>Désert Froid</Rubrique_Francais>
+    <Rubrique_Italien>Deserto freddo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-4</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>254</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Stadt oder Gemeinde</Rubrique_Allemand>
+    <Rubrique_Anglais>City or town</Rubrique_Anglais>
+    <Rubrique_Espagnole>Ciudad o pueblo</Rubrique_Espagnole>
+    <Rubrique_Francais>Ville ou village</Rubrique_Francais>
+    <Rubrique_Italien>Città o località</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-5</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>255</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Kampagne</Rubrique_Allemand>
+    <Rubrique_Anglais>Campaign</Rubrique_Anglais>
+    <Rubrique_Espagnole>Campaña</Rubrique_Espagnole>
+    <Rubrique_Francais>Campagne</Rubrique_Francais>
+    <Rubrique_Italien>Campagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-6</Symbole_Arbre>
+  </racine2>
+  <racine2>
+    <ID_SR2>256</ID_SR2>
+    <ID_SR1>32</ID_SR1>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31-7</Symbole_Arbre>
+  </racine2>
+</NewDataSet>

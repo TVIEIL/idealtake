@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Liste_des_connexions>
+    <Connexion />
+    <Connexion>
+        <Nom_Connexion>Album_photos</Nom_Connexion>
+        <Adresse_Serveur>192.168.1.51</Adresse_Serveur>
+        <Utilisateur>TVIEIL</Utilisateur>
+        <mot_de_passe>14071789</mot_de_passe>
+        <Nom_de_la_base>ALBUM_PHOTOS</Nom_de_la_base>
+        <Description_Allemande>Deutsche Beschreibung</Description_Allemande>
+        <Description_Anglaise>English Description</Description_Anglaise>
+        <Description_Espagnole>Descripción Españoles</Description_Espagnole>
+        <Description_Française>Description Française</Description_Française>
+        <Description_Italienne>Descrizione Italiano</Description_Italienne>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>DEMO</Nom_Connexion>
+        <Adresse_Serveur>tvieil.dnsalias.com</Adresse_Serveur>
+        <Utilisateur>IDEALTAKE</Utilisateur>
+        <mot_de_passe>IDEALTAKE</mot_de_passe>
+        <Nom_de_la_base>DEMO</Nom_de_la_base>
+        <Description_Allemande>Deutsche Beschreibung</Description_Allemande>
+        <Description_Anglaise>English Description</Description_Anglaise>
+        <Description_Espagnole>Descripción Españoles</Description_Espagnole>
+        <Description_Française>Description Française</Description_Française>
+        <Description_Italienne>Descrizione Italiano</Description_Italienne>
+    </Connexion>
+</Liste_des_connexions>

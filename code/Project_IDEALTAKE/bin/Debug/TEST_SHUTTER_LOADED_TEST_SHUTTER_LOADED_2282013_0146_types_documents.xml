@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<types_documents>
+    <DATA>
+        <INDICE_AUTO>1</INDICE_AUTO>
+        <Description_francais>Schéma électrique</Description_francais>
+        <Description_anglais>Electrical diagram</Description_anglais>
+        <Description_allemand>Elektrisches Schema</Description_allemand>
+        <Description_italien>Elettrico Schema</Description_italien>
+        <Description_espagnole>Eléctrico Plan</Description_espagnole>
+        <Type_Previsualisable>False</Type_Previsualisable>
+        <Picto_Doc>nul</Picto_Doc>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>2</INDICE_AUTO>
+        <Description_francais>Schema Synoptique</Description_francais>
+        <Description_anglais>Synopsis diagram</Description_anglais>
+        <Description_allemand>Synopsis Schema</Description_allemand>
+        <Description_italien>Sinossi Schema</Description_italien>
+        <Description_espagnole>Sinopsis Plan</Description_espagnole>
+        <Type_Previsualisable>False</Type_Previsualisable>
+        <Picto_Doc>nul</Picto_Doc>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>3</INDICE_AUTO>
+        <Description_francais>Fiche Produit</Description_francais>
+        <Description_anglais>Product Description</Description_anglais>
+        <Description_allemand>Beschreibung produzieren</Description_allemand>
+        <Description_italien>Foglio Prodotto</Description_italien>
+        <Description_espagnole>Hoja Producir</Description_espagnole>
+        <Type_Previsualisable>False</Type_Previsualisable>
+        <Picto_Doc>nul</Picto_Doc>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>4</INDICE_AUTO>
+        <Description_francais>Notice</Description_francais>
+        <Description_anglais>Instructions</Description_anglais>
+        <Description_allemand>Vermerk</Description_allemand>
+        <Description_italien>Conciso</Description_italien>
+        <Description_espagnole>Conciso</Description_espagnole>
+        <Type_Previsualisable>False</Type_Previsualisable>
+        <Picto_Doc>nul</Picto_Doc>
+    </DATA>
+    <DATA>
+        <INDICE_AUTO>5</INDICE_AUTO>
+        <Description_francais>Photo</Description_francais>
+        <Description_anglais>Picture</Description_anglais>
+        <Description_allemand>Foto</Description_allemand>
+        <Description_italien>Foto</Description_italien>
+        <Description_espagnole>Foto</Description_espagnole>
+        <Type_Previsualisable>True</Type_Previsualisable>
+        <Picto_Doc>nul</Picto_Doc>
+    </DATA>
+</types_documents>

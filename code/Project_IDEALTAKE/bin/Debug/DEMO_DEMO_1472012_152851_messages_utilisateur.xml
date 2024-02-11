@@ -1,0 +1,1714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<messages_utilisateur>
+    <DATA>
+        <ID_Message>1</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Fehler im Laufe von Verbindung  Dienstprogramm : </ALLEMAND>
+        <ANGLAIS>Error during connection to the server : </ANGLAIS>
+        <ESPAGNOLE>Error durante comunicación Servidor : </ESPAGNOLE>
+        <FRANCAIS>Erreur lors de la connexion au serveur : </FRANCAIS>
+        <ITALIEN>Errore durante connessione Calcolatore : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>2</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit zu  schaffen  Daten Basis : </ALLEMAND>
+        <ANGLAIS>Unable to create data base : </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado crear base de datos : </ESPAGNOLE>
+        <FRANCAIS>Impossible de créer la base de donnée : </FRANCAIS>
+        <ITALIEN>Incapace creare base dati : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>3</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu  nutzen Basis : </ALLEMAND>
+        <ANGLAIS>Unable to use data base : </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado usar base  : </ESPAGNOLE>
+        <FRANCAIS>Impossible d'utiliser la base : </FRANCAIS>
+        <ITALIEN>Incapace uso base : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>4</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu Löschtaste  tabelle </ALLEMAND>
+        <ANGLAIS>Unable to delete table </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado suprimir índice  </ESPAGNOLE>
+        <FRANCAIS>Impossible de supprimer la table </FRANCAIS>
+        <ITALIEN>Incapace cancellare classifica </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>5</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu schaffen  tabelle </ALLEMAND>
+        <ANGLAIS>Unable to create table </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado crear índice  </ESPAGNOLE>
+        <FRANCAIS>Impossible de créer la table </FRANCAIS>
+        <ITALIEN>Incapace creare classifica </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>6</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu einfügen daten zu tabelle </ALLEMAND>
+        <ANGLAIS>Unable to insert data in table </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado insertar datos índice</ESPAGNOLE>
+        <FRANCAIS>Impossible d'insérer des informations dans la table</FRANCAIS>
+        <ITALIEN>Incapace inserire classifica </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>7</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Löschtaste prozedur : </ALLEMAND>
+        <ANGLAIS>Delete procedure : </ANGLAIS>
+        <ESPAGNOLE>Suprimir procedimiento : </ESPAGNOLE>
+        <FRANCAIS>Suppression de la procédure : </FRANCAIS>
+        <ITALIEN>Cancellare procedura : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>8</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>, ob existieren.</ALLEMAND>
+        <ANGLAIS>, if it exist.</ANGLAIS>
+        <ESPAGNOLE>, si existir.</ESPAGNOLE>
+        <FRANCAIS>, si elle existe.</FRANCAIS>
+        <ITALIEN>,  se esiste..</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>9</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu Löschtaste prozedur </ALLEMAND>
+        <ANGLAIS>Unable to delete procedure </ANGLAIS>
+        <ESPAGNOLE>Imposibilitado suprimir procedimiento  </ESPAGNOLE>
+        <FRANCAIS>Impossible de supprimer la procédure </FRANCAIS>
+        <ITALIEN>Incapace cancellare procedura </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>10</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Einfügung prozedur </ALLEMAND>
+        <ANGLAIS>Insertion of procedure </ANGLAIS>
+        <ESPAGNOLE>Inserción procedimiento  </ESPAGNOLE>
+        <FRANCAIS>Insertion de la procédure : </FRANCAIS>
+        <ITALIEN>Inserzione procedura : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>11</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Daten Basis : </ALLEMAND>
+        <ANGLAIS>Data base : </ANGLAIS>
+        <ESPAGNOLE>Base  : </ESPAGNOLE>
+        <FRANCAIS>La base  : </FRANCAIS>
+        <ITALIEN>Base : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>12</ID_Message>
+        <Type_Message>QUESTION</Type_Message>
+        <ALLEMAND> Vorhandensein schon. Willst du neu schaffen?</ALLEMAND>
+        <ANGLAIS> Exist already. Do you want to create it again? </ANGLAIS>
+        <ESPAGNOLE> Existir ya. Querer crear de nuevo?</ESPAGNOLE>
+        <FRANCAIS> Existe déjà. Etes vous sûr de vouloir la recréer?</FRANCAIS>
+        <ITALIEN> già esistente. Siete sicuri di volerlo  ricreare?</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>13</ID_Message>
+        <Type_Message>TITRE_AVERTISSEMENT</Type_Message>
+        <ALLEMAND>Vorsicht!</ALLEMAND>
+        <ANGLAIS>Warning!</ANGLAIS>
+        <ESPAGNOLE>Atención!</ESPAGNOLE>
+        <FRANCAIS>Attention !</FRANCAIS>
+        <ITALIEN>Attento!</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>14</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kreation Daten Basis : </ALLEMAND>
+        <ANGLAIS>Creation of data base : </ANGLAIS>
+        <ESPAGNOLE>Creación  base de datos : </ESPAGNOLE>
+        <FRANCAIS>Création de la base : </FRANCAIS>
+        <ITALIEN>Creazione base dati : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>15</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Nutzung  Daten Basis : </ALLEMAND>
+        <ANGLAIS>Use of data base : </ANGLAIS>
+        <ESPAGNOLE>Usar base de datos :</ESPAGNOLE>
+        <FRANCAIS>Utilisation de la base : </FRANCAIS>
+        <ITALIEN>Usare  base dati : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>16</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Löschtaste  tabelle : </ALLEMAND>
+        <ANGLAIS>Delete table : </ANGLAIS>
+        <ESPAGNOLE>Suprimir índice  : </ESPAGNOLE>
+        <FRANCAIS>Suppression de la table :  </FRANCAIS>
+        <ITALIEN>Cancellare classifica : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>17</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kreation  tabelle  : </ALLEMAND>
+        <ANGLAIS>Creation of table : </ANGLAIS>
+        <ESPAGNOLE>Creación  índice : </ESPAGNOLE>
+        <FRANCAIS>Création de la table : </FRANCAIS>
+        <ITALIEN>Creazione classifica  : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>18</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Einfügung  tabelle  : </ALLEMAND>
+        <ANGLAIS>Insertion in table :  </ANGLAIS>
+        <ESPAGNOLE>Inserción  índice : </ESPAGNOLE>
+        <FRANCAIS>Insertion dans la table : </FRANCAIS>
+        <ITALIEN>Inserzione classifica : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>19</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Informationen Versäumnisurteil.</ALLEMAND>
+        <ANGLAIS> Informations by default.</ANGLAIS>
+        <ESPAGNOLE> Información a falta.</ESPAGNOLE>
+        <FRANCAIS> d'informations par défaut.</FRANCAIS>
+        <ITALIEN> Notifica per diffetto.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>20</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Löschtaste Daten Basis : </ALLEMAND>
+        <ANGLAIS>Delete database : </ANGLAIS>
+        <ESPAGNOLE>Suprimir base de datos : </ESPAGNOLE>
+        <FRANCAIS>Suppression de la base : </FRANCAIS>
+        <ITALIEN>Cancellare  base dati : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>21</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglichkeit  zu Löschtaste Daten Basis : </ALLEMAND>
+        <ANGLAIS>Unable to delete database :</ANGLAIS>
+        <ESPAGNOLE>Imposibilitado suprimir base de datos : </ESPAGNOLE>
+        <FRANCAIS>Impossible de supprimer la base : </FRANCAIS>
+        <ITALIEN>Incapace cancellare base dati : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>22</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Löschtaste Verbindung : </ALLEMAND>
+        <ANGLAIS>Do you really want to delete connection : </ANGLAIS>
+        <ESPAGNOLE>Suprimir conexión : </ESPAGNOLE>
+        <FRANCAIS>Êtes vous sûr de vouloir supprimer la connexion : </FRANCAIS>
+        <ITALIEN>Cancellare connessione : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>23</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Zur Information</ALLEMAND>
+        <ANGLAIS>Information</ANGLAIS>
+        <ESPAGNOLE>Información</ESPAGNOLE>
+        <FRANCAIS>Information</FRANCAIS>
+        <ITALIEN>Informazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>24</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verbindung </ALLEMAND>
+        <ANGLAIS>Connection </ANGLAIS>
+        <ESPAGNOLE>Conexión </ESPAGNOLE>
+        <FRANCAIS>Connexion </FRANCAIS>
+        <ITALIEN>Connessione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>25</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>löschtaste</ALLEMAND>
+        <ANGLAIS>deleted</ANGLAIS>
+        <ESPAGNOLE>suprimir</ESPAGNOLE>
+        <FRANCAIS>supprimée</FRANCAIS>
+        <ITALIEN>cancellare</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>26</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Titel verbindung : </ALLEMAND>
+        <ANGLAIS>The title of your connection has : </ANGLAIS>
+        <ESPAGNOLE>Título Conexión : </ESPAGNOLE>
+        <FRANCAIS>Le nom de votre connexion à une longueur de : </FRANCAIS>
+        <ITALIEN>Intitolare connessione  : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>27</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND> charakters.</ALLEMAND>
+        <ANGLAIS> characters.</ANGLAIS>
+        <ESPAGNOLE> tipo.</ESPAGNOLE>
+        <FRANCAIS> caractères.</FRANCAIS>
+        <ITALIEN> carattere.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>28</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>3 charakters &lt; Titel verbindung  &lt; 29 charakters</ALLEMAND>
+        <ANGLAIS>3 characters &lt; Title of your connexion &lt; 29 characters</ANGLAIS>
+        <ESPAGNOLE>3 tipo &lt; Título Conexión &lt; 29 tipo</ESPAGNOLE>
+        <FRANCAIS>Le titre de la connexion doit avoir entre 3 et 29 caractères.</FRANCAIS>
+        <ITALIEN>3 carattere &lt; Intitolare Connessione  &lt; 29 carattere</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>29</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Falsch IP adresse formen</ALLEMAND>
+        <ANGLAIS>Bad format IP address</ANGLAIS>
+        <ESPAGNOLE>Podrido formato dirigir IP</ESPAGNOLE>
+        <FRANCAIS>L'adresse IP ou le nom d'hote est trop court (e.g : 2.5.1.9 7 ou www.mon_serveur_mysql.fr).</FRANCAIS>
+        <ITALIEN>Marcio formato indirizzare IP </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>30</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Benutzer Name zu klein (3-29 charakters)</ALLEMAND>
+        <ANGLAIS>User name too small (3-29 characters)</ANGLAIS>
+        <ESPAGNOLE>Usuario denominación también pequeño (3-29 tipo)</ESPAGNOLE>
+        <FRANCAIS>Le nom de l'utilisateur doit avoir entre 3 et 29 caractères.</FRANCAIS>
+        <ITALIEN>Utente nome troppo piccolo (3-29 carattere)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>31</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Paßwort zu klein (4 charakters minimum)</ALLEMAND>
+        <ANGLAIS>Password too small (4 characters minimum)</ANGLAIS>
+        <ESPAGNOLE>Contraseña también pequeño (4 tipo mínimo)</ESPAGNOLE>
+        <FRANCAIS>Le mot de passe est trop court (4 caractères minimum).</FRANCAIS>
+        <ITALIEN>Parola d'ordine troppo piccolo (4 Carattere minimo)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>32</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Konfirmieren paßwort zu klein (4 charakters minimum)</ALLEMAND>
+        <ANGLAIS>Confirmed password too small (4 characters minimum)</ANGLAIS>
+        <ESPAGNOLE>Contraseña también pequeño (4 tipo mínimo)</ESPAGNOLE>
+        <FRANCAIS>Le mot de passe confirmé est trop court (4 caractères minimum).</FRANCAIS>
+        <ITALIEN>Parola d'ordine corroborare troppo piccolo (4 Carattere minimo)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>33</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Konfirmieren paßwort nicht gleichgestellter paßwort.</ALLEMAND>
+        <ANGLAIS>Confirmed password not equal password.</ANGLAIS>
+        <ESPAGNOLE>Contraseña también no igual contraseña también.</ESPAGNOLE>
+        <FRANCAIS>La confirmation du mot de passe est différente du mot de passe.</FRANCAIS>
+        <ITALIEN>Parola d'ordine corroborare non uguale parola d'ordine.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>34</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Daten Basis name länge : </ALLEMAND>
+        <ANGLAIS>Data base name length : </ANGLAIS>
+        <ESPAGNOLE>Base denominación largo : </ESPAGNOLE>
+        <FRANCAIS>Le nom de votre base à une longueur de : </FRANCAIS>
+        <ITALIEN>Base nome lunghezza : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>35</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND> charakters.</ALLEMAND>
+        <ANGLAIS> characters.</ANGLAIS>
+        <ESPAGNOLE> tipo.</ESPAGNOLE>
+        <FRANCAIS> caractères.</FRANCAIS>
+        <ITALIEN> carattere.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>36</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>3  charakters &lt; Länge von dem Namen ihres Datenbasis &lt; 29  charakters</ALLEMAND>
+        <ANGLAIS>3  characters &lt; Data base name length &lt; 29  characters</ANGLAIS>
+        <ESPAGNOLE>3 tipo &lt; Base denominación largo &lt; 29 tipo</ESPAGNOLE>
+        <FRANCAIS>Le nom de la base doit avoir entre 3 et 29 caractères.</FRANCAIS>
+        <ITALIEN>3 carattere &lt; Base nome &lt; 29 carattere</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>37</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Weg des elektrischen Schemas ist zu klein.</ALLEMAND>
+        <ANGLAIS>Path for electrical diagram is too short.</ANGLAIS>
+        <ESPAGNOLE>Curso eléctrico plan también pequeño.</ESPAGNOLE>
+        <FRANCAIS>Le nom du chemin des schémas est trop court.</FRANCAIS>
+        <ITALIEN>Corso elettrico schema troppo piccolo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>38</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>(4 charakters minimum  e.g : c:SCHEMAS oder  http://www.site.fr/data/schemas/)</ALLEMAND>
+        <ANGLAIS>(4 characters minimum  e.g : c:SCHEMAS or http://www.site.fr/data/schemas/)</ANGLAIS>
+        <ESPAGNOLE>(4 tipo mínimo  e.g : c:SCHEMAS,  http://www.site.fr/data/schemas/)</ESPAGNOLE>
+        <FRANCAIS>(4 caractères minimum e.g : c:SCHEMAS ou http://www.site.fr/data/schemas/)</FRANCAIS>
+        <ITALIEN>(4 Carattere minimo  e.g : c:SCHEMAS ,  http://www.site.fr/data/schemas/)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>39</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Weg des synoptischen Schema ist zu klein.</ALLEMAND>
+        <ANGLAIS>Path for synopsis diagram  is too short.</ANGLAIS>
+        <ESPAGNOLE>Curso sinopsis plan también pequeño.</ESPAGNOLE>
+        <FRANCAIS>Le nom du chemin des synoptiques est trop court.</FRANCAIS>
+        <ITALIEN>Corso sinossi schema troppo piccolo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>40</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>(4 charakters minimum  e.g : c:SYNOPTIQUES oder  http://www.site.fr/data/synoptiques/)</ALLEMAND>
+        <ANGLAIS>(4 characters minimum e.g : c:SYNOPTIQUES or  http://www.site.fr/data/synoptiques/)</ANGLAIS>
+        <ESPAGNOLE>(4 tipo mínimo e.g : c:SYNOPTIQUES ,  http://www.site.fr/data/synoptiques/)</ESPAGNOLE>
+        <FRANCAIS>(4 caractères minimum e.g : c:SYNOPTIQUES ou  http://www.site.fr/data/synoptiques/)</FRANCAIS>
+        <ITALIEN>(4 Carattere minimo e.g : c:SYNOPTIQUES ,  http://www.site.fr/data/synoptiques/)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>41</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Weg vermerk ist zu klein.</ALLEMAND>
+        <ANGLAIS>Path for instructions  is too short.</ANGLAIS>
+        <ESPAGNOLE>Curso conciso también pequeño.</ESPAGNOLE>
+        <FRANCAIS>Le  nom du chemin des notices est trop court.</FRANCAIS>
+        <ITALIEN>Corso conciso troppo piccolo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>42</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>(4 charakters minimum  e.g : c:NOTICES oder http://www.site.fr/data/notices/)</ALLEMAND>
+        <ANGLAIS>(4 characters minimum e.g : c:NOTICES or http://www.site.fr/data/notices/)</ANGLAIS>
+        <ESPAGNOLE>(4 tipo mínimo e.g : c:NOTICES, http://www.site.fr/data/notices/)</ESPAGNOLE>
+        <FRANCAIS>(4 caractères minimum e.g : c:NOTICES ou http://www.site.fr/data/notices/)</FRANCAIS>
+        <ITALIEN>(4 Carattere minimo e.g : c:NOTICES, http://www.site.fr/data/notices/)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>43</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Weg von dem Beschreibungprodukt ist zu klein.</ALLEMAND>
+        <ANGLAIS>Path for product description  is too short.</ANGLAIS>
+        <ESPAGNOLE>Curso hoja producir también pequeño.</ESPAGNOLE>
+        <FRANCAIS>Le  nom du chemin des fiches produits est trop court.</FRANCAIS>
+        <ITALIEN>Corso foglio prodotto troppo piccolo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>44</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>(4 charakters minimum  e.g : c:FICHES_PRODUITS oder  http://www.site.fr/data/fiches_produits/)</ALLEMAND>
+        <ANGLAIS>(4 characters minimum e.g : c:FICHES_PRODUITS or  http://www.site.fr/data/fiches_produits/)</ANGLAIS>
+        <ESPAGNOLE>(4 tipo mínimo e.g : c:FICHES_PRODUITS,  http://www.site.fr/data/fiches_produits/)</ESPAGNOLE>
+        <FRANCAIS>(4 caractères minimum e.g : c:FICHES_PRODUITS ou http://www.site.fr/data/fiches_produits/)</FRANCAIS>
+        <ITALIEN>(4 Carattere minimo e.g : c:FICHES_PRODUITS,  http://www.site.fr/data/fiches_produits/)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>45</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Weg von dem Foto ist zu klein.</ALLEMAND>
+        <ANGLAIS>Path for picture  is too short.</ANGLAIS>
+        <ESPAGNOLE>Curso foto también pequeño.</ESPAGNOLE>
+        <FRANCAIS>Le  nom du chemin des photos des produits est trop court.</FRANCAIS>
+        <ITALIEN>Corso foto troppo piccolo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>46</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>(4 charakters minimum  e.g : c:PHOTOS_PRODUITS oder http://www.site.fr/data/Photos_produits/)</ALLEMAND>
+        <ANGLAIS>(4 characters minimum  e.g : c:PHOTOS_PRODUITS or http://www.site.fr/data/Photos_produits/)</ANGLAIS>
+        <ESPAGNOLE>(4 tipo mínimo  e.g : c:PHOTOS_PRODUITS,  http://www.site.fr/data/Photos_produits/)</ESPAGNOLE>
+        <FRANCAIS>(4 caractères minimum e.g : c:PHOTOS_PRODUITS ou http://www.site.fr/data/Photos_produits/)</FRANCAIS>
+        <ITALIEN>(4 Carattere minimo  e.g : c:PHOTOS_PRODUITS, http://www.site.fr/data/Photos_produits/)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>47</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Deutsche Beschreibung</ALLEMAND>
+        <ANGLAIS>German Description</ANGLAIS>
+        <ESPAGNOLE>German Description</ESPAGNOLE>
+        <FRANCAIS>Description Allemande</FRANCAIS>
+        <ITALIEN>Descrizione  Tedesco</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>48</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Englische Beschreibung</ALLEMAND>
+        <ANGLAIS>English Description</ANGLAIS>
+        <ESPAGNOLE>Descripción Ingleses</ESPAGNOLE>
+        <FRANCAIS>Description Anglaise</FRANCAIS>
+        <ITALIEN>Descrizione Inglese</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>49</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Spanische Beschreibung</ALLEMAND>
+        <ANGLAIS>Spanish Description</ANGLAIS>
+        <ESPAGNOLE>Descripción Españoles</ESPAGNOLE>
+        <FRANCAIS>Description Espagnole</FRANCAIS>
+        <ITALIEN>Descrizione Spagnolo</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>50</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Französische Beschreibung</ALLEMAND>
+        <ANGLAIS>French Description</ANGLAIS>
+        <ESPAGNOLE>Descripción Franceses</ESPAGNOLE>
+        <FRANCAIS>Description Française</FRANCAIS>
+        <ITALIEN>Descrizione Francese</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>51</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Italienische Beschreibung</ALLEMAND>
+        <ANGLAIS>Italian Description</ANGLAIS>
+        <ESPAGNOLE>Descripción Italianos</ESPAGNOLE>
+        <FRANCAIS>Description Italienne</FRANCAIS>
+        <ITALIEN>Descrizione Italiano</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>52</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Auswahl von der Sprache der Beschreibung</ALLEMAND>
+        <ANGLAIS>Select language of connection description </ANGLAIS>
+        <ESPAGNOLE>Selección lengua descripción</ESPAGNOLE>
+        <FRANCAIS>Sélectionnez la langue de la description</FRANCAIS>
+        <ITALIEN>Selezione lingua descrizione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>53</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verbindungsbeschreibung</ALLEMAND>
+        <ANGLAIS>Connection description</ANGLAIS>
+        <ESPAGNOLE>Conexión descripción</ESPAGNOLE>
+        <FRANCAIS>Description de la connexion</FRANCAIS>
+        <ITALIEN>Connessione descrizione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>54</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Ihre</ALLEMAND>
+        <ANGLAIS>Your </ANGLAIS>
+        <ESPAGNOLE>Tu </ESPAGNOLE>
+        <FRANCAIS>Votre </FRANCAIS>
+        <ITALIEN>Tua </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>55</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>3 charakters &lt; Verbindungsbeschreibung &lt; 29 charakters</ALLEMAND>
+        <ANGLAIS>3 characters &lt; Connection description &lt; 29 characters</ANGLAIS>
+        <ESPAGNOLE>3 tipo &lt; Conexión descripción &lt; 29 tipo</ESPAGNOLE>
+        <FRANCAIS>La description de la connexion doit avoir entre 3 et 29 caractères.</FRANCAIS>
+        <ITALIEN>3 carattere &lt; Connessione descrizione  &lt; 29 carattere</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>56</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Information kreation Daten Basis, tabelle</ALLEMAND>
+        <ANGLAIS>Informations aboout add of data base and tables</ANGLAIS>
+        <ESPAGNOLE>Información creación base de datos, índice</ESPAGNOLE>
+        <FRANCAIS>Informations de création de base et des tables</FRANCAIS>
+        <ITALIEN>Informazione creazione base dati, classifica</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>57</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Nicht verfügbar</ALLEMAND>
+        <ANGLAIS>Unavailable</ANGLAIS>
+        <ESPAGNOLE>No disponible</ESPAGNOLE>
+        <FRANCAIS>Non disponible</FRANCAIS>
+        <ITALIEN>Non disponibile</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>58</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name des executable</ALLEMAND>
+        <ANGLAIS>Name of the executable</ANGLAIS>
+        <ESPAGNOLE>Nombre del executable</ESPAGNOLE>
+        <FRANCAIS>Nom de l'executable</FRANCAIS>
+        <ITALIEN>Nome dell'eseguibile</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>59</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Einrichtungsweg</ALLEMAND>
+        <ANGLAIS>Path of installation</ANGLAIS>
+        <ESPAGNOLE>Camino de instalación</ESPAGNOLE>
+        <FRANCAIS>Chemin d'installation</FRANCAIS>
+        <ITALIEN>Strada di installazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>60</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Menge körperlichen Gedächtnisses die im Zusammenhang des Prozesses</ALLEMAND>
+        <ANGLAIS>Quantity of physical memory map in the context of the process</ANGLAIS>
+        <ESPAGNOLE>Cantidad de memoria física al contexto del proceso</ESPAGNOLE>
+        <FRANCAIS>Quantité de mémoire physique mappée au contexte du processus</FRANCAIS>
+        <ITALIEN>Quantità di memoria fisico mappée al contesto</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>61</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Stecker MySql</ALLEMAND>
+        <ANGLAIS>Connector MySql</ANGLAIS>
+        <ESPAGNOLE>Conectador MySql</ESPAGNOLE>
+        <FRANCAIS>Connecteur MySql</FRANCAIS>
+        <ITALIEN>Connettore MySql</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>62</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name der Datei</ALLEMAND>
+        <ANGLAIS>File Name</ANGLAIS>
+        <ESPAGNOLE>Nombre del fichero</ESPAGNOLE>
+        <FRANCAIS>Nom du fichier</FRANCAIS>
+        <ITALIEN>Nome dello schedario</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>63</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name der Gesellschaft</ALLEMAND>
+        <ANGLAIS>Name of the company</ANGLAIS>
+        <ESPAGNOLE>Nombre de la sociedad</ESPAGNOLE>
+        <FRANCAIS>Nom de la société</FRANCAIS>
+        <ITALIEN>Nome della società</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>64</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beschreibung der Datei</ALLEMAND>
+        <ANGLAIS>File Description</ANGLAIS>
+        <ESPAGNOLE>Descripción del fichero</ESPAGNOLE>
+        <FRANCAIS>Description du fichier</FRANCAIS>
+        <ITALIEN>Descrizione dello schedario</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>65</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Version der Datei</ALLEMAND>
+        <ANGLAIS>File Version</ANGLAIS>
+        <ESPAGNOLE>Versión del fichero</ESPAGNOLE>
+        <FRANCAIS>Version du fichier</FRANCAIS>
+        <ITALIEN>Versione dello schedario</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>66</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sprache der Datei</ALLEMAND>
+        <ANGLAIS>File Language</ANGLAIS>
+        <ESPAGNOLE>Lengua del fichero</ESPAGNOLE>
+        <FRANCAIS>Langue du fichier</FRANCAIS>
+        <ITALIEN>Lingua dello schedario</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>67</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name des Produktes der Datei</ALLEMAND>
+        <ANGLAIS>File Product Name</ANGLAIS>
+        <ESPAGNOLE>Nombre del producto del fichero</ESPAGNOLE>
+        <FRANCAIS>Nom du produit du fichier</FRANCAIS>
+        <ITALIEN>Nome del prodotto dello schedario</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>68</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Version des Produktes</ALLEMAND>
+        <ANGLAIS>File Product Version</ANGLAIS>
+        <ESPAGNOLE>Versión del Producto</ESPAGNOLE>
+        <FRANCAIS>Version du Produit</FRANCAIS>
+        <ITALIEN>Versione del Prodotto</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>69</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Vollständiger Name des Betriebssystems</ALLEMAND>
+        <ANGLAIS>Complete name of the operating system</ANGLAIS>
+        <ESPAGNOLE>Nombre completo del sistema operativo</ESPAGNOLE>
+        <FRANCAIS>Nom complet du système d'exploitation</FRANCAIS>
+        <ITALIEN>Nome completo del sistema di sfruttamento</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>70</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Platforme Computer</ALLEMAND>
+        <ANGLAIS>Computer Platforme</ANGLAIS>
+        <ESPAGNOLE>Platforme ordenador</ESPAGNOLE>
+        <FRANCAIS>Platforme ordinateur</FRANCAIS>
+        <ITALIEN>Platforme computer</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>71</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kultur</ALLEMAND>
+        <ANGLAIS>Installed Culture</ANGLAIS>
+        <ESPAGNOLE>Cultura </ESPAGNOLE>
+        <FRANCAIS>Culture installlée</FRANCAIS>
+        <ITALIEN>Cultura </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>72</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Informationen Prozessor</ALLEMAND>
+        <ANGLAIS>Information Processor</ANGLAIS>
+        <ESPAGNOLE>Informaciones Procesador</ESPAGNOLE>
+        <FRANCAIS>Informations Processeur</FRANCAIS>
+        <ITALIEN>Notizie Processore</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>73</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Informationen Karte Mutter</ALLEMAND>
+        <ANGLAIS>Information  mother Card</ANGLAIS>
+        <ESPAGNOLE>Informaciones Tarjeta madre</ESPAGNOLE>
+        <FRANCAIS>Informations Carte mère</FRANCAIS>
+        <ITALIEN>Notizie piastra principale</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>74</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Erbauer</ALLEMAND>
+        <ANGLAIS>Manufacturer</ANGLAIS>
+        <ESPAGNOLE>Constructor</ESPAGNOLE>
+        <FRANCAIS>Constructeur</FRANCAIS>
+        <ITALIEN>Costruttore</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>75</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name</ALLEMAND>
+        <ANGLAIS>Name</ANGLAIS>
+        <ESPAGNOLE>Nombre</ESPAGNOLE>
+        <FRANCAIS>Nom</FRANCAIS>
+        <ITALIEN>Nome</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>76</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beschreibung</ALLEMAND>
+        <ANGLAIS>Description</ANGLAIS>
+        <ESPAGNOLE>Descripción</ESPAGNOLE>
+        <FRANCAIS>Description</FRANCAIS>
+        <ITALIEN>Descrizione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>77</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Totales körperliches Gedächtnis</ALLEMAND>
+        <ANGLAIS>Total physical memory</ANGLAIS>
+        <ESPAGNOLE>Memoria física total</ESPAGNOLE>
+        <FRANCAIS>Mémoire physique totale</FRANCAIS>
+        <ITALIEN>Memoria fisica totale</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>78</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verfügbares körperliches Gedächtnis</ALLEMAND>
+        <ANGLAIS>Available physical memory</ANGLAIS>
+        <ESPAGNOLE>Memoria física disponible</ESPAGNOLE>
+        <FRANCAIS>Mémoire physique disponible</FRANCAIS>
+        <ITALIEN>Memoria fisica disponibile</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>79</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Totales virtuelles Gedächtnis</ALLEMAND>
+        <ANGLAIS>Total virtual memory</ANGLAIS>
+        <ESPAGNOLE>Memoria virtual total</ESPAGNOLE>
+        <FRANCAIS>Mémoire virtuelle  totale</FRANCAIS>
+        <ITALIEN>Memoria virtuale totale</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>80</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verfügbares virtuelles Gedächtnis</ALLEMAND>
+        <ANGLAIS>Available virtual memory</ANGLAIS>
+        <ESPAGNOLE>Memoria virtual disponible</ESPAGNOLE>
+        <FRANCAIS>Mémoire virtuelle  disponible</FRANCAIS>
+        <ITALIEN>Memoria virtuale disponibile</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>81</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Vollständiger Name des Benutzers der aktuellen Session</ALLEMAND>
+        <ANGLAIS>Complete name of the user of the current session</ANGLAIS>
+        <ESPAGNOLE>Nombre completo del usuario de la sesión corriente</ESPAGNOLE>
+        <FRANCAIS>Nom complet de l'utilisateur de la session en cours</FRANCAIS>
+        <ITALIEN>Nome completo dell'utente della sessione in corso</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>82</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Dieser Benutzer gehört zu den Gruppen</ALLEMAND>
+        <ANGLAIS>This user belongs to the groups</ANGLAIS>
+        <ESPAGNOLE>Este usuario pertenece a los grupos</ESPAGNOLE>
+        <FRANCAIS>Cet utilisateur appartient aux groupes</FRANCAIS>
+        <ITALIEN>Questo utente appartiene ai gruppi</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>83</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kontooperateur</ALLEMAND>
+        <ANGLAIS>Operator of account</ANGLAIS>
+        <ESPAGNOLE>Operador de cuenta</ESPAGNOLE>
+        <FRANCAIS>Opérateur de compte</FRANCAIS>
+        <ITALIEN>Operatore di conto</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>84</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Ja</ALLEMAND>
+        <ANGLAIS>Yes</ANGLAIS>
+        <ESPAGNOLE>Sí</ESPAGNOLE>
+        <FRANCAIS>Oui</FRANCAIS>
+        <ITALIEN>Sì</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>85</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Nein</ALLEMAND>
+        <ANGLAIS>No</ANGLAIS>
+        <ESPAGNOLE>No</ESPAGNOLE>
+        <FRANCAIS>Non</FRANCAIS>
+        <ITALIEN>No</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>86</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verwalter</ALLEMAND>
+        <ANGLAIS>Administrator</ANGLAIS>
+        <ESPAGNOLE>Administrador</ESPAGNOLE>
+        <FRANCAIS>Administrateur</FRANCAIS>
+        <ITALIEN>Amministratore</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>87</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Schutzoperateur</ALLEMAND>
+        <ANGLAIS>Operator of saving</ANGLAIS>
+        <ESPAGNOLE>Operador de salvaguardia</ESPAGNOLE>
+        <FRANCAIS>Opérateur de sauvegarde</FRANCAIS>
+        <ITALIEN>Operatore di salvaguardia</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>88</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Gast</ALLEMAND>
+        <ANGLAIS>Guest</ANGLAIS>
+        <ESPAGNOLE>Invitado</ESPAGNOLE>
+        <FRANCAIS>Invité</FRANCAIS>
+        <ITALIEN>Invitato</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>89</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Benutzer, zu können</ALLEMAND>
+        <ANGLAIS>User to be able to</ANGLAIS>
+        <ESPAGNOLE>Usuario poder</ESPAGNOLE>
+        <FRANCAIS>Utilisateur avec pouvoir</FRANCAIS>
+        <ITALIEN>Utente con potere</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>90</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Druckoperateur</ALLEMAND>
+        <ANGLAIS>Operator of printing</ANGLAIS>
+        <ESPAGNOLE>Operador de impresión</ESPAGNOLE>
+        <FRANCAIS>Opérateur d'impression</FRANCAIS>
+        <ITALIEN>Operatore di impressione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>91</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Replicator</ALLEMAND>
+        <ANGLAIS>Replicator</ANGLAIS>
+        <ESPAGNOLE>Replicator</ESPAGNOLE>
+        <FRANCAIS>Réplicateur</FRANCAIS>
+        <ITALIEN>Replicator</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>92</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Operateur System</ALLEMAND>
+        <ANGLAIS>Operator system</ANGLAIS>
+        <ESPAGNOLE>Operador sistema</ESPAGNOLE>
+        <FRANCAIS>Opérateur système</FRANCAIS>
+        <ITALIEN>Operatore sistema</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>93</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Benutzer</ALLEMAND>
+        <ANGLAIS>User</ANGLAIS>
+        <ESPAGNOLE>Usuario</ESPAGNOLE>
+        <FRANCAIS>Utilisateur</FRANCAIS>
+        <ITALIEN>Utente</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>94</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Recycling profiliert, des firewall örtlich</ALLEMAND>
+        <ANGLAIS>Recovery of profiles local of the firewall</ANGLAIS>
+        <ESPAGNOLE>Recuperación de perfila local del cortafuego</ESPAGNOLE>
+        <FRANCAIS>Récupération du profile locale du firewall</FRANCAIS>
+        <ITALIEN>Recupero dello profilo locale del firewall</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>95</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Diagnostik der Verbindung</ALLEMAND>
+        <ANGLAIS>Diagnosis of the connection</ANGLAIS>
+        <ESPAGNOLE>Diagnóstico de la conexión</ESPAGNOLE>
+        <FRANCAIS>Diagnostic de la connexion</FRANCAIS>
+        <ITALIEN>Diagnosi della connessione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>96</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Computer ist mit einem örtlichen und / oder Internet-Netz verbunden</ALLEMAND>
+        <ANGLAIS>The computer is connected with a local area network andor Internet</ANGLAIS>
+        <ESPAGNOLE>El ordenador es unido a una red de área local yo Internet</ESPAGNOLE>
+        <FRANCAIS>L'ordinateur est relié à un réseau local et/ou Internet</FRANCAIS>
+        <ITALIEN>Il computer è collegato locale et/ou Internet ad una rete</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>97</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Der Computer ist mit einem örtlichen und / oder Internet-Netz nicht verbunden</ALLEMAND>
+        <ANGLAIS>The computer is not connected with a local area network andor Internet</ANGLAIS>
+        <ESPAGNOLE>El ordenador no es unido a una red de área local yo Internet</ESPAGNOLE>
+        <FRANCAIS>L'ordinateur n'est pas relié à un réseau local et/ou Internet</FRANCAIS>
+        <ITALIEN>Il computer non è collegato locale et/ou Internet ad una rete</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>98</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Anzahl von der Netzwerkkarte</ALLEMAND>
+        <ANGLAIS>Number of Network(s) card(s)</ANGLAIS>
+        <ESPAGNOLE>Número de tarjeta Red</ESPAGNOLE>
+        <FRANCAIS>Nombre de carte(s) Réseau(x) </FRANCAIS>
+        <ITALIEN>Numero di carta Rete</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>99</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Netzwerkkarte</ALLEMAND>
+        <ANGLAIS>Network card</ANGLAIS>
+        <ESPAGNOLE>Tarjeta Red</ESPAGNOLE>
+        <FRANCAIS>Carte Réseau</FRANCAIS>
+        <ITALIEN>Carta Rete</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>100</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beschreibung der Karte</ALLEMAND>
+        <ANGLAIS>Description of the card</ANGLAIS>
+        <ESPAGNOLE>Descripción de la tarjeta</ESPAGNOLE>
+        <FRANCAIS>Description de la carte</FRANCAIS>
+        <ITALIEN>Descrizione della carta</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>101</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Typ von Interface</ALLEMAND>
+        <ANGLAIS>Type of interface</ANGLAIS>
+        <ESPAGNOLE>Tipo de interfaz</ESPAGNOLE>
+        <FRANCAIS>Type d'interface</FRANCAIS>
+        <ITALIEN>Tipo di interfaccia</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>102</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Geschwindigkeit</ALLEMAND>
+        <ANGLAIS>Speed</ANGLAIS>
+        <ESPAGNOLE>Velocidad</ESPAGNOLE>
+        <FRANCAIS>Vitesse</FRANCAIS>
+        <ITALIEN>Velocità</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>103</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Status</ALLEMAND>
+        <ANGLAIS>Status</ANGLAIS>
+        <ESPAGNOLE>Estatuto</ESPAGNOLE>
+        <FRANCAIS>Etat</FRANCAIS>
+        <ITALIEN>Statuto</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>104</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kein verfügbare Information IPv4 für dieses Interface</ALLEMAND>
+        <ANGLAIS>No available information IPv4 for this interface</ANGLAIS>
+        <ESPAGNOLE>Ninguna información IPv4 disponible para esta interfaz</ESPAGNOLE>
+        <FRANCAIS>Pas d'information IPv4 disponible pour cette interface</FRANCAIS>
+        <ITALIEN>Non di notizia IPv4 disponibile per questa interfaccia</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>105</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Fußgängerbrücke</ALLEMAND>
+        <ANGLAIS>Gateway</ANGLAIS>
+        <ESPAGNOLE>Pasarela</ESPAGNOLE>
+        <FRANCAIS>Passerelle</FRANCAIS>
+        <ITALIEN>Passerella</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>106</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Datensendung IPv4</ALLEMAND>
+        <ANGLAIS>Emission of data IPv4</ANGLAIS>
+        <ESPAGNOLE>Emisión de dato IPv4</ESPAGNOLE>
+        <FRANCAIS>Emission de données IPv4</FRANCAIS>
+        <ITALIEN>Emissione del dati IPv4</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>107</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Datenempfang IPv4</ALLEMAND>
+        <ANGLAIS>Reception of data IPv4</ANGLAIS>
+        <ESPAGNOLE>Recepción de dato IPv4</ESPAGNOLE>
+        <FRANCAIS>Réception de données IPv4</FRANCAIS>
+        <ITALIEN>Ricevimento del dati IPv4</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>108</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Name Ihres Computers</ALLEMAND>
+        <ANGLAIS>Name of your computer</ANGLAIS>
+        <ESPAGNOLE>Nombre de su ordenador</ESPAGNOLE>
+        <FRANCAIS>Nom de votre ordinateur</FRANCAIS>
+        <ITALIEN>Nome del vostro computer</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>109</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Schicke IP dieser Maschine</ALLEMAND>
+        <ANGLAIS>IP of this machine</ANGLAIS>
+        <ESPAGNOLE>IP de esta máquina</ESPAGNOLE>
+        <FRANCAIS>Adresse(s) IP de cette machine</FRANCAIS>
+        <ITALIEN> IP di questa macchina</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>110</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Ping des entfernten Servers</ALLEMAND>
+        <ANGLAIS>Ping of the Remote server</ANGLAIS>
+        <ESPAGNOLE>Ping del Servidor distante</ESPAGNOLE>
+        <FRANCAIS>Ping du Serveur distant</FRANCAIS>
+        <ITALIEN>Ping del Server distante</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>111</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Aktuelle Suche</ALLEMAND>
+        <ANGLAIS>Search at present</ANGLAIS>
+        <ESPAGNOLE>Investigación actualmente</ESPAGNOLE>
+        <FRANCAIS>Recherche en cours</FRANCAIS>
+        <ITALIEN>ricerca attualmente</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>112</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Kette von Verbindung mit dem Server</ALLEMAND>
+        <ANGLAIS>Chain of connection to the server</ANGLAIS>
+        <ESPAGNOLE>Cadena de conexión al servidor</ESPAGNOLE>
+        <FRANCAIS>Chaîne de connexion au serveur</FRANCAIS>
+        <ITALIEN>Catena di connessione al server</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>113</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Version der Software Server MySql</ALLEMAND>
+        <ANGLAIS>Version of the server software MySql</ANGLAIS>
+        <ESPAGNOLE>Versión del software Camarero MySql</ESPAGNOLE>
+        <FRANCAIS>Version du logiciel Serveur MySql</FRANCAIS>
+        <ITALIEN>Versione del di software Cameriere MySql</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>114</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Visualisation von angeschlossenen Benutzern</ALLEMAND>
+        <ANGLAIS>Display of the connected users</ANGLAIS>
+        <ESPAGNOLE>Visualización de los usuarios conectados</ESPAGNOLE>
+        <FRANCAIS>Visualisation des utilisateurs connectés</FRANCAIS>
+        <ITALIEN>Visualizzazione degli utenti connessi</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>115</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Antrag</ALLEMAND>
+        <ANGLAIS>Request</ANGLAIS>
+        <ESPAGNOLE>Demanda</ESPAGNOLE>
+        <FRANCAIS>Requête</FRANCAIS>
+        <ITALIEN>Richiesta</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>116</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Gefundene Datenbasis</ALLEMAND>
+        <ANGLAIS>Found database(s)</ANGLAIS>
+        <ESPAGNOLE>Base de datos encontrada</ESPAGNOLE>
+        <FRANCAIS>Base(s) présente(nt)</FRANCAIS>
+        <ITALIEN>Banca dati trovata</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>117</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Existiere auf diesem Server gut</ALLEMAND>
+        <ANGLAIS>Exist on this server</ANGLAIS>
+        <ESPAGNOLE>Existe sobre este servidor</ESPAGNOLE>
+        <FRANCAIS>existe bien sur ce serveur</FRANCAIS>
+        <ITALIEN>esisti su questo server</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>118</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Registrierung</ALLEMAND>
+        <ANGLAIS>Recording</ANGLAIS>
+        <ESPAGNOLE>Registro</ESPAGNOLE>
+        <FRANCAIS>enregistrement</FRANCAIS>
+        <ITALIEN>registrazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>119</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Das Diagnostische dieser Verbindung hat fertiggebracht</ALLEMAND>
+        <ANGLAIS>The diagnostic of this connection made a success</ANGLAIS>
+        <ESPAGNOLE>Diagnostico de esta conexion consiguio</ESPAGNOLE>
+        <FRANCAIS>Le diagnostic de cette connexion est un succés</FRANCAIS>
+        <ITALIEN>Il diagnostico di questa connessione e riuscito</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>120</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>existiere nicht auf diesem Server</ALLEMAND>
+        <ANGLAIS>Exist not on this server</ANGLAIS>
+        <ESPAGNOLE>Existe no sobre este servidor</ESPAGNOLE>
+        <FRANCAIS>n'existe pas sur ce serveur</FRANCAIS>
+        <ITALIEN>non esistere su questo server</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>121</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Die Verbindung beseitigen, sie rekonstruieren, das Feld anstreichend, leere Basis schaffen.</ALLEMAND>
+        <ANGLAIS>Delete the connection, recreate it by marking the compartment create empty base.</ANGLAIS>
+        <ESPAGNOLE>Suprimir la conexión, recrearlo punteando el compartimiento crear base vacía.</ESPAGNOLE>
+        <FRANCAIS>Supprimer la connexion, la recréer en cochant la case créer base vide.</FRANCAIS>
+        <ITALIEN>Sopprimere la connessione, ricreare segnandola la capanna creare base vuoto.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>122</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Es hat einen Irrtum gegeben</ALLEMAND>
+        <ANGLAIS>There was an error</ANGLAIS>
+        <ESPAGNOLE>Hubo un error</ESPAGNOLE>
+        <FRANCAIS>Il y a eu une erreur</FRANCAIS>
+        <ITALIEN>C'è stato un errore</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>123</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Die Diagnostik dieser Verbindung ist gescheitert</ALLEMAND>
+        <ANGLAIS>The diagnosis of this connection failed</ANGLAIS>
+        <ESPAGNOLE>El diagnóstico de esta conexión fue suspendido</ESPAGNOLE>
+        <FRANCAIS>Le diagnostic de cette connexion a échoué</FRANCAIS>
+        <ITALIEN>La diagnosi di questa connessione è fallita</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>124</ID_Message>
+        <Type_Message>QUESTION</Type_Message>
+        <ALLEMAND>Stärken sich Sie der Text der Hilfe bitte?</ALLEMAND>
+        <ANGLAIS>Would you like to restore the text of the help?</ANGLAIS>
+        <ESPAGNOLE>¿ Por favor, alimente el texto de la ayuda?</ESPAGNOLE>
+        <FRANCAIS>Voulez vous restaurer le texte de l'aide?</FRANCAIS>
+        <ITALIEN>Volete restaurare il testo dell'aiuto?</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>125</ID_Message>
+        <Type_Message>TITRE</Type_Message>
+        <ALLEMAND>Anschlag Hilft</ALLEMAND>
+        <ANGLAIS>Display Helps</ANGLAIS>
+        <ESPAGNOLE>Fijación Ayuda</ESPAGNOLE>
+        <FRANCAIS>Affichage Aide</FRANCAIS>
+        <ITALIEN>Affissione Aiuta</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>126</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie sollen einen Kode von Dokument tippen, um eine Suche anzufangen.</ALLEMAND>
+        <ANGLAIS>You have to type a code of document to begin research.</ANGLAIS>
+        <ESPAGNOLE>Usted debe golpear un código de documento para empezar una búsqueda.</ESPAGNOLE>
+        <FRANCAIS>Vous devez taper un code de document pour débuter une recherche.</FRANCAIS>
+        <ITALIEN>Dovete battere un codice di documento per esordire una ricerca.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>127</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie sollen Ihre Auswahl machen.</ALLEMAND>
+        <ANGLAIS>You have to make your selection.</ANGLAIS>
+        <ESPAGNOLE>Usted debe hacer su selección.</ESPAGNOLE>
+        <FRANCAIS>Vous devez faire votre sélection.</FRANCAIS>
+        <ITALIEN>Dovete fare la vostra selezione.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>128</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Es gibt keinen gegenwärtig angezeigten Bericht</ALLEMAND>
+        <ANGLAIS>There is no report shown at present</ANGLAIS>
+        <ESPAGNOLE>No hay informe fijado actualmente</ESPAGNOLE>
+        <FRANCAIS>Il n'y a pas de rapport affiché actuellement</FRANCAIS>
+        <ITALIEN>Non c'è di rapporto affisso attualmente</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>129</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Name des Berichtes für das Retten ist nicht informiert</ALLEMAND>
+        <ANGLAIS>The name of the Report to be saved is not informed</ANGLAIS>
+        <ESPAGNOLE>El nombre del Informe que hay que salvar no es informado</ESPAGNOLE>
+        <FRANCAIS>le nom du Rapport à sauver n'est pas renseigné</FRANCAIS>
+        <ITALIEN>il nome del Rapporto a salvare non è informato</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>130</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Name des Berichtes für das Retten enthält mehr als 20 Zeichen.</ALLEMAND>
+        <ANGLAIS>The name of the Report to be saved contains more than 20 characters.</ANGLAIS>
+        <ESPAGNOLE>El nombre del Informe que hay que salvar contiene más de 20 carácteres.</ESPAGNOLE>
+        <FRANCAIS>Le nom du Rapport à sauver contient plus de 20 caractères.</FRANCAIS>
+        <ITALIEN>Il nome del Rapporto a salvare contiene più di 20 caratteri.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>131</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Ihr Beziehungsname enthält :</ALLEMAND>
+        <ANGLAIS>Your name of report contains: </ANGLAIS>
+        <ESPAGNOLE>Su nombre de informe contiene: </ESPAGNOLE>
+        <FRANCAIS>Votre nom de rapport contient : </FRANCAIS>
+        <ITALIEN>Il vostro nome di rapporto contiene : </ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>132</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der deutliche Bericht gegenwärtig ist schon gerettet.</ALLEMAND>
+        <ANGLAIS>The visible Report at present is already saved.</ANGLAIS>
+        <ESPAGNOLE>El Informe visible actualmente es ya salvado.</ESPAGNOLE>
+        <FRANCAIS>Le Rapport visible actuellement est déjà sauvé.</FRANCAIS>
+        <ITALIEN>Il Rapporto visibile è salvato attualmente già.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>133</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Gesicherter Bericht</ALLEMAND>
+        <ANGLAIS>Protected report</ANGLAIS>
+        <ESPAGNOLE>Informe Salvaguardado</ESPAGNOLE>
+        <FRANCAIS>Rapport Sauvegardé</FRANCAIS>
+        <ITALIEN>Rapporto Salvaguardato</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>134</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Ein Irrtum hat sich ereignet.</ALLEMAND>
+        <ANGLAIS>An error occurred.</ANGLAIS>
+        <ESPAGNOLE>Un error se produjo.</ESPAGNOLE>
+        <FRANCAIS>Une erreur s'est produite.</FRANCAIS>
+        <ITALIEN>Un errore si è prodursi.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>135</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Es gibt ein Auswahlproblem von Drucker.</ALLEMAND>
+        <ANGLAIS>There is a problem of selection of printer.</ANGLAIS>
+        <ESPAGNOLE>Hay un problema de selección de impresora.</ESPAGNOLE>
+        <FRANCAIS>il y a un problème de sélection d'imprimante.</FRANCAIS>
+        <ITALIEN>c'è un problema di selezione di stampante.
+c'è un problema di selezione di stampante.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>136</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglich, den Bericht zu laden.</ALLEMAND>
+        <ANGLAIS>Impossible to load the report.</ANGLAIS>
+        <ESPAGNOLE>Imposible cargar el informe.</ESPAGNOLE>
+        <FRANCAIS>Impossible de charger le rapport.</FRANCAIS>
+        <ITALIEN>Impossibile di incaricare il rapporto.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>137</ID_Message>
+        <Type_Message>QUESTION</Type_Message>
+        <ALLEMAND>Wünschen Sie, sich der Bericht umzubringen?</ALLEMAND>
+        <ANGLAIS>Wish to commit suicide the report?</ANGLAIS>
+        <ESPAGNOLE>¿ Desee suicidarse el informe?</ESPAGNOLE>
+        <FRANCAIS>Désirez vous supprimer le rapport?</FRANCAIS>
+        <ITALIEN>Desiderate sopprimere il rapporto?</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>138</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beseitigter Bericht</ALLEMAND>
+        <ANGLAIS>Deleted report</ANGLAIS>
+        <ESPAGNOLE>Informe suprimido</ESPAGNOLE>
+        <FRANCAIS>Rapport supprimé</FRANCAIS>
+        <ITALIEN>Rapporto soppresso</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>139</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Unmöglich, den Bericht zu beseitigen.</ALLEMAND>
+        <ANGLAIS>Impossible to delete  the Report.</ANGLAIS>
+        <ESPAGNOLE>Imposible suprimir el Informe.</ESPAGNOLE>
+        <FRANCAIS>Impossible de supprimer le Rapport.</FRANCAIS>
+        <ITALIEN>Impossibile di sopprimere il Rapporto.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>140</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Server</ALLEMAND>
+        <ANGLAIS>Server</ANGLAIS>
+        <ESPAGNOLE>Servidor</ESPAGNOLE>
+        <FRANCAIS>Serveur</FRANCAIS>
+        <ITALIEN>Server</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>141</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Statistik von Typ von Papieren</ALLEMAND>
+        <ANGLAIS>Statistics by Document type</ANGLAIS>
+        <ESPAGNOLE>Estadística por Tipo de documentos</ESPAGNOLE>
+        <FRANCAIS>Statistique par Type de documents</FRANCAIS>
+        <ITALIEN>Statistico per Tipo di documenti</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>142</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Papiere</ALLEMAND>
+        <ANGLAIS>Documents</ANGLAIS>
+        <ESPAGNOLE>Documentos</ESPAGNOLE>
+        <FRANCAIS>Documents</FRANCAIS>
+        <ITALIEN>Documenti</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>143</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Statistik von Kode Registrierung</ALLEMAND>
+        <ANGLAIS>Statistics by Code recording</ANGLAIS>
+        <ESPAGNOLE>Estadística por Código registro</ESPAGNOLE>
+        <FRANCAIS>Statistique par Code enregistrement</FRANCAIS>
+        <ITALIEN>Statistico per Codice registrazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>144</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Verschlüssle Registrierung</ALLEMAND>
+        <ANGLAIS>Code Recording</ANGLAIS>
+        <ESPAGNOLE>Codifica Registro</ESPAGNOLE>
+        <FRANCAIS>Code Enregistrement</FRANCAIS>
+        <ITALIEN>Codice Registrazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>145</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Restliche Registrierungen</ALLEMAND>
+        <ANGLAIS>Remaining recordings</ANGLAIS>
+        <ESPAGNOLE>Registros restantes</ESPAGNOLE>
+        <FRANCAIS>Enregistrements restants</FRANCAIS>
+        <ITALIEN>Registrazioni restante</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>146</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Datum</ALLEMAND>
+        <ANGLAIS>Date</ANGLAIS>
+        <ESPAGNOLE>Fecha</ESPAGNOLE>
+        <FRANCAIS>Date</FRANCAIS>
+        <ITALIEN>Data</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>147</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Recht des Benutzers, das kontaktiert das Verwalter der Software nicht erkannt ist.</ALLEMAND>
+        <ANGLAIS>Right of the user not recognized contacted the administrator of the software.</ANGLAIS>
+        <ESPAGNOLE>Derecho del usuario no reconocido puesto en contacto el administrador del software.</ESPAGNOLE>
+        <FRANCAIS>Droit de l'utilisateur non reconnu contacté l'administrateur du logiciel</FRANCAIS>
+        <ITALIEN>Diritto dell'utente non riconosciuto contattato l'amministratore del software.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>148</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Nicht gültiger Benutzer</ALLEMAND>
+        <ANGLAIS>Not valid user</ANGLAIS>
+        <ESPAGNOLE>Usuario no válido</ESPAGNOLE>
+        <FRANCAIS>Utilisateur non valide</FRANCAIS>
+        <ITALIEN>Utente non valido</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>149</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Nicht gültiges Kennwort</ALLEMAND>
+        <ANGLAIS>Not valid password</ANGLAIS>
+        <ESPAGNOLE>Contraseña no válida</ESPAGNOLE>
+        <FRANCAIS>Mot de passe non valide</FRANCAIS>
+        <ITALIEN>Parola di ordine non valido</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>150</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Charakter _ ist im Kennwort verboten</ALLEMAND>
+        <ANGLAIS>The character _ is forbidden in the password</ANGLAIS>
+        <ESPAGNOLE>El carácter _ es prohibido en la contraseña</ESPAGNOLE>
+        <FRANCAIS>le caractère _ est interdit dans le mot de passe</FRANCAIS>
+        <ITALIEN>il carattere _ è vietato nella parola di ordine</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>151</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Raumcharakter ist im Kennwort verboten</ALLEMAND>
+        <ANGLAIS>The character of space is forbidden in the password</ANGLAIS>
+        <ESPAGNOLE>El carácter de espacio es prohibido en la contraseña</ESPAGNOLE>
+        <FRANCAIS>le caractère d'espace est interdit dans le mot de passe</FRANCAIS>
+        <ITALIEN>il carattere di spazio è vietato nella parola di ordine</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>152</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Charakter ' ist im Kennwort verboten</ALLEMAND>
+        <ANGLAIS>The character ' is forbidden in the password</ANGLAIS>
+        <ESPAGNOLE>El carácter ' es prohibido en la contraseña</ESPAGNOLE>
+        <FRANCAIS>le caractère ' est interdit dans le mot de passe</FRANCAIS>
+        <ITALIEN>il carattere ' è vietato nella parola di ordine</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>153</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Das Kennwort soll 4 Zeichen mindestens sein</ALLEMAND>
+        <ANGLAIS>The minimal length of a password is 4 characters</ANGLAIS>
+        <ESPAGNOLE>La contraseña debe ser de 4 carácteres por lo menos</ESPAGNOLE>
+        <FRANCAIS>La longueur minimale d'un  mot de passe est de 4 caractères.</FRANCAIS>
+        <ITALIEN>la parola di ordine deve essere di 4 caratteri al minimo</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>154</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Das Kennwort soll 15 maximaler Zeichen sein</ALLEMAND>
+        <ANGLAIS>The maximal length of a password is 15 characters</ANGLAIS>
+        <ESPAGNOLE>La contraseña debe ser de 15 carácteres máximo</ESPAGNOLE>
+        <FRANCAIS>La longueur maximale d'un  mot de passe est de 15 caractères.</FRANCAIS>
+        <ITALIEN>la parola di ordine deve essere di 15 caratteri massimo</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>155</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Änderung des Kennwortes, die mit succes realisiert ist.</ALLEMAND>
+        <ANGLAIS>Modification of the password realized with succes.</ANGLAIS>
+        <ESPAGNOLE>Modificación de la palabra de paso realizada con succes.</ESPAGNOLE>
+        <FRANCAIS>Modification du mot de passe réalisée avec succes.</FRANCAIS>
+        <ITALIEN>Modifica della parola di ordine realizzata con successo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>156</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie müssen in einer Tätigkeit auswählen: tragen Sie bei, Modifizieren Sie, oder Löschen.</ALLEMAND>
+        <ANGLAIS>You have to select in an action: add, Modify or Delete.</ANGLAIS>
+        <ESPAGNOLE>Seleccione una acción: aumentar, Modificar o Suprimir.</ESPAGNOLE>
+        <FRANCAIS>Vous devez sélectionner au moin une action : Ajouter, Modifier ou Supprimer.</FRANCAIS>
+        <ITALIEN>Selezionate un'azione:  Aggiungere, Modificare o Sopprimere.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>157</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Die besonderen oder betonten Zeichen sind im Namen von Benutzer verboten.</ALLEMAND>
+        <ANGLAIS>The special or stressed characters are forbidden in user's name</ANGLAIS>
+        <ESPAGNOLE>Los carácteres especiales o acentuados son prohibidos en el nombre de usuario.</ESPAGNOLE>
+        <FRANCAIS>Les caractères spéciaux ou accentués sont interdit dans le  nom d'utilisateur.</FRANCAIS>
+        <ITALIEN>I caratteri speciali o accentuati sono vietati nel nome di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>158</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Name des Benutzers kann 15 Zeichen. nicht überschreiten</ALLEMAND>
+        <ANGLAIS>The name of the user cannot exceed 15 characters.</ANGLAIS>
+        <ESPAGNOLE>nombre del usuario no puede sobrepasar 15 carácteres.</ESPAGNOLE>
+        <FRANCAIS>Le nom de l'utilisateur ne peut dépasser 15 caractères.</FRANCAIS>
+        <ITALIEN>Il nome dell'utente non può superare 15 caratteri.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>159</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Raumcharakter ist im Namen von Benutzer verboten.</ALLEMAND>
+        <ANGLAIS>The character of space is forbidden in user's name.</ANGLAIS>
+        <ESPAGNOLE>El carácter de espacio es prohibido en el nombre de usuario.</ESPAGNOLE>
+        <FRANCAIS>Le caractère d'espace est interdit dans le  nom d'utilisateur.</FRANCAIS>
+        <ITALIEN>Il carattere di spazio è vietato nel nome di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>160</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Name des Benutzers ist 4 Zeichen mindestens.</ALLEMAND>
+        <ANGLAIS>The name of the user is 4 characters at least.</ANGLAIS>
+        <ESPAGNOLE>El nombre del usuario es de 4 carácteres por lo menos.</ESPAGNOLE>
+        <FRANCAIS>Le nom de l'utilisateur est de 4 caractères au minimum.</FRANCAIS>
+        <ITALIEN>Il nome dell'utente è di 4 caratteri al minimo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>161</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Die maximale Anzahl vom Benutzer ist, Unmöglichkeit erreicht, dieses Konto hinzuzufügen.</ALLEMAND>
+        <ANGLAIS>The maximal number of user is reached, impossibility to add this account.</ANGLAIS>
+        <ESPAGNOLE>El número máximo de usuario padece, imposibilidad de añadir esta cuenta.</ESPAGNOLE>
+        <FRANCAIS>Le nombre maximal d'utilisateur est atteint, impossibilité de rajouter ce compte.</FRANCAIS>
+        <ITALIEN>Il numero massimale di utente è raggiunto, impossibilità di aggiungere questo conto.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>162</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Dieser Name von Benutzer existiert, Unmöglichkeit schon, ihn hinzuzufügen.</ALLEMAND>
+        <ANGLAIS>This user's name already exists, impossibility to add it.</ANGLAIS>
+        <ESPAGNOLE>Este nombre de usuario ya existe, imposibilidad de añadirlo.</ESPAGNOLE>
+        <FRANCAIS>Ce nom d'utilisateur existe déjà, impossibilité de le rajouter.</FRANCAIS>
+        <ITALIEN>Questo nome di utente esiste già, impossibilità di aggiungerlo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>163</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie sollen einen Typ von Benutzer auswählen.</ALLEMAND>
+        <ANGLAIS>You must have selected a Type of user.</ANGLAIS>
+        <ESPAGNOLE>Usted debe seleccionar un Tipo de usuario.</ESPAGNOLE>
+        <FRANCAIS>Vous devez avoir sélectionné le Type d'utilisateur soit Administrateur ou Gestionnaire.</FRANCAIS>
+        <ITALIEN>Dovete selezionare un Tipo di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>164</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie sollen den zu ändernden Benutzer auswählen.</ALLEMAND>
+        <ANGLAIS>You have to select the user to modify.</ANGLAIS>
+        <ESPAGNOLE>Usted debe seleccionar al usuario que hay que modificar.</ESPAGNOLE>
+        <FRANCAIS>Vous devez sélectionner l'utilisateur à modifier.</FRANCAIS>
+        <ITALIEN>Dovete selezionare l'utente a modificare.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>165</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der zu ändernde Benutzer existiert nicht.</ALLEMAND>
+        <ANGLAIS>The user to modify does not exist.</ANGLAIS>
+        <ESPAGNOLE>El usuario que hay que modificar no existe.</ESPAGNOLE>
+        <FRANCAIS>L'utilisateur à modifier n'existe pas.</FRANCAIS>
+        <ITALIEN>L'utente a modificare non esistere.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>166</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie können das letzte Verwalter nicht ändern.</ALLEMAND>
+        <ANGLAIS>You cannot modify the last administrator.</ANGLAIS>
+        <ESPAGNOLE>Usted no puede modificar al último administrador.</ESPAGNOLE>
+        <FRANCAIS>Vous ne pouvez pas modifier le dernier gestionnaire en administrateur.</FRANCAIS>
+        <ITALIEN>Non potete modificare l'ultimo amministratore.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>167</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Änderung des Benutzers, die mit succes realisiert ist.</ALLEMAND>
+        <ANGLAIS>Modification of the user realized with succes.</ANGLAIS>
+        <ESPAGNOLE>Cambiar el usuario realiza con éxito.</ESPAGNOLE>
+        <FRANCAIS>Modification de l'utilisateur réalisée avec succes.</FRANCAIS>
+        <ITALIEN>Cambiare l'utente con successo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>168</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Benutzer ist nicht vorhanden.</ALLEMAND>
+        <ANGLAIS>The user does not delete.</ANGLAIS>
+        <ESPAGNOLE>El usuario no existe.</ESPAGNOLE>
+        <FRANCAIS>L'utilisateur à supprimer n'existe pas.</FRANCAIS>
+        <ITALIEN>L'utente non esiste.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>169</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie können nicht Ihr Konto löschen.</ALLEMAND>
+        <ANGLAIS>You can not delete your account.</ANGLAIS>
+        <ESPAGNOLE>No se puede eliminar su cuenta.</ESPAGNOLE>
+        <FRANCAIS>Vous ne pouvez pas supprimer votre compte.</FRANCAIS>
+        <ITALIEN>Tu non puoi cancellare il tuo account.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>170</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Entfernen Sie den Benutzer erfolgreich durchgeführt.</ALLEMAND>
+        <ANGLAIS>Remove the user performed successfully.</ANGLAIS>
+        <ESPAGNOLE>Quite el usuario realiza con éxito.</ESPAGNOLE>
+        <FRANCAIS>Suppression de l'utilisateur réalisée avec succes.</FRANCAIS>
+        <ITALIEN>Rimuovere l'utente eseguita con successo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>171</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beurkundung</ALLEMAND>
+        <ANGLAIS>Authentification</ANGLAIS>
+        <ESPAGNOLE>Autentificación</ESPAGNOLE>
+        <FRANCAIS>Authentification</FRANCAIS>
+        <ITALIEN>Autenticazione</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>172</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Mit succes hinzugefügter Benutzer.</ALLEMAND>
+        <ANGLAIS>User added with succes.</ANGLAIS>
+        <ESPAGNOLE>Usuario aumentado con succes.</ESPAGNOLE>
+        <FRANCAIS>Utilisateur ajouté avec succes.</FRANCAIS>
+        <ITALIEN>Utente aggiunto con successo.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>173</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Charakter _ ist im Namen von Benutzer verboten.</ALLEMAND>
+        <ANGLAIS>The character _ is forbidden in user's name.</ANGLAIS>
+        <ESPAGNOLE>El carácter _ es prohibido en el nombre de usuario.</ESPAGNOLE>
+        <FRANCAIS>Le caractère _ est interdit dans le nom d'utilisateur.</FRANCAIS>
+        <ITALIEN>Il carattere _ è vietato nel nome di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>174</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Raumcharakter ist im Namen von Benutzer verboten.</ALLEMAND>
+        <ANGLAIS>The character of space is forbidden in user's name.</ANGLAIS>
+        <ESPAGNOLE>El carácter de espacio es prohibido en el nombre de usuario.</ESPAGNOLE>
+        <FRANCAIS>Le caractère d'espace est interdit dans le  nom d'utilisateur.</FRANCAIS>
+        <ITALIEN>Il carattere di spazio è vietato nel nome di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>175</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Der Charakter ' ist im Namen von Benutzer verboten.</ALLEMAND>
+        <ANGLAIS>The character ' is forbidden in user's name.</ANGLAIS>
+        <ESPAGNOLE>El carácter ' es prohibido en el nombre de usuario.</ESPAGNOLE>
+        <FRANCAIS>Le caractère ' est interdit dans le nom d'utilisateur.</FRANCAIS>
+        <ITALIEN>Il carattere ' è vietato nel nome di utente.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>176</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Die minimale Länge namens Benutzer ist 4 Zeichen.</ALLEMAND>
+        <ANGLAIS>The minimal length of user's name is 4 characters.</ANGLAIS>
+        <ESPAGNOLE>La longitud mínima del nombre de usuario es de 4 carácteres.</ESPAGNOLE>
+        <FRANCAIS>La longueur minimale du nom d'utilisateur est de 4 caractères.</FRANCAIS>
+        <ITALIEN>La lunghezza minimale del nome di utente è di 4 caratteri.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>177</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Sie können das einzige Konto Verwalter nicht beseitigen.</ALLEMAND>
+        <ANGLAIS>You cannot delete the only account Administrator</ANGLAIS>
+        <ESPAGNOLE>Usted no puede suprimir la sola cuenta Administrador.</ESPAGNOLE>
+        <FRANCAIS>Vous ne pouvez pas supprimer le seul compte Administrateur.</FRANCAIS>
+        <ITALIEN>Non potete sopprimere solo il conto Amministratore.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>178</ID_Message>
+        <Type_Message>TITRE</Type_Message>
+        <ALLEMAND>Aktualisiert Element</ALLEMAND>
+        <ANGLAIS>Updated Element</ANGLAIS>
+        <ESPAGNOLE>Actualizada Element</ESPAGNOLE>
+        <FRANCAIS>Mise à jour Element</FRANCAIS>
+        <ITALIEN>Collocamento aggiornato Elemento</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>179</ID_Message>
+        <Type_Message>QUESTION</Type_Message>
+        <ALLEMAND>Wünschen Sie, Ihnen den Tisch jetzt zu aktualisieren?</ALLEMAND>
+        <ANGLAIS>Wish to update you the table now?</ANGLAIS>
+        <ESPAGNOLE>¿ Desee actualizarle la mesa ahora?</ESPAGNOLE>
+        <FRANCAIS>Désirez vous mettre à jour la table maintenant?</FRANCAIS>
+        <ITALIEN>Desiderate mettere aggiornati il conto adesso?</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>180</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Änderung</ALLEMAND>
+        <ANGLAIS>Modification</ANGLAIS>
+        <ESPAGNOLE>Modificación</ESPAGNOLE>
+        <FRANCAIS>Modification</FRANCAIS>
+        <ITALIEN>Modifica</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>181</ID_Message>
+        <Type_Message>INFORMATION</Type_Message>
+        <ALLEMAND>Beendete Aktualisierung</ALLEMAND>
+        <ANGLAIS>Ended update</ANGLAIS>
+        <ESPAGNOLE>Actualización acabada</ESPAGNOLE>
+        <FRANCAIS>Mise à jour terminée</FRANCAIS>
+        <ITALIEN>Collocamento aggiornato finito</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>182</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Irrtum Stimmsynthese</ALLEMAND>
+        <ANGLAIS>Error Speech synthesis</ANGLAIS>
+        <ESPAGNOLE>Error Síntesis Vocal</ESPAGNOLE>
+        <FRANCAIS>Erreur Synthèse Vocale</FRANCAIS>
+        <ITALIEN>Errore Sintesi Vocale</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>183</ID_Message>
+        <Type_Message>ERREUR</Type_Message>
+        <ALLEMAND>Sie haben keine Software von Stimmsynthese eingerichtet</ALLEMAND>
+        <ANGLAIS>You did not install the software of speech synthesis</ANGLAIS>
+        <ESPAGNOLE>Usted no instaló el software de síntesis vocal</ESPAGNOLE>
+        <FRANCAIS>Vous n'avez pas installé le logiciel de synthèse vocale</FRANCAIS>
+        <ITALIEN>Non avete installato il software di sintesi vocale</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>184</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie müssen mindestens ein Kriterium für die Suche. (z.B.: System-, Platin-Straße ...)</ALLEMAND>
+        <ANGLAIS>You must select at least one criterion for searching. (e.g: System, platinum street ...)</ANGLAIS>
+        <ESPAGNOLE>Debe seleccionar al menos un criterio de búsqueda. (e.g: Sistema, calle de platino ...)</ESPAGNOLE>
+        <FRANCAIS>Vous devez sélectionner au moin un critère pour faire une recherche. (e.g: Système, platine de rue...)</FRANCAIS>
+        <ITALIEN>È necessario selezionare almeno un criterio per la ricerca. (E.g: System, via platino ...)</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>185</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Man kann nicht eine Suche auf einem System ohne Türsteher und unkontrollierten Zugang</ALLEMAND>
+        <ANGLAIS>You can not do a search on a system with no doorman and uncontrolled access</ANGLAIS>
+        <ESPAGNOLE>No se puede hacer una búsqueda en un sistema que no tienen acceso portero y sin control</ESPAGNOLE>
+        <FRANCAIS>Vous ne pouvez pas faire une recherche sur un système sans portier et sans contrôle accès</FRANCAIS>
+        <ITALIEN>Non è possibile fare una ricerca su un sistema senza portiere e accesso non controllato</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>186</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie müssen das System auf der Suche nach der Anzahl der Auftraggeber (n) wollen und / oder sekundäre (n).</ALLEMAND>
+        <ANGLAIS>You must select the system to do a search on the number of principal (s) and / or secondary (s).</ANGLAIS>
+        <ESPAGNOLE>Usted debe seleccionar el sistema para hacer una búsqueda en el número principal (s) y / o secundaria (s).</ESPAGNOLE>
+        <FRANCAIS>Vous devez sélectionner le système afin de faire une recherche avec le nombre de principale(s) et ou secondaire(s).</FRANCAIS>
+        <ITALIEN>È necessario selezionare il sistema per fare una ricerca sul numero del capitale (s) e / o secondaria (s).</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>187</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie können nicht haben 0 Platin primäre und sekundäre.</ALLEMAND>
+        <ANGLAIS>You can not have 0 platinum primary and secondary.</ANGLAIS>
+        <ESPAGNOLE>No se puede tener 0 platino primaria y secundaria.</ESPAGNOLE>
+        <FRANCAIS>Vous ne pouvez pas avoir 0 platine principale et secondaire.</FRANCAIS>
+        <ITALIEN>Non si può avere 0 platino primaria e secondaria.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>188</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie sollen einen Typ von Dokument mindestens auswählen.</ALLEMAND>
+        <ANGLAIS>You have to select at least a type of document.</ANGLAIS>
+        <ESPAGNOLE>Usted debe seleccionar por lo menos un tipo de documento.</ESPAGNOLE>
+        <FRANCAIS>Vous devez sélectionner au minimum un type de document.</FRANCAIS>
+        <ITALIEN>Dovete selezionare al minimo un tipo di documento.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>189</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie sollen einen Verweis mindestens haben.</ALLEMAND>
+        <ANGLAIS>You have to have at least a reference.</ANGLAIS>
+        <ESPAGNOLE>Usted debe tener por lo menos una referencia.</ESPAGNOLE>
+        <FRANCAIS>Vous devez avoir au minimum une référence.</FRANCAIS>
+        <ITALIEN>Dovete avere al minimo un riferimento.</ITALIEN>
+    </DATA>
+    <DATA>
+        <ID_Message>190</ID_Message>
+        <Type_Message>INFORMATION_SCRIPT</Type_Message>
+        <ALLEMAND>Sie sollen einen Parameter mindestens informiert haben, um eine Suche zu machen.</ALLEMAND>
+        <ANGLAIS>You must have informed at least a parameter to make a search.</ANGLAIS>
+        <ESPAGNOLE>Usted debe haber informado por lo menos un parámetro para hacer una búsqueda.</ESPAGNOLE>
+        <FRANCAIS>Vous devez avoir renseigné au minimum un paramètre pour faire une recherche.</FRANCAIS>
+        <ITALIEN>Dovuto informare al minimo un parametro per fare una ricerca.</ITALIEN>
+    </DATA>
+</messages_utilisateur>

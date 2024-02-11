@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>ftp://192.168.1.51/web/Application%2520Files/|ftp://192.168.1.51/web/|ftp://192.168.1.51/web/Application Files/|ftp://192.168.1.51/Application Files/|ftp://192.168.1.51/Application%2520Files/</PublishUrlHistory>
+    <InstallUrlHistory>http://tvieil.dnsalias.com/Application%2520Files/|http://192.168.1.51/Application%2520Files/|http://tvieil.dnsalias.com/web/Application%2520Files/|http://tvieil.dnsalias.com/publish.htm/</InstallUrlHistory>
+    <SupportUrlHistory>http://tvieil.dnsalias.com</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <StartAction>Project</StartAction>
+    <StartProgram>G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe</StartProgram>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartProgram>G:\PROJET IDEALTAKE 2010\Project_IDEALTAKE\bin\Debug\IDEALTAKE.exe</StartProgram>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,373 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>TEST_FRANCAIS</Nom_Lien_francais>
+    <Nom_Lien_anglais>TEST_ANGLAIS</Nom_Lien_anglais>
+    <Nom_Lien_allemand>TEST_ALLEMAND</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>TEST_ESPAGNOL</Nom_Lien_espagnole>
+    <Nom_Lien_italien>TEST_ITALIEN</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>sch_elec.pdf</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>sch_elec.pdf</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>sch_elec.pdf</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>sch_elec.pdf</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>sch_elec.pdf</Nom_Fichier_italien>
+    <Taille_fichier_Fr>580 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>580 Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>580 Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>580 Ko</Taille_fichier_espagnole>
+    <Taille_fichier_italien>580 Ko</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>81</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Visual Basic .NET TIPS &amp; TECHNIQUES  - Kris J</Nom_Lien_francais>
+    <Nom_Lien_anglais>Visual Basic .NET TIPS &amp; TECHNIQUES  - Kris J</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Visual Basic .NET TIPS &amp; TECHNIQUES  - Kris J</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Visual Basic .NET TIPS &amp; TECHNIQUES  - Kris J</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Visual Basic .NET TIPS &amp; TECHNIQUES  - Kris J</Nom_Lien_italien>
+    <Type_Doc>5</Type_Doc>
+    <Nom_Fichier_francais>visual-basic-net.jpg</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>visual-basic-net.jpg</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>visual-basic-net.jpg</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>visual-basic-net.jpg</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>visual-basic-net.jpg</Nom_Fichier_italien>
+    <Taille_fichier_Fr>28,7Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>28,7Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>28,7Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>28,7Ko</Taille_fichier_espagnole>
+    <Taille_fichier_italien>28,7Ko</Taille_fichier_italien>
+    <Largeur>325</Largeur>
+    <Hauteur>400</Hauteur>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>82</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>4</Chrono>
+    <Nom_Lien_francais>z</Nom_Lien_francais>
+    <Nom_Lien_anglais>y</Nom_Lien_anglais>
+    <Nom_Lien_allemand>x</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>w</Nom_Lien_espagnole>
+    <Nom_Lien_italien>v</Nom_Lien_italien>
+    <Type_Doc>3</Type_Doc>
+    <Nom_Fichier_francais>u</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>t</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>s</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>r</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>q</Nom_Fichier_italien>
+    <Taille_fichier_Fr>p</Taille_fichier_Fr>
+    <Taille_fichier_anglais>o</Taille_fichier_anglais>
+    <Taille_fichier_allemand>n</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>m</Taille_fichier_espagnole>
+    <Taille_fichier_italien>l</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>83</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>4</Chrono>
+    <Nom_Lien_francais>f</Nom_Lien_francais>
+    <Nom_Lien_anglais>f</Nom_Lien_anglais>
+    <Nom_Lien_allemand>f</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>f</Nom_Lien_espagnole>
+    <Nom_Lien_italien>f</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>f</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>f</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>f</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>f</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>f</Nom_Fichier_italien>
+    <Taille_fichier_Fr>f</Taille_fichier_Fr>
+    <Taille_fichier_anglais>f</Taille_fichier_anglais>
+    <Taille_fichier_allemand>f</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>f</Taille_fichier_espagnole>
+    <Taille_fichier_italien>f</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>84</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Notice IDEALTAKE FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Notice IDEALTAKE ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Notice IDEALTAKE ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Notice IDEALTAKE ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Notice IDEALTAKE ITA</Nom_Lien_italien>
+    <Type_Doc>4</Type_Doc>
+    <Nom_Fichier_francais>IDEALTAKE.pdf</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>IDEALTAKE.pdf</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>IDEALTAKE.pdf</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>IDEALTAKE.pdf</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>IDEALTAKE.pdf</Nom_Fichier_italien>
+    <Taille_fichier_Fr>57,5Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>57,5Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>57,5Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>57,5Ko</Taille_fichier_espagnole>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>85</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>Test_Vidéo FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Vidéo ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Vidéo ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Vidéo ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Vidéo ITA</Nom_Lien_italien>
+    <Type_Doc>6</Type_Doc>
+    <Nom_Fichier_francais>test01.mp4</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test01.mp4</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test01.mp4</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test01.mp4</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test01.mp4</Nom_Fichier_italien>
+    <Taille_fichier_Fr>5,92Mo</Taille_fichier_Fr>
+    <Taille_fichier_anglais>5.92Mo</Taille_fichier_anglais>
+    <Taille_fichier_allemand>5.92Mo</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>5.92Mb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>5.92Mb</Taille_fichier_italien>
+    <Image_Preview>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/Instantané%201%20(10-03-2012%2020-28).png</Image_Preview>
+    <code_specific_HTML_display>\r\n	&lt;script type="text/javascript"&gt;\r\n\r\n    	function Video_Code_[CHRONO]_[COMPTEUR](Mode) {\r\n\r\n			var video_[CHRONO]_[COMPTEUR] = document.getElementById("ID_VIDEO_[CHRONO]_[COMPTEUR]");\r\n			if (!isNaN(video_[CHRONO]_[COMPTEUR].duration))\r\n			    video_[CHRONO]_[COMPTEUR].pause();\r\n\r\n			if (Mode == 'Load') {\r\n			    video_[CHRONO]_[COMPTEUR].load();\r\n			}\r\n			if (Mode == 'Play') {\r\n			    video_[CHRONO]_[COMPTEUR].play();\r\n			}\r\n\r\n		}\r\n\r\n    &lt;/script&gt;\r\n\r\n\r\n&lt;div&gt;\r\n    &lt;div&gt;\r\n        &lt;video  style="border: 1px;" id="ID_VIDEO_[CHRONO]_[COMPTEUR]" src="[URL][NOM_FICHIER]" controls="controls" poster="[IMAGE_PREVIEW]" width="320" height="180" type="video/mp4" preload="auto"&gt;&lt;/video&gt;\r\n    &lt;/div&gt;\r\n\r\n	&lt;div&gt;\r\n    &lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Load');"&gt;Load&lt;/a&gt;|&lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Play');"&gt;Play&lt;/a&gt;|&lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Pause');"&gt;Pause&lt;/a&gt;|&lt;a target="new" title="[DESCRIPTION]" href="[URL][NOM_FICHIER]"&gt;Download&lt;/a&gt;    &lt;/div&gt;\r\n\r\n&lt;/div&gt;</code_specific_HTML_display>
+    <COMPTEUR>86</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Test_Vidéo FR </Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Vidéo ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Vidéo ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Vidéo ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Vidéo ITA</Nom_Lien_italien>
+    <Type_Doc>6</Type_Doc>
+    <Nom_Fichier_francais>test02.mp4</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test02.mp4</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test02.mp4</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test02.mp4</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test02.mp4</Nom_Fichier_italien>
+    <Taille_fichier_Fr>2,49Mo</Taille_fichier_Fr>
+    <Taille_fichier_anglais>2.49Mo</Taille_fichier_anglais>
+    <Taille_fichier_allemand>2.49Mo</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>2.49Mo</Taille_fichier_espagnole>
+    <Taille_fichier_italien>2.49Mo</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>\r\n	&lt;script type="text/javascript"&gt;\r\n\r\n    	function Video_Code_[CHRONO]_[COMPTEUR](Mode) {\r\n\r\n			var video_[CHRONO]_[COMPTEUR] = document.getElementById("ID_VIDEO_[CHRONO]_[COMPTEUR]");\r\n			if (!isNaN(video_[CHRONO]_[COMPTEUR].duration))\r\n			    video_[CHRONO]_[COMPTEUR].pause();\r\n\r\n			if (Mode == 'Load') {\r\n			    video_[CHRONO]_[COMPTEUR].load();\r\n			}\r\n			if (Mode == 'Play') {\r\n			    video_[CHRONO]_[COMPTEUR].play();\r\n			}\r\n\r\n		}\r\n\r\n    &lt;/script&gt;\r\n\r\n\r\n&lt;div&gt;\r\n    &lt;div&gt;\r\n        &lt;video  style="border: 1px;" id="ID_VIDEO_[CHRONO]_[COMPTEUR]" src="[URL][NOM_FICHIER]" controls="controls" poster="[IMAGE_PREVIEW]" width="320" height="180" type="video/mp4" preload="auto"&gt;&lt;/video&gt;\r\n    &lt;/div&gt;\r\n\r\n	&lt;div&gt;\r\n    &lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Load');"&gt;Load&lt;/a&gt;|&lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Play');"&gt;Play&lt;/a&gt;|&lt;a href="javascript:Video_Code_[CHRONO]_[COMPTEUR]('Pause');"&gt;Pause&lt;/a&gt;|&lt;a target="new" title="[DESCRIPTION]" href="[URL][NOM_FICHIER]"&gt;Download&lt;/a&gt;    &lt;/div&gt;\r\n\r\n&lt;/div&gt;</code_specific_HTML_display>
+    <COMPTEUR>87</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Test FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test ITA</Nom_Lien_italien>
+    <Type_Doc>2</Type_Doc>
+    <Nom_Fichier_francais>Test.txt</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>Test.txt</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>Test.txt</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>Test.txt</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>Test.txt</Nom_Fichier_italien>
+    <Taille_fichier_Fr>Test.txt</Taille_fichier_Fr>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>88</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>Test_Audio1.wav FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Audio1.wav ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Audio1.wav ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Audio1.wav ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Audio1.wav ITA</Nom_Lien_italien>
+    <Type_Doc>7</Type_Doc>
+    <Nom_Fichier_francais>test_audio1.wav</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test_audio1.wav</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test_audio1.wav</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test_audio1.wav</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test_audio1.wav</Nom_Fichier_italien>
+    <Taille_fichier_Fr>910,04Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>910.04Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>910.04Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>910.04Ko</Taille_fichier_espagnole>
+    <Taille_fichier_italien>910.04Ko</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>89</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Test_Audio2.wav FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Audio2.wav ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Audio2.wav ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Audio 2.wav ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Audio2.wav ITA</Nom_Lien_italien>
+    <Type_Doc>7</Type_Doc>
+    <Nom_Fichier_francais>test_audio2.wav</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test_audio2.wav</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test_audio2.wav</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test_audio2.wav</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test_audio2.wav</Nom_Fichier_italien>
+    <Taille_fichier_Fr>1,09Mo</Taille_fichier_Fr>
+    <Taille_fichier_anglais>1.09Mo</Taille_fichier_anglais>
+    <Taille_fichier_allemand>1.09Mo</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>1.09Mo</Taille_fichier_espagnole>
+    <Taille_fichier_italien>1.09Mo</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>90</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>Test_Audio1.ogg FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Audio1.ogg ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Audio1.ogg ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Audio1.ogg ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Audio1.ogg ITA</Nom_Lien_italien>
+    <Type_Doc>7</Type_Doc>
+    <Nom_Fichier_francais>test_audio1.ogg</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test_audio1.ogg</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test_audio1.ogg</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test_audio1.ogg</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test_audio1.ogg</Nom_Fichier_italien>
+    <Taille_fichier_Fr>113,93Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>113.93Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>113.93Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>113.93Ko</Taille_fichier_espagnole>
+    <Taille_fichier_italien>113.93Ko</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>91</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Test_Audio 2.ogg FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Audio2.ogg ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Audio2.ogg ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Audio2.ogg ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Audio2.ogg ITA</Nom_Lien_italien>
+    <Type_Doc>7</Type_Doc>
+    <Nom_Fichier_francais>test_audio2.ogg</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test_audio2.ogg</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test_audio2.ogg</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test_audio2.ogg</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test_audio2.ogg</Nom_Fichier_italien>
+    <Taille_fichier_Fr>1,09Mo</Taille_fichier_Fr>
+    <Taille_fichier_anglais>1.09Mo</Taille_fichier_anglais>
+    <Taille_fichier_allemand>1.09Mo</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>1.09Mo</Taille_fichier_espagnole>
+    <Taille_fichier_italien>1.09Mo</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>92</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>Test_Audio1.mp3 FR</Nom_Lien_francais>
+    <Nom_Lien_anglais>Test_Audio1.mp3 ANG</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Test_Audio1.mp3 ALL</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Test_Audio1.mp3 ESP</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Test_Audio1.mp3 ITA</Nom_Lien_italien>
+    <Type_Doc>7</Type_Doc>
+    <Nom_Fichier_francais>test_audio1.mp3</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>test_audio1.mp3</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>test_audio1.mp3</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>test_audio1.mp3</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>test_audio1.mp3</Nom_Fichier_italien>
+    <Taille_fichier_Fr>80,4Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>80.4Ko</Taille_fichier_anglais>
+    <Taille_fichier_allemand>80.4Ko</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>80.4Ko</Taille_fichier_espagnole>
+    <Taille_fichier_italien>80.4Ko</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>&lt;audio controls="controls"&gt;\r\n   &lt;source src="[URL][NOM_FICHIER]" type="audio/mp3" /&gt;\r\n   Your browser does not support the audio tag.\r\n &lt;/audio&gt;</code_specific_HTML_display>
+    <COMPTEUR>93</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>3</Chrono>
+    <Nom_Lien_francais>Florent Pagny - Là Où Je T'Emmènera 240p_H.26</Nom_Lien_francais>
+    <Nom_Lien_anglais>Florent Pagny - Là Où Je T'Emmènera 240p_H.26</Nom_Lien_anglais>
+    <Nom_Lien_allemand>Florent Pagny - Là Où Je T'Emmènera 240p_H.26</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>Florent Pagny - Là Où Je T'Emmènera 240p_H.26</Nom_Lien_espagnole>
+    <Nom_Lien_italien>Florent Pagny - Là Où Je T'Emmènera 240p_H.26</Nom_Lien_italien>
+    <Type_Doc>6</Type_Doc>
+    <Nom_Fichier_francais>fplojt.flv</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>fplojt.flv</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>fplojt.flv</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>fplojt.flv</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>fplojt.flv</Nom_Fichier_italien>
+    <Taille_fichier_Fr>9622 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>9622 Kb</Taille_fichier_anglais>
+    <Taille_fichier_espagnole>9622 Kb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>9622 Kb</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>&lt;object type="application/x-shockwave-flash" data="[URL]FLASH/player_flv_maxi.swf" width="380" height="180"&gt;\r\n     &lt;param name="movie" value="[URL]FLASH/player_flv_maxi.swf" /&gt;\r\n     &lt;param name="FlashVars" value="flv=[URL][NOM_FICHIER]" /&gt;\r\n&lt;/object&gt;</code_specific_HTML_display>
+    <COMPTEUR>94</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>136</Chrono>
+    <Nom_Lien_francais>AAA</Nom_Lien_francais>
+    <Nom_Lien_anglais>AAA</Nom_Lien_anglais>
+    <Nom_Lien_allemand>AAA</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>AAA</Nom_Lien_espagnole>
+    <Nom_Lien_italien>AAA</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>W682X10_A10.pdf</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>W682X10_A10.pdf</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>W682X10_A10.pdf</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>W682X10_A10.pdf</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>W682X10_A10.pdf</Nom_Fichier_italien>
+    <Taille_fichier_Fr>384 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>384 Kb</Taille_fichier_anglais>
+    <Taille_fichier_allemand>384 Kb</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>384 Kb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>384 Kb</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>117</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>138</Chrono>
+    <Nom_Lien_francais>TEST_SCH_ELEC</Nom_Lien_francais>
+    <Nom_Lien_anglais>TEST_SCH_ELEC</Nom_Lien_anglais>
+    <Nom_Lien_allemand>TEST_SCH_ELEC</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>TEST_SCH_ELEC</Nom_Lien_espagnole>
+    <Nom_Lien_italien>TEST_SCH_ELEC</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>TEST001.pdf</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>TEST001.pdf</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>sch_elec.pdf</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>TEST001.pdf</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>TEST001.pdf</Nom_Fichier_italien>
+    <Taille_fichier_Fr>45 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>45 Kb</Taille_fichier_anglais>
+    <Taille_fichier_allemand>579 Kb</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>45 Kb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>45 Kb</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>118</COMPTEUR>
+  </documents>
+  <documents>
+    <Chrono>139</Chrono>
+    <Nom_Lien_francais>R961</Nom_Lien_francais>
+    <Nom_Lien_anglais>R961</Nom_Lien_anglais>
+    <Nom_Lien_allemand>R961</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>R961</Nom_Lien_espagnole>
+    <Nom_Lien_italien>R961</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>R961.pdf</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>R961.pdf</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>R961.pdf</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>R961.pdf</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>R961.pdf</Nom_Fichier_italien>
+    <Taille_fichier_Fr>27 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>27 Kb</Taille_fichier_anglais>
+    <Taille_fichier_allemand>27 Kb</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>27 Kb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>27 Kb</Taille_fichier_italien>
+    <Image_Preview>---</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>119</COMPTEUR>
+  </documents>
+</NewDataSet>

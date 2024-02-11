@@ -1,0 +1,12 @@
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\bin\Debug\logiciel_dessin.exe
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\bin\Debug\logiciel_dessin.pdb
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\bin\Debug\logiciel_dessin.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\OutilsEtat.logiciel_dessin.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\OutilsEtat.Resources.resources
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\logiciel_dessin.exe
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\logiciel_dessin.xml
+G:\PROJET IDEALTAKE 2011\Project_IDEALTAKE\Logiciel de dessin\obj\Debug\logiciel_dessin.pdb

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>1</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/ELECTRIQUE/</URL>
+    <COMPTEUR>55</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>2</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/SYNOPTIQUE/</URL>
+    <COMPTEUR>56</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>3</IDDoc>
+    <URL>C:\TEST03\4\</URL>
+    <COMPTEUR>57</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>4</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/NOTICES/</URL>
+    <COMPTEUR>58</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>5</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/PHOTO/</URL>
+    <COMPTEUR>59</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>6</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/VIDEO/</URL>
+    <COMPTEUR>60</COMPTEUR>
+  </doc_url>
+  <doc_url>
+    <IDConstructeur>1</IDConstructeur>
+    <IDDoc>7</IDDoc>
+    <URL>http://tvieil.dnsalias.com/DOCUMENTS/AUDIO/</URL>
+    <COMPTEUR>61</COMPTEUR>
+  </doc_url>
+</NewDataSet>

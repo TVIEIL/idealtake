@@ -1,0 +1,683 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <racine1>
+    <ID_SR1>1</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Deutschland</Rubrique_Allemand>
+    <Rubrique_Anglais>Germany</Rubrique_Anglais>
+    <Rubrique_Espagnole>Alemania</Rubrique_Espagnole>
+    <Rubrique_Francais>Allemagne</Rubrique_Francais>
+    <Rubrique_Italien>Germania</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>2</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>England</Rubrique_Allemand>
+    <Rubrique_Anglais>England</Rubrique_Anglais>
+    <Rubrique_Espagnole>Inglaterra</Rubrique_Espagnole>
+    <Rubrique_Francais>Angleterre</Rubrique_Francais>
+    <Rubrique_Italien>Inghilterra</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>3</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Spanien</Rubrique_Allemand>
+    <Rubrique_Anglais>Spain</Rubrique_Anglais>
+    <Rubrique_Espagnole>España</Rubrique_Espagnole>
+    <Rubrique_Francais>Espagne</Rubrique_Francais>
+    <Rubrique_Italien>Spagna</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-2</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>4</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Frankreich</Rubrique_Allemand>
+    <Rubrique_Anglais>France</Rubrique_Anglais>
+    <Rubrique_Espagnole>Francia</Rubrique_Espagnole>
+    <Rubrique_Francais>France</Rubrique_Francais>
+    <Rubrique_Italien>Francia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-3</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>5</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Italien</Rubrique_Allemand>
+    <Rubrique_Anglais>Italy</Rubrique_Anglais>
+    <Rubrique_Espagnole>Italia</Rubrique_Espagnole>
+    <Rubrique_Francais>Italie</Rubrique_Francais>
+    <Rubrique_Italien>Italia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-4</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>6</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Belgien</Rubrique_Allemand>
+    <Rubrique_Anglais>Belgium</Rubrique_Anglais>
+    <Rubrique_Espagnole>Bélgica</Rubrique_Espagnole>
+    <Rubrique_Francais>Belgique</Rubrique_Francais>
+    <Rubrique_Italien> Belgio</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-5</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>7</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Niederlande</Rubrique_Allemand>
+    <Rubrique_Anglais>Netherlands</Rubrique_Anglais>
+    <Rubrique_Espagnole>Países Bajos</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays Bas</Rubrique_Francais>
+    <Rubrique_Italien>Paesi Bassi</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-6</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>8</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Dänemark</Rubrique_Allemand>
+    <Rubrique_Anglais>Denmark</Rubrique_Anglais>
+    <Rubrique_Espagnole>Dinamarca</Rubrique_Espagnole>
+    <Rubrique_Francais>Danemark</Rubrique_Francais>
+    <Rubrique_Italien>Danimarca</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-7</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>9</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Luxemburg</Rubrique_Allemand>
+    <Rubrique_Anglais>Luxembourg</Rubrique_Anglais>
+    <Rubrique_Espagnole>Luxemburgo</Rubrique_Espagnole>
+    <Rubrique_Francais>Luxembourg</Rubrique_Francais>
+    <Rubrique_Italien>Lussemburgo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-8</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>10</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Schweiz</Rubrique_Allemand>
+    <Rubrique_Anglais>Switzerland</Rubrique_Anglais>
+    <Rubrique_Espagnole>Suiza</Rubrique_Espagnole>
+    <Rubrique_Francais>Suisse</Rubrique_Francais>
+    <Rubrique_Italien>Svizzera</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-9</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>11</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Portugal</Rubrique_Allemand>
+    <Rubrique_Anglais>Portugal</Rubrique_Anglais>
+    <Rubrique_Espagnole>Portugal</Rubrique_Espagnole>
+    <Rubrique_Francais>Portugal</Rubrique_Francais>
+    <Rubrique_Italien>Portogallo</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-10</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>12</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Irland</Rubrique_Allemand>
+    <Rubrique_Anglais>Irland</Rubrique_Anglais>
+    <Rubrique_Espagnole>Irlanda</Rubrique_Espagnole>
+    <Rubrique_Francais>Irelande</Rubrique_Francais>
+    <Rubrique_Italien>Irlanda</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-11</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>13</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Polen</Rubrique_Allemand>
+    <Rubrique_Anglais>Poland</Rubrique_Anglais>
+    <Rubrique_Espagnole>Polonia</Rubrique_Espagnole>
+    <Rubrique_Francais>Pologne</Rubrique_Francais>
+    <Rubrique_Italien>Polonia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-12</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>14</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Tschesien</Rubrique_Allemand>
+    <Rubrique_Anglais>Tchequie</Rubrique_Anglais>
+    <Rubrique_Espagnole>Tchequie</Rubrique_Espagnole>
+    <Rubrique_Francais>Tchequie</Rubrique_Francais>
+    <Rubrique_Italien>Tchequie</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-13</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>15</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Slowakei</Rubrique_Allemand>
+    <Rubrique_Anglais>Slovakia</Rubrique_Anglais>
+    <Rubrique_Espagnole>Eslovaquia</Rubrique_Espagnole>
+    <Rubrique_Francais>Slovaquie</Rubrique_Francais>
+    <Rubrique_Italien>Slovacchia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-14</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>16</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Norwegen</Rubrique_Allemand>
+    <Rubrique_Anglais>Norway</Rubrique_Anglais>
+    <Rubrique_Espagnole>Noruega</Rubrique_Espagnole>
+    <Rubrique_Francais>Norvège</Rubrique_Francais>
+    <Rubrique_Italien>Norvegia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-15</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>17</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Wildleder</Rubrique_Allemand>
+    <Rubrique_Anglais>Suede</Rubrique_Anglais>
+    <Rubrique_Espagnole>gamuza</Rubrique_Espagnole>
+    <Rubrique_Francais>Suède</Rubrique_Francais>
+    <Rubrique_Italien>Pelle scamosciata</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-16</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>18</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Finnland</Rubrique_Allemand>
+    <Rubrique_Anglais>Finland</Rubrique_Anglais>
+    <Rubrique_Espagnole>Finlandia</Rubrique_Espagnole>
+    <Rubrique_Francais>Finlande</Rubrique_Francais>
+    <Rubrique_Italien>Finlandia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-17</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>19</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Estland</Rubrique_Allemand>
+    <Rubrique_Anglais>Estonia</Rubrique_Anglais>
+    <Rubrique_Espagnole>Estonia</Rubrique_Espagnole>
+    <Rubrique_Francais>Estonie</Rubrique_Francais>
+    <Rubrique_Italien>Estonia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-18</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>20</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Lettland</Rubrique_Allemand>
+    <Rubrique_Anglais>Latvia</Rubrique_Anglais>
+    <Rubrique_Espagnole>Letonia</Rubrique_Espagnole>
+    <Rubrique_Francais>Lettonie</Rubrique_Francais>
+    <Rubrique_Italien>Letonia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-19</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>21</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Litauen</Rubrique_Allemand>
+    <Rubrique_Anglais>Lithuania</Rubrique_Anglais>
+    <Rubrique_Espagnole>Lituania</Rubrique_Espagnole>
+    <Rubrique_Francais>Lithuanie</Rubrique_Francais>
+    <Rubrique_Italien>Lituania</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-20</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>22</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Russland</Rubrique_Allemand>
+    <Rubrique_Anglais>Russia</Rubrique_Anglais>
+    <Rubrique_Espagnole>Russia</Rubrique_Espagnole>
+    <Rubrique_Francais>Russie</Rubrique_Francais>
+    <Rubrique_Italien>Russia</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-21</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>23</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Naher Osten</Rubrique_Allemand>
+    <Rubrique_Anglais> Middle East</Rubrique_Anglais>
+    <Rubrique_Espagnole>Medio Oriente</Rubrique_Espagnole>
+    <Rubrique_Francais>Moyen Orient</Rubrique_Francais>
+    <Rubrique_Italien>Medio Oriente</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-22</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>24</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Afrikanischen Ländern</Rubrique_Allemand>
+    <Rubrique_Anglais> African countries</Rubrique_Anglais>
+    <Rubrique_Espagnole>Los países africanos</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays africains</Rubrique_Francais>
+    <Rubrique_Italien>Paesi africani</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-23</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>25</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>China</Rubrique_Allemand>
+    <Rubrique_Anglais>China</Rubrique_Anglais>
+    <Rubrique_Espagnole>China</Rubrique_Espagnole>
+    <Rubrique_Francais>Chine</Rubrique_Francais>
+    <Rubrique_Italien>Porcellana</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-24</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>26</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Nordamerika</Rubrique_Allemand>
+    <Rubrique_Anglais>North America</Rubrique_Anglais>
+    <Rubrique_Espagnole>América del Norte</Rubrique_Espagnole>
+    <Rubrique_Francais>Amérique du Nord</Rubrique_Francais>
+    <Rubrique_Italien>America del Nord</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-25</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>27</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Mittelamerika</Rubrique_Allemand>
+    <Rubrique_Anglais>Central America</Rubrique_Anglais>
+    <Rubrique_Espagnole>Centroamérica</Rubrique_Espagnole>
+    <Rubrique_Francais>Amérique centrale</Rubrique_Francais>
+    <Rubrique_Italien>America Centrale</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-26</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>28</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Südamerika</Rubrique_Allemand>
+    <Rubrique_Anglais>South America</Rubrique_Anglais>
+    <Rubrique_Espagnole>América del Sur</Rubrique_Espagnole>
+    <Rubrique_Francais>Amérique du Sud</Rubrique_Francais>
+    <Rubrique_Italien>Sudamerica</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-27</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>29</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Pazifik Ländern</Rubrique_Allemand>
+    <Rubrique_Anglais>Pacific Ocean countries</Rubrique_Anglais>
+    <Rubrique_Espagnole>Los países del Océano Pacífico</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays océan pacifique</Rubrique_Francais>
+    <Rubrique_Italien>Oceano Pacifico paesi</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-28</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>30</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Länder im Indischen Ozean</Rubrique_Allemand>
+    <Rubrique_Anglais>Indian Ocean countries</Rubrique_Anglais>
+    <Rubrique_Espagnole>Los países del Océano Índico</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays océan Indien</Rubrique_Francais>
+    <Rubrique_Italien>Oceano Indiano paesi</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-29</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>31</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Arctic Ocean Ländern</Rubrique_Allemand>
+    <Rubrique_Anglais>Arctic Ocean countries</Rubrique_Anglais>
+    <Rubrique_Espagnole>Océano Ártico países</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays océan Artique</Rubrique_Francais>
+    <Rubrique_Italien>Arctic Ocean paesi</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-30</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>32</ID_SR1>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Land Südpolarmeer</Rubrique_Allemand>
+    <Rubrique_Anglais>Country Antarctic Ocean</Rubrique_Anglais>
+    <Rubrique_Espagnole>País Océano Antártico</Rubrique_Espagnole>
+    <Rubrique_Francais>Pays océan Antartique</Rubrique_Francais>
+    <Rubrique_Italien>Paese Oceano Antartico</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-31</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>33</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Präsentation</Rubrique_Allemand>
+    <Rubrique_Anglais>Presentation</Rubrique_Anglais>
+    <Rubrique_Espagnole>Presentación</Rubrique_Espagnole>
+    <Rubrique_Francais>Présentation</Rubrique_Francais>
+    <Rubrique_Italien>Presentazione</Rubrique_Italien>
+    <Symbole_Arbre>1-1</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>34</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Zeigen</Rubrique_Allemand>
+    <Rubrique_Anglais>Show</Rubrique_Anglais>
+    <Rubrique_Espagnole>Mostrar</Rubrique_Espagnole>
+    <Rubrique_Francais>Salon</Rubrique_Francais>
+    <Rubrique_Italien>Mostra</Rubrique_Italien>
+    <Symbole_Arbre>1-2</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>35</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Forum</Rubrique_Allemand>
+    <Rubrique_Anglais>Forum</Rubrique_Anglais>
+    <Rubrique_Espagnole>Foro</Rubrique_Espagnole>
+    <Rubrique_Francais>Forum</Rubrique_Francais>
+    <Rubrique_Italien>Foro</Rubrique_Italien>
+    <Symbole_Arbre>1-3</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>36</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Gewerbegebiete</Rubrique_Allemand>
+    <Rubrique_Anglais>Industrial area</Rubrique_Anglais>
+    <Rubrique_Espagnole>áreas industriales</Rubrique_Espagnole>
+    <Rubrique_Francais>Zone industrielle</Rubrique_Francais>
+    <Rubrique_Italien>Aree industriali</Rubrique_Italien>
+    <Symbole_Arbre>1-4</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>37</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Symposium</Rubrique_Allemand>
+    <Rubrique_Anglais>Symposium</Rubrique_Anglais>
+    <Rubrique_Espagnole>Simposio</Rubrique_Espagnole>
+    <Rubrique_Francais>Symposium</Rubrique_Francais>
+    <Rubrique_Italien>Simposio</Rubrique_Italien>
+    <Symbole_Arbre>1-5</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>38</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Symbole_Arbre>1-6</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>39</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Bricolage</Rubrique_Allemand>
+    <Rubrique_Anglais>Do-it-yourself</Rubrique_Anglais>
+    <Rubrique_Espagnole>Bricolaje</Rubrique_Espagnole>
+    <Rubrique_Francais>Bricolage</Rubrique_Francais>
+    <Rubrique_Italien>Fai da te</Rubrique_Italien>
+    <Symbole_Arbre>2-1</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>40</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Zirkus</Rubrique_Allemand>
+    <Rubrique_Anglais>Circus</Rubrique_Anglais>
+    <Rubrique_Espagnole>Circo</Rubrique_Espagnole>
+    <Rubrique_Francais>Cirque</Rubrique_Francais>
+    <Rubrique_Italien>Circo</Rubrique_Italien>
+    <Symbole_Arbre>2-2</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>41</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Kultur</Rubrique_Allemand>
+    <Rubrique_Anglais>Culture</Rubrique_Anglais>
+    <Rubrique_Espagnole>Cultura</Rubrique_Espagnole>
+    <Rubrique_Francais>Culture</Rubrique_Francais>
+    <Rubrique_Italien>Cultura</Rubrique_Italien>
+    <Symbole_Arbre>2-3</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>42</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Tanzen</Rubrique_Allemand>
+    <Rubrique_Anglais>Dance</Rubrique_Anglais>
+    <Rubrique_Espagnole>Danza</Rubrique_Espagnole>
+    <Rubrique_Francais>Danse</Rubrique_Francais>
+    <Rubrique_Italien>Danza</Rubrique_Italien>
+    <Symbole_Arbre>2-4</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>43</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Festival</Rubrique_Allemand>
+    <Rubrique_Anglais>Festival</Rubrique_Anglais>
+    <Rubrique_Espagnole>Festival</Rubrique_Espagnole>
+    <Rubrique_Francais>Fête</Rubrique_Francais>
+    <Rubrique_Italien>Festival</Rubrique_Italien>
+    <Symbole_Arbre>2-5</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>44</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Musik</Rubrique_Allemand>
+    <Rubrique_Anglais>Music</Rubrique_Anglais>
+    <Rubrique_Espagnole>Música</Rubrique_Espagnole>
+    <Rubrique_Francais>Musique</Rubrique_Francais>
+    <Rubrique_Italien>Musica</Rubrique_Italien>
+    <Symbole_Arbre>2-6</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>45</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Theater</Rubrique_Allemand>
+    <Rubrique_Anglais>Theater</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teatro</Rubrique_Espagnole>
+    <Rubrique_Francais>Théâtre</Rubrique_Francais>
+    <Rubrique_Italien>Teatro</Rubrique_Italien>
+    <Symbole_Arbre>2-7</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>46</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Sport</Rubrique_Allemand>
+    <Rubrique_Anglais>Sport</Rubrique_Anglais>
+    <Rubrique_Espagnole>Deporte</Rubrique_Espagnole>
+    <Rubrique_Francais>Sport</Rubrique_Francais>
+    <Rubrique_Italien>Sport</Rubrique_Italien>
+    <Symbole_Arbre>2-8</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>47</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Malerei</Rubrique_Allemand>
+    <Rubrique_Anglais>Painting</Rubrique_Anglais>
+    <Rubrique_Espagnole>Pintura</Rubrique_Espagnole>
+    <Rubrique_Francais>Peinture</Rubrique_Francais>
+    <Rubrique_Italien>Pittura</Rubrique_Italien>
+    <Symbole_Arbre>2-9</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>48</ID_SR1>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Symbole_Arbre>2-10</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>49</ID_SR1>
+    <ID_R>3</ID_R>
+    <Rubrique_Allemand>Garten</Rubrique_Allemand>
+    <Rubrique_Anglais>Garden</Rubrique_Anglais>
+    <Rubrique_Espagnole>Jardín</Rubrique_Espagnole>
+    <Rubrique_Francais>Jardin</Rubrique_Francais>
+    <Rubrique_Italien>Giardino</Rubrique_Italien>
+    <Symbole_Arbre>3-1</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>50</ID_SR1>
+    <ID_R>3</ID_R>
+    <Rubrique_Allemand>Dekoration innerer</Rubrique_Allemand>
+    <Rubrique_Anglais>Decoration of internal</Rubrique_Anglais>
+    <Rubrique_Espagnole>Decoración de interior</Rubrique_Espagnole>
+    <Rubrique_Francais>Décoration d'intérieure</Rubrique_Francais>
+    <Rubrique_Italien>Decorazione di interiore</Rubrique_Italien>
+    <Symbole_Arbre>3-2</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>51</ID_SR1>
+    <ID_R>3</ID_R>
+    <Rubrique_Allemand>Architektur</Rubrique_Allemand>
+    <Rubrique_Anglais>Architecture</Rubrique_Anglais>
+    <Rubrique_Espagnole>Arquitectura</Rubrique_Espagnole>
+    <Rubrique_Francais>Architecture</Rubrique_Francais>
+    <Rubrique_Italien>Architettura</Rubrique_Italien>
+    <Symbole_Arbre>3-3</Symbole_Arbre>
+  </racine1>
+  <racine1>
+    <ID_SR1>52</ID_SR1>
+    <ID_R>3</ID_R>
+    <Rubrique_Allemand>Andere</Rubrique_Allemand>
+    <Rubrique_Anglais>Other</Rubrique_Anglais>
+    <Rubrique_Espagnole>Otro</Rubrique_Espagnole>
+    <Rubrique_Francais>Autre</Rubrique_Francais>
+    <Rubrique_Italien>Altro</Rubrique_Italien>
+    <Symbole_Arbre>3-4</Symbole_Arbre>
+  </racine1>
+</NewDataSet>

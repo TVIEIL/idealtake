@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Liste_des_connexions>
+    <Connexion />
+    <Connexion>
+        <Nom_Connexion>Album photos</Nom_Connexion>
+        <Adresse_Serveur>tvieil.dnsalias.com</Adresse_Serveur>
+        <Utilisateur>IDEALTAKE</Utilisateur>
+        <mot_de_passe>IDEALTAKE</mot_de_passe>
+        <Nom_de_la_base>ALBUM_PHOTOS</Nom_de_la_base>
+        <Description_Allemande>Diese Datenbank ermöglicht es Ihnen, Ihre Fotoalben
+verwalten (in progress 08/2012)</Description_Allemande>
+        <Description_Anglaise>This database allows you to manage your photo
+albums (in progress 08/2012)</Description_Anglaise>
+        <Description_Espagnole>Esta base de datos permite administrar tus álbumes de
+fotos (en proceso 08/2012)</Description_Espagnole>
+        <Description_Française>Cette base permet la gestion de vos albums de
+photos (en cours de développement 08/2012)</Description_Française>
+        <Description_Italienne>Questo database consente di gestire i vostri album di
+foto (in corso 08/2012)</Description_Italienne>
+    </Connexion>
+    <Connexion>
+        <Nom_Connexion>DEMO</Nom_Connexion>
+        <Adresse_Serveur>tvieil.dnsalias.com</Adresse_Serveur>
+        <Utilisateur>IDEALTAKE</Utilisateur>
+        <mot_de_passe>IDEALTAKE</mot_de_passe>
+        <Nom_de_la_base>DEMO</Nom_de_la_base>
+        <Description_Allemande>Basierend auf Zutrittskontrollsysteme und
+Sprechanlagen</Description_Allemande>
+        <Description_Anglaise>Based on access control systems and intercoms</Description_Anglaise>
+        <Description_Espagnole>Basado en los sistemas de control de acceso y
+los intercomunicadores</Description_Espagnole>
+        <Description_Française>Base sur des systèmes de contrôle d'accès et
+d'interphones</Description_Française>
+        <Description_Italienne>Sulla base di sistemi di controllo accessi
+e citofoni</Description_Italienne>
+    </Connexion>
+</Liste_des_connexions>

@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enregistrements>
+    <DATA>
+        <Numero_Enregistrement>VS2012_1</Numero_Enregistrement>
+        <Chrono>1</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>01/09/2012 17:00:25</Date_de_creation>
+        <Titre_texte_francais>Iles Canaries - Fuerteventura</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Aout 2012</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Une semaine de vacance loin du bruit des grandes villes. La chaleur, le soleil et le sable...</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>Kanarische Inseln - Fuerteventura</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>August 2012</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Eine Woche Urlaub abseits vom Lärm der Großstadt. Hitze, Sonne und Sand ...</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Canary Islands - Fuerteventura</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>August 2012</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>A week's holiday away from the noise of big cities. Heat, sun and sand ...</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>Islas Canarias - Fuerteventura</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>08 2012</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Una semana de vacaciones lejos del ruido de las grandes ciudades. Calor, sol y arena ...</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>Isole Canarie - Fuerteventura</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Agosto 2012</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Una settimana di vacanza lontano dal caos delle grandi città. Calore, sole e sabbia ...</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>9</PARAM_A>
+        <PARAM_B>75</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-2-2-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>02/09/2012 14:47:58</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>6</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>ELEC001</Numero_Enregistrement>
+        <Chrono>7</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 10:53:22</Date_de_creation>
+        <Titre_texte_francais>Circuits imprimés sous tout les angles</Titre_texte_francais>
+        <Sous_Titre_texte_francais>Pureté, Géomètrie...</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Vues artistiques de circuits imprimés (Octobre 2004) Pureté, Géomètrie, Lignes, Courbes, Intersections, perspective
+TVIEIL Tout Droits Réservés</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>PCB alle Winkel</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Reinheit, Geometrie...</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Views art Leiterplatte (Oktober 2004) Reinheit, Geometrie, Linien, Kurven, Kreuzungen, Perspektive
+TVIEIL Alle Rechte vorbehalten</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>PCB all angles</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>Purity, Geometry...</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Views art printed circuit board (October 2004)Purity, Geometry, lines, curves, intersections, perspective
+TVIEIL All Rights Reserved</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>PCB todos los ángulos</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>Pureza, geometría...</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Vistas de arte de circuito impreso (octubre de 2004)Pureza, geometría, líneas, curvas, intersecciones, perspectiva
+TVIEIL Todos los derechos reservados</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>PCB tutti gli angoli</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>Purezza curve, geometria...</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Visto arte circuito stampato (ottobre 2004) Purezza curve, geometria, linee, intersezioni, prospettiva
+TVIEIL Tutti i diritti riservati</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>11</PARAM_A>
+        <PARAM_B>67</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>3-4</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>02/09/2012 11:27:28</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>ELEC002</Numero_Enregistrement>
+        <Chrono>8</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 12:32:55</Date_de_creation>
+        <Titre_texte_francais>Disque dur MFM</Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Créé dans les années 80 technologie précédent les disques IDE(Octobre 2004) TVIEIL Tout Droits Réservés</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>HDD MFM</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Erstellt in den 80 bisherigen IDE-Technologie Oktober 2004) TVIEIL Alle Rechte vorbehalten</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Hard disk MFM</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Created in the 80's Before IDE Hard disk (October 2004) TVIEIL All Rights Reserved</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>HDD MFM</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Creada en la tecnología anterior 80 IDE (octubre de 2004) TVIEIL Todos los derechos reservados</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>HDD MFM</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Creata negli anni 80 precedente tecnologia IDE (ottobre 2004) TVIEIL Tutti i diritti riservati</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>11</PARAM_A>
+        <PARAM_B>67</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>3-4</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>02/09/2012 14:39:01</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>ELEC003</Numero_Enregistrement>
+        <Chrono>9</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 13:17:41</Date_de_creation>
+        <Titre_texte_francais>Modem Kortex</Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Longue carte interne ISA modem de la marque Kortex (Octobre 2004) TVIEIL Tout Droits Réservés</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>HDD MFM</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Interne ISA-Modemkarte langen Marke Kortex (Oktober 2004) TVIEIL Alle Rechte vorbehalten</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Modem Kortex</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Internal ISA modem card long brand Kortex (October 2004) TVIEIL All Rights Reserved</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>Módem Kortex</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Módem Tarjeta ISA Kortex marca a largo (octubre de 2004) TVIEIL Todos los derechos reservados</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>Modem Kortex</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Interno ISA scheda modem lungo marchio Kortex (ottobre 2004) TVIEIL Tutti i diritti riservati</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>11</PARAM_A>
+        <PARAM_B>67</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>3-4</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>ELEC004</Numero_Enregistrement>
+        <Chrono>10</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 13:55:09</Date_de_creation>
+        <Titre_texte_francais>Carte Mère Début année 80</Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Carte mère avec microprocesseur 8088  (Octobre 2004) TVIEIL Tout Droits Réservés</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>Motherboard Beginning Jahr 80</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Motherboard mit Mikroprozessor 8088 (Oktober 2004) TVIEIL Alle Rechte vorbehalten</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Motherboard Beginning year 80</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Motherboard with microprocessor 8088 (October 2004) TVIEIL All Rights Reserved</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>Motherboard año a partir del 80</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Motherboard año a partir del 80 (octubre de 2004) TVIEIL Todos los derechos reservados</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>Scheda madre 80 anni, a partire</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Scheda madre con microprocessore 8088 (ottobre 2004) TVIEIL Tutti i diritti riservati</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>11</PARAM_A>
+        <PARAM_B>67</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>3-4</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>00/00/0000 00:00:00</Derniere_modification>
+        <Auteur_derniere_modification> </Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>0</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>ELEC005</Numero_Enregistrement>
+        <Chrono>11</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 14:26:24</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Processeurs Intel, AMD  80386, 80486 années 80  (Octobre 2004) TVIEIL Tout Droits Réservés</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Intel, AMD  80386, 80486 (Oktober 2004) TVIEIL Alle Rechte vorbehalten</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Intel, AMD  80386, 80486 (October 2004) TVIEIL All Rights Reserved</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Intel, AMD  80386, 80486 (octubre de 2004) TVIEIL Todos los derechos reservado</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Intel, AMD  80386, 80486(ottobre 2004) TVIEIL Tutti i diritti riservati</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>11</PARAM_A>
+        <PARAM_B>67</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>3-4</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>02/09/2012 14:34:14</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>Tergnier23062012</Numero_Enregistrement>
+        <Chrono>12</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>02/09/2012 19:08:34</Date_de_creation>
+        <Titre_texte_francais>Tonton à Tergnier 23/06/2012</Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Ce jour là Tonton Thierry va voir Zoé à Tergnier. Il est parti tôt ce samedi matin. 
+Il a pri le train à paris Nord pour Tergnier. Cette journée fut fort agréable. Nous avons mangé la célèbre carbonnade flamande de Laurent, puis nous avons fait des bulles dans la rue, et enfin nous sommes allés au parc faire du toboggan. Bien belle journée</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>Tergnier 23/06/2012</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Dieser Tag wird Uncle Thierry Zoe Tergnier sehen. Er verließ am frühen Samstagmorgen Es verfügt über einen eigenen Zug nach Paris Nord Tergnier. Dieser Tag war sehr angenehm. Wir aßen die berühmte flämische Eintopf Laurent, dann haben wir Blasen in der Straße, und dann gingen wir in den Park Rodeln. Schöner Tag</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Tergnier 23/06/2012</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>That day will see Uncle Thierry Zoe to Tergnier. He left early Saturday morning. It has private train to paris North Tergnier. This day was very pleasant. We ate the famous Flemish stew Laurent, then we made bubbles in the street, and then we went to the park tobogganing. Beautiful day</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>Tergnier 23/06/2012</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Ese día ver al tío Thierry Zoe a Tergnier. Se fue temprano en la mañana del sábado. Tiene tren privado a paris Norte Tergnier. Este día fue muy agradable. Comimos el famoso estofado flamenco Laurent, luego hicimos burbujas en la calle, y luego fuimos a la parque trineo. Hermoso día</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>Tergnier 23/06/2012</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Quel giorno vedrà zio Thierry Zoe a Tergnier. Ha lasciato Sabato mattina presto. Ha treno privato a Parigi Nord Tergnier. Questa giornata è stata molto piacevole. Abbiamo mangiato il famoso stufato fiammingo Laurent, poi abbiamo fatto le bolle per la strada, e poi siamo andati al parco slittino. Bella giornata</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>7</PARAM_A>
+        <PARAM_B>75</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-3-5-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>06/09/2012 19:20:58</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>8</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>V2011_1</Numero_Enregistrement>
+        <Chrono>14</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>05/09/2012 21:16:48</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>VACANCES JADERBERG Juillet 2011</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>FERIEN Jaderberg Juli 2011</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>HOLIDAY Jaderberg July 2011</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>- No Información -</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>VACANZA Jaderberg luglio 2011</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>8</PARAM_A>
+        <PARAM_B>74</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-0-5-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>11/09/2012 19:12:35</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>2</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>VS2012_0</Numero_Enregistrement>
+        <Chrono>15</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>06/09/2012 19:47:53</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Touriste à Paris 10/05/2012</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Turistiche a Parigi 2012/10/05</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Tourist in Paris 05.10.2012</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Turismo en París 10/05/2012</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Turistiche a Parigi 2012/10/05</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>6</PARAM_A>
+        <PARAM_B>75</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-3-5-1</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>11/09/2012 17:20:24</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>2</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>A2012_1</Numero_Enregistrement>
+        <Chrono>16</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>07/09/2012 15:49:55</Date_de_creation>
+        <Titre_texte_francais> </Titre_texte_francais>
+        <Sous_Titre_texte_francais> </Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Photo Séminaire URMET Ete 2012</Commentaire_Texte_francais>
+        <Titre_texte_Allemand> </Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand> </Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Foto URMET Seminar Sommer 2012</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais> </Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais> </Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Photo URMET Seminar Summer 2012</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole> </Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole> </Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Foto URMET Seminario de Verano 2012</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien> </Titre_texte_Italien>
+        <Sous_Titre_texte_Italien> </Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Foto URMET Seminario Estate 2012</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>8</PARAM_A>
+        <PARAM_B>75</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>1-6</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>11/09/2012 17:20:46</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>BH2012_0</Numero_Enregistrement>
+        <Chrono>17</Chrono>
+        <Auteur>LEVITI</Auteur>
+        <Date_de_creation>09/09/2012 14:35:00</Date_de_creation>
+        <Titre_texte_francais>Vexin - Val d'oise</Titre_texte_francais>
+        <Sous_Titre_texte_francais>10 Mars 2012</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>Balade au Bois de Morval Parc National du Vexin, Allée Couverte du Bois-Couturier Mégalithe</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>Vexin - Val d'oise</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>10. März 2012</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>Walk in the Bois de Morval Vexin National Park, Covered Holz Driveway Couturier Megalith</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>Vexin - Val d'oise</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>March 10, 2012</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>Walk in the Bois de Morval Vexin National Park, Wood Driveway Covered Couturier Megalith</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>Vexin - Val d'oise</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>10 de m "arzo 2012</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>Caminar en el Bois de Morval Vexin Parque Nacional, Calzada de madera cubierto Couturier Megalito</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>Vexin - Val d'oise</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>10 mar 2012</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>Passeggiata nel Bois de Morval Vexin Parco Nazionale, Strada privata in legno coperto Couturier Megalith</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>4</PARAM_A>
+        <PARAM_B>74</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>0-3-6-3</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>1</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>11/09/2012 14:01:00</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>1</NUMERO_MODIFICATION>
+    </DATA>
+    <DATA>
+        <Numero_Enregistrement>1971</Numero_Enregistrement>
+        <Chrono>18</Chrono>
+        <Auteur>lvieil</Auteur>
+        <Date_de_creation>09/09/2012 21:14:52</Date_de_creation>
+        <Titre_texte_francais>voler en hélicoptère dans bf3</Titre_texte_francais>
+        <Sous_Titre_texte_francais>comment être  "stationnaire "</Sous_Titre_texte_francais>
+        <Commentaire_Texte_francais>c'est mignon!</Commentaire_Texte_francais>
+        <Titre_texte_Allemand>Fliegen in heli in bf3</Titre_texte_Allemand>
+        <Sous_Titre_texte_Allemand>Wie  "stationnaire " sein</Sous_Titre_texte_Allemand>
+        <Commentaire_Texte_Allemand>es ist niedlich!</Commentaire_Texte_Allemand>
+        <Titre_texte_Anglais>flying in heli in bf3</Titre_texte_Anglais>
+        <Sous_Titre_texte_Anglais>how be  "stationnaire "</Sous_Titre_texte_Anglais>
+        <Commentaire_Texte_Anglais>it's cute!!</Commentaire_Texte_Anglais>
+        <Titre_texte_Espagnole>volando en helicóptero en bf3</Titre_texte_Espagnole>
+        <Sous_Titre_texte_Espagnole>cómo ser  "stationnaire "</Sous_Titre_texte_Espagnole>
+        <Commentaire_Texte_Espagnole>que es lindo!</Commentaire_Texte_Espagnole>
+        <Titre_texte_Italien>volo in elicottero in BF3</Titre_texte_Italien>
+        <Sous_Titre_texte_Italien>come essere  "stationnaire "</Sous_Titre_texte_Italien>
+        <Commentaire_Texte_Italien>questo è carino!</Commentaire_Texte_Italien>
+        <Activation_XAML>False</Activation_XAML>
+        <Type_XAML_Titre_predefini>0</Type_XAML_Titre_predefini>
+        <Type_XAML_Sous_Titre_predefini>0</Type_XAML_Sous_Titre_predefini>
+        <Type_XAML_Commentaire_predefini>0</Type_XAML_Commentaire_predefini>
+        <Type_XAML_Titre_specifique>nul</Type_XAML_Titre_specifique>
+        <Type_XAML_Sous_Titre_specifique>nul</Type_XAML_Sous_Titre_specifique>
+        <Type_XAML_Commentaire_specifique>nul</Type_XAML_Commentaire_specifique>
+        <PARAM_A>10</PARAM_A>
+        <PARAM_B>75</PARAM_B>
+        <PARAM_C>0</PARAM_C>
+        <PARAM_D>0</PARAM_D>
+        <PARAM_E>0</PARAM_E>
+        <PARAM_F>0</PARAM_F>
+        <PARAM_G>0</PARAM_G>
+        <PARAM_H>0</PARAM_H>
+        <PARAM_I>0</PARAM_I>
+        <Recherche_par_Arbre>2-10</Recherche_par_Arbre>
+        <Label_reserve1_francais> </Label_reserve1_francais>
+        <Texte_reserve1_francais> </Texte_reserve1_francais>
+        <Label_reserve1_Allemand> </Label_reserve1_Allemand>
+        <Texte_reserve1_Allemand> </Texte_reserve1_Allemand>
+        <Label_reserve1_Anglais> </Label_reserve1_Anglais>
+        <Texte_reserve1_Anglais> </Texte_reserve1_Anglais>
+        <Label_reserve1_Espagnole> </Label_reserve1_Espagnole>
+        <Texte_reserve1_Espagnole> </Texte_reserve1_Espagnole>
+        <Label_reserve1_Italien> </Label_reserve1_Italien>
+        <Texte_reserve1_Italien> </Texte_reserve1_Italien>
+        <Boolean_reserve1>nul</Boolean_reserve1>
+        <Integer_reserve1>nul</Integer_reserve1>
+        <Date_reserve1>00/00/0000 00:00:00</Date_reserve1>
+        <IDConstructeur>1</IDConstructeur>
+        <NIVEAU_ACCES>3</NIVEAU_ACCES>
+        <STANDARD>False</STANDARD>
+        <Derniere_modification>11/09/2012 19:14:46</Derniere_modification>
+        <Auteur_derniere_modification>LEVITI</Auteur_derniere_modification>
+        <NUMERO_MODIFICATION>18</NUMERO_MODIFICATION>
+    </DATA>
+</enregistrements>

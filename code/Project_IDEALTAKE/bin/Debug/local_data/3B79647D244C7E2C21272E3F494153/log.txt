@@ -1,0 +1,8 @@
+
+	=== Log Start : 24/08/2012 15:58:01
+Persist Security Info=true;database=ALBUM PHOTOS;server=tvieil.dnsalias.com;user id=TVIEIL;pwd=14071789
+Une erreur s'est produite : Unknown database 'ALBUM PHOTOS'
+Durant l'ouverture de connexion avec le serveur.
+
+	=== Log Stop
+

@@ -1,0 +1,59 @@
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Form1.resources
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Resources.resources
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe.config
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\Interop.NetFwTypeLib.dll
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Message_Box_Question.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe.config
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\Interop.NetFwTypeLib.dll
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Form1.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Resources.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Message_Box_Question.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe.config
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\Interop.NetFwTypeLib.dll
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Form1.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Resources.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Message_Box_Question.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe.config
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\Interop.NetFwTypeLib.dll
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.exe
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.pdb
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\bin\Debug\TransfertIdealtake.xml
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Form1.resources
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Resources.resources
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.Message_Box_Question.resources
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbprojResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2013\Idealtake_2013\TransfertIdealtake\TransfertIdealtake\TransfertIdealtake\obj\x86\Debug\TransfertIdealtake.vbproj.GenerateResource.Cache

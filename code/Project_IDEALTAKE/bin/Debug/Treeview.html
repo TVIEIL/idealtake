@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+ 
+<html>
+  <head>
+       <title>Recherche Guidée</title>
+       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css" >
+td { 
+ border-width:2px;
+ border-style:double; 
+ border-color:red;
+ width:50%;
+ }
+ body
+ {
+ background-color:#00cccc;
+ }
+
+</style>
+
+    <script type="text/javascript" language="Javascript">
+ 
+    Int_Top_Offset = 100;                //Décallage entre haut de page et début du treeview
+    Int_left_Offset = 10;                //Décallage horizontale bordure gauche au treeview
+    Int_vertical_line_offset = 30;       //Espace séparant verticalement 2 lignes d'une même table
+    Int_horizontal_shift = 25;           //Espace de retrait horizontale entre 2 lignes de table différentes
+    Int_vertical_shift = 50;             //Espace verticale séparant 2 lignes de tables différentes
+
+    Racine_zero_texte = new Array("Vacance","Affaire","Loisir","Maison");
+    Racine_zero_arbre = new Array("0","1","2","3");
+    Racine_1_texte = new Array("Allemagne","Angleterre","Espagne","France","Italie","Belgique","Pays Bas","Danemark","Luxembourg","Suisse","Portugal","Irelande","Pologne","Tchequie","Slovaquie","Norvège","Suède","Finlande","Estonie","Lettonie","Lithuanie","Russie","Moyen Orient","Pays africains","Chine","Amérique du Nord","Amérique centrale","Amérique du Sud","Pays océan pacifique","Pays océan Indien","Pays océan Artique","Pays océan Antartique","Présentation","Salon","Forum","Zone industrielle","Symposium","Autre","Bricolage","Cirque","Culture","Danse","Fête","Musique","Théâtre","Sport","Peinture","Autre","Jardin","Décoration d'intérieure","Architecture","Autre");
+    Racine_1_arbre = new Array("0-0","0-1","0-2","0-3","0-4","0-5","0-6","0-7","0-8","0-9","0-10","0-11","0-12","0-13","0-14","0-15","0-16","0-17","0-18","0-19","0-20","0-21","0-22","0-23","0-24","0-25","0-26","0-27","0-28","0-29","0-30","0-31","1-1","1-2","1-3","1-4","1-5","1-6","2-1","2-2","2-3","2-4","2-5","2-6","2-7","2-8","2-9","2-10","3-1","3-2","3-3","3-4");
+    Racine_2_texte = new Array("Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre","Fôret","Montagne","Mer","Désert Chaud","Désert Froid","Ville ou village","Campagne","Autre");
+    Racine_2_arbre = new Array("0-0-0","0-0-1","0-0-2","0-0-3","0-0-4","0-0-5","0-0-6","0-0-7","0-1-0","0-1-1","0-1-2","0-1-3","0-1-4","0-1-5","0-1-6","0-1-7","0-2-0","0-2-1","0-2-2","0-2-3","0-2-4","0-2-5","0-2-6","0-2-7","0-3-0","0-3-1","0-3-2","0-3-3","0-3-4","0-3-5","0-3-6","0-3-7","0-4-0","0-4-1","0-4-2","0-4-3","0-4-4","0-4-5","0-4-6","0-4-7","0-5-0","0-5-1","0-5-2","0-5-3","0-5-4","0-5-5","0-5-6","0-5-7","0-6-0","0-6-1","0-6-2","0-6-3","0-6-4","0-6-5","0-6-6","0-6-7","0-7-0","0-7-1","0-7-2","0-7-3","0-7-4","0-7-5","0-7-6","0-7-7","0-8-0","0-8-1","0-8-2","0-8-3","0-8-4","0-8-5","0-8-6","0-8-7","0-9-0","0-9-1","0-9-2","0-9-3","0-9-4","0-9-5","0-9-6","0-9-7","0-10-0","0-10-1","0-10-2","0-10-3","0-10-4","0-10-5","0-10-6","0-10-7","0-11-0","0-11-1","0-11-2","0-11-3","0-11-4","0-11-5","0-11-6","0-11-7","0-12-0","0-12-1","0-12-2","0-12-3","0-12-4","0-12-5","0-12-6","0-12-7","0-13-0","0-13-1","0-13-2","0-13-3","0-13-4","0-13-5","0-13-6","0-13-7","0-14-0","0-14-1","0-14-2","0-14-3","0-14-4","0-14-5","0-14-6","0-14-7","0-15-0","0-15-1","0-15-2","0-15-3","0-15-4","0-15-5","0-15-6","0-15-7","0-16-0","0-16-1","0-16-2","0-16-3","0-16-4","0-16-5","0-16-6","0-16-7","0-17-0","0-17-1","0-17-2","0-17-3","0-17-4","0-17-5","0-17-6","0-17-7","0-18-0","0-18-1","0-18-2","0-18-3","0-18-4","0-18-5","0-18-6","0-18-7","0-19-0","0-19-1","0-19-2","0-19-3","0-19-4","0-19-5","0-19-6","0-19-7","0-20-0","0-20-1","0-20-2","0-20-3","0-20-4","0-20-5","0-20-6","0-20-7","0-21-0","0-21-1","0-21-2","0-21-3","0-21-4","0-21-5","0-21-6","0-21-7","0-22-0","0-22-1","0-22-2","0-22-3","0-22-4","0-22-5","0-22-6","0-22-7","0-23-0","0-23-1","0-23-2","0-23-3","0-23-4","0-23-5","0-23-6","0-23-7","0-24-0","0-24-1","0-24-2","0-24-3","0-24-4","0-24-5","0-24-6","0-24-7","0-25-0","0-25-1","0-25-2","0-25-3","0-25-4","0-25-5","0-25-6","0-25-7","0-26-0","0-26-1","0-26-2","0-26-3","0-26-4","0-26-5","0-26-6","0-26-7","0-27-0","0-27-1","0-27-2","0-27-3","0-27-4","0-27-5","0-27-6","0-27-7","0-28-0","0-28-1","0-28-2","0-28-3","0-28-4","0-28-5","0-28-6","0-28-7","0-29-0","0-29-1","0-29-2","0-29-3","0-29-4","0-29-5","0-29-6","0-29-7","0-30-0","0-30-1","0-30-2","0-30-3","0-30-4","0-30-5","0-30-6","0-30-7","0-31-0","0-31-1","0-31-2","0-31-3","0-31-4","0-31-5","0-31-6","0-31-7");
+    Racine_3_texte = new Array("Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver","Printemps","Été","Automne","Hiver");
+    Racine_3_arbre = new Array("0-0-0-0","0-0-0-1","0-0-0-2","0-0-0-3","0-0-1-0","0-0-1-1","0-0-1-2","0-0-1-3","0-0-2-0","0-0-2-1","0-0-2-2","0-0-2-3","0-0-3-0","0-0-3-1","0-0-3-2","0-0-3-3","0-0-4-0","0-0-4-1","0-0-4-2","0-0-4-3","0-0-5-0","0-0-5-1","0-0-5-2","0-0-5-3","0-0-6-0","0-0-6-1","0-0-6-2","0-0-6-3","0-0-7-0","0-0-7-1","0-0-7-2","0-0-7-3","0-1-0-0","0-1-0-1","0-1-0-2","0-1-0-3","0-1-1-0","0-1-1-1","0-1-1-2","0-1-1-3","0-1-2-0","0-1-2-1","0-1-2-2","0-1-2-3","0-1-3-0","0-1-3-1","0-1-3-2","0-1-3-3","0-1-4-0","0-1-4-1","0-1-4-2","0-1-4-3","0-1-5-0","0-1-5-1","0-1-5-2","0-1-5-3","0-1-6-0","0-1-6-1","0-1-6-2","0-1-6-3","0-1-7-0","0-1-7-1","0-1-7-2","0-1-7-3","0-2-0-0","0-2-0-1","0-2-0-2","0-2-0-3","0-2-1-0","0-2-1-1","0-2-1-2","0-2-1-3","0-2-2-0","0-2-2-1","0-2-2-2","0-2-2-3","0-2-3-0","0-2-3-1","0-2-3-2","0-2-3-3","0-2-4-0","0-2-4-1","0-2-4-2","0-2-4-3","0-2-5-0","0-2-5-1","0-2-5-2","0-2-5-3","0-2-6-0","0-2-6-1","0-2-6-2","0-2-6-3","0-2-7-0","0-2-7-1","0-2-7-2","0-2-7-3","0-3-0-0","0-3-0-1","0-3-0-2","0-3-0-3","0-3-1-0","0-3-1-1","0-3-1-2","0-3-1-3","0-3-2-0","0-3-2-1","0-3-2-2","0-3-2-3","0-3-3-0","0-3-3-1","0-3-3-2","0-3-3-3","0-3-4-0","0-3-4-1","0-3-4-2","0-3-4-3","0-3-5-0","0-3-5-1","0-3-5-2","0-3-5-3","0-3-6-0","0-3-6-1","0-3-6-2","0-3-6-3","0-3-7-0","0-3-7-1","0-3-7-2","0-3-7-3","0-4-0-0","0-4-0-1","0-4-0-2","0-4-0-3","0-4-1-0","0-4-1-1","0-4-1-2","0-4-1-3","0-4-2-0","0-4-2-1","0-4-2-2","0-4-2-3","0-4-3-0","0-4-3-1","0-4-3-2","0-4-3-3","0-4-4-0","0-4-4-1","0-4-4-2","0-4-4-3","0-4-5-0","0-4-5-1","0-4-5-2","0-4-5-3","0-4-6-0","0-4-6-1","0-4-6-2","0-4-6-3","0-4-7-0","0-4-7-1","0-4-7-2","0-4-7-3","0-5-0-0","0-5-0-1","0-5-0-2","0-5-0-3","0-5-1-0","0-5-1-1","0-5-1-2","0-5-1-3","0-5-2-0","0-5-2-1","0-5-2-2","0-5-2-3","0-5-3-0","0-5-3-1","0-5-3-2","0-5-3-3","0-5-4-0","0-5-4-1","0-5-4-2","0-5-4-3","0-5-5-0","0-5-5-1","0-5-5-2","0-5-5-3","0-5-6-0","0-5-6-1","0-5-6-2","0-5-6-3","0-5-7-0","0-5-7-1","0-5-7-2","0-5-7-3","0-6-0-0","0-6-0-1","0-6-0-2","0-6-0-3","0-6-1-0","0-6-1-1","0-6-1-2","0-6-1-3","0-6-2-0","0-6-2-1","0-6-2-2","0-6-2-3","0-6-3-0","0-6-3-1","0-6-3-2","0-6-3-3","0-6-4-0","0-6-4-1","0-6-4-2","0-6-4-3","0-6-5-0","0-6-5-1","0-6-5-2","0-6-5-3","0-6-6-0","0-6-6-1","0-6-6-2","0-6-6-3","0-6-7-0","0-6-7-1","0-6-7-2","0-6-7-3","0-7-0-0","0-7-0-1","0-7-0-2","0-7-0-3","0-7-1-0","0-7-1-1","0-7-1-2","0-7-1-3","0-7-2-0","0-7-2-1","0-7-2-2","0-7-2-3","0-7-3-0","0-7-3-1","0-7-3-2","0-7-3-3","0-7-4-0","0-7-4-1","0-7-4-2","0-7-4-3","0-7-5-0","0-7-5-1","0-7-5-2","0-7-5-3","0-7-6-0","0-7-6-1","0-7-6-2","0-7-6-3","0-7-7-0","0-7-7-1","0-7-7-2","0-7-7-3","0-8-0-0","0-8-0-1","0-8-0-2","0-8-0-3","0-8-1-0","0-8-1-1","0-8-1-2","0-8-1-3","0-8-2-0","0-8-2-1","0-8-2-2","0-8-2-3","0-8-3-0","0-8-3-1","0-8-3-2","0-8-3-3","0-8-4-0","0-8-4-1","0-8-4-2","0-8-4-3","0-8-5-0","0-8-5-1","0-8-5-2","0-8-5-3","0-8-6-0","0-8-6-1","0-8-6-2","0-8-6-3","0-8-7-0","0-8-7-1","0-8-7-2","0-8-7-3","0-9-0-0","0-9-0-1","0-9-0-2","0-9-0-3","0-9-1-0","0-9-1-1","0-9-1-2","0-9-1-3","0-9-2-0","0-9-2-1","0-9-2-2","0-9-2-3","0-9-3-0","0-9-3-1","0-9-3-2","0-9-3-3","0-9-4-0","0-9-4-1","0-9-4-2","0-9-4-3","0-9-5-0","0-9-5-1","0-9-5-2","0-9-5-3","0-9-6-0","0-9-6-1","0-9-6-2","0-9-6-3","0-9-7-0","0-9-7-1","0-9-7-2","0-9-7-3","0-10-0-0","0-10-0-1","0-10-0-2","0-10-0-3","0-10-1-0","0-10-1-1","0-10-1-2","0-10-1-3","0-10-2-0","0-10-2-1","0-10-2-2","0-10-2-3","0-10-3-0","0-10-3-1","0-10-3-2","0-10-3-3","0-10-4-0","0-10-4-1","0-10-4-2","0-10-4-3","0-10-5-0","0-10-5-1","0-10-5-2","0-10-5-3","0-10-6-0","0-10-6-1","0-10-6-2","0-10-6-3","0-10-7-0","0-10-7-1","0-10-7-2","0-10-7-3","0-11-0-0","0-11-0-1","0-11-0-2","0-11-0-3","0-11-1-0","0-11-1-1","0-11-1-2","0-11-1-3","0-11-2-0","0-11-2-1","0-11-2-2","0-11-2-3","0-11-3-0","0-11-3-1","0-11-3-2","0-11-3-3","0-11-4-0","0-11-4-1","0-11-4-2","0-11-4-3","0-11-5-0","0-11-5-1","0-11-5-2","0-11-5-3","0-11-6-0","0-11-6-1","0-11-6-2","0-11-6-3","0-11-7-0","0-11-7-1","0-11-7-2","0-11-7-3","0-12-0-0","0-12-0-1","0-12-0-2","0-12-0-3","0-12-1-0","0-12-1-1","0-12-1-2","0-12-1-3","0-12-2-0","0-12-2-1","0-12-2-2","0-12-2-3","0-12-3-0","0-12-3-1","0-12-3-2","0-12-3-3","0-12-4-0","0-12-4-1","0-12-4-2","0-12-4-3","0-12-5-0","0-12-5-1","0-12-5-2","0-12-5-3","0-12-6-0","0-12-6-1","0-12-6-2","0-12-6-3","0-12-7-0","0-12-7-1","0-12-7-2","0-12-7-3","0-13-0-0","0-13-0-1","0-13-0-2","0-13-0-3","0-13-1-0","0-13-1-1","0-13-1-2","0-13-1-3","0-13-2-0","0-13-2-1","0-13-2-2","0-13-2-3","0-13-3-0","0-13-3-1","0-13-3-2","0-13-3-3","0-13-4-0","0-13-4-1","0-13-4-2","0-13-4-3","0-13-5-0","0-13-5-1","0-13-5-2","0-13-5-3","0-13-6-0","0-13-6-1","0-13-6-2","0-13-6-3","0-13-7-0","0-13-7-1","0-13-7-2","0-13-7-3","0-14-0-0","0-14-0-1","0-14-0-2","0-14-0-3","0-14-1-0","0-14-1-1","0-14-1-2","0-14-1-3","0-14-2-0","0-14-2-1","0-14-2-2","0-14-2-3","0-14-3-0","0-14-3-1","0-14-3-2","0-14-3-3","0-14-4-0","0-14-4-1","0-14-4-2","0-14-4-3","0-14-5-0","0-14-5-1","0-14-5-2","0-14-5-3","0-14-6-0","0-14-6-1","0-14-6-2","0-14-6-3","0-14-7-0","0-14-7-1","0-14-7-2","0-14-7-3","0-15-0-0","0-15-0-1","0-15-0-2","0-15-0-3","0-15-1-0","0-15-1-1","0-15-1-2","0-15-1-3","0-15-2-0","0-15-2-1","0-15-2-2","0-15-2-3","0-15-3-0","0-15-3-1","0-15-3-2","0-15-3-3","0-15-4-0","0-15-4-1","0-15-4-2","0-15-4-3","0-15-5-0","0-15-5-1","0-15-5-2","0-15-5-3","0-15-6-0","0-15-6-1","0-15-6-2","0-15-6-3","0-15-7-0","0-15-7-1","0-15-7-2","0-15-7-3","0-16-0-0","0-16-0-1","0-16-0-2","0-16-0-3","0-16-1-0","0-16-1-1","0-16-1-2","0-16-1-3","0-16-2-0","0-16-2-1","0-16-2-2","0-16-2-3","0-16-3-0","0-16-3-1","0-16-3-2","0-16-3-3","0-16-4-0","0-16-4-1","0-16-4-2","0-16-4-3","0-16-5-0","0-16-5-1","0-16-5-2","0-16-5-3","0-16-6-0","0-16-6-1","0-16-6-2","0-16-6-3","0-16-7-0","0-16-7-1","0-16-7-2","0-16-7-3","0-17-0-0","0-17-0-1","0-17-0-2","0-17-0-3","0-17-1-0","0-17-1-1","0-17-1-2","0-17-1-3","0-17-2-0","0-17-2-1","0-17-2-2","0-17-2-3","0-17-3-0","0-17-3-1","0-17-3-2","0-17-3-3","0-17-4-0","0-17-4-1","0-17-4-2","0-17-4-3","0-17-5-0","0-17-5-1","0-17-5-2","0-17-5-3","0-17-6-0","0-17-6-1","0-17-6-2","0-17-6-3","0-17-7-0","0-17-7-1","0-17-7-2","0-17-7-3","0-18-0-0","0-18-0-1","0-18-0-2","0-18-0-3","0-18-1-0","0-18-1-1","0-18-1-2","0-18-1-3","0-18-2-0","0-18-2-1","0-18-2-2","0-18-2-3","0-18-3-0","0-18-3-1","0-18-3-2","0-18-3-3","0-18-4-0","0-18-4-1","0-18-4-2","0-18-4-3","0-18-5-0","0-18-5-1","0-18-5-2","0-18-5-3","0-18-6-0","0-18-6-1","0-18-6-2","0-18-6-3","0-18-7-0","0-18-7-1","0-18-7-2","0-18-7-3","0-19-0-0","0-19-0-1","0-19-0-2","0-19-0-3","0-19-1-0","0-19-1-1","0-19-1-2","0-19-1-3","0-19-2-0","0-19-2-1","0-19-2-2","0-19-2-3","0-19-3-0","0-19-3-1","0-19-3-2","0-19-3-3","0-19-4-0","0-19-4-1","0-19-4-2","0-19-4-3","0-19-5-0","0-19-5-1","0-19-5-2","0-19-5-3","0-19-6-0","0-19-6-1","0-19-6-2","0-19-6-3","0-19-7-0","0-19-7-1","0-19-7-2","0-19-7-3","0-20-0-0","0-20-0-1","0-20-0-2","0-20-0-3","0-20-1-0","0-20-1-1","0-20-1-2","0-20-1-3","0-20-2-0","0-20-2-1","0-20-2-2","0-20-2-3","0-20-3-0","0-20-3-1","0-20-3-2","0-20-3-3","0-20-4-0","0-20-4-1","0-20-4-2","0-20-4-3","0-20-5-0","0-20-5-1","0-20-5-2","0-20-5-3","0-20-6-0","0-20-6-1","0-20-6-2","0-20-6-3","0-20-7-0","0-20-7-1","0-20-7-2","0-20-7-3","0-21-0-0","0-21-0-1","0-21-0-2","0-21-0-3","0-21-1-0","0-21-1-1","0-21-1-2","0-21-1-3","0-21-2-0","0-21-2-1","0-21-2-2","0-21-2-3","0-21-3-0","0-21-3-1","0-21-3-2","0-21-3-3","0-21-4-0","0-21-4-1","0-21-4-2","0-21-4-3","0-21-5-0","0-21-5-1","0-21-5-2","0-21-5-3","0-21-6-0","0-21-6-1","0-21-6-2","0-21-6-3","0-21-7-0","0-21-7-1","0-21-7-2","0-21-7-3","0-22-0-0","0-22-0-1","0-22-0-2","0-22-0-3","0-22-1-0","0-22-1-1","0-22-1-2","0-22-1-3","0-22-2-0","0-22-2-1","0-22-2-2","0-22-2-3","0-22-3-0","0-22-3-1","0-22-3-2","0-22-3-3","0-22-4-0","0-22-4-1","0-22-4-2","0-22-4-3","0-22-5-0","0-22-5-1","0-22-5-2","0-22-5-3","0-22-6-0","0-22-6-1","0-22-6-2","0-22-6-3","0-22-7-0","0-22-7-1","0-22-7-2","0-22-7-3","0-23-0-0","0-23-0-1","0-23-0-2","0-23-0-3","0-23-1-0","0-23-1-1","0-23-1-2","0-23-1-3","0-23-2-0","0-23-2-1","0-23-2-2","0-23-2-3","0-23-3-0","0-23-3-1","0-23-3-2","0-23-3-3","0-23-4-0","0-23-4-1","0-23-4-2","0-23-4-3","0-23-5-0","0-23-5-1","0-23-5-2","0-23-5-3","0-23-6-0","0-23-6-1","0-23-6-2","0-23-6-3","0-23-7-0","0-23-7-1","0-23-7-2","0-23-7-3","0-24-0-0","0-24-0-1","0-24-0-2","0-24-0-3","0-24-1-0","0-24-1-1","0-24-1-2","0-24-1-3","0-24-2-0","0-24-2-1","0-24-2-2","0-24-2-3","0-24-3-0","0-24-3-1","0-24-3-2","0-24-3-3","0-24-4-0","0-24-4-1","0-24-4-2","0-24-4-3","0-24-5-0","0-24-5-1","0-24-5-2","0-24-5-3","0-24-6-0","0-24-6-1","0-24-6-2","0-24-6-3","0-24-7-0","0-24-7-1","0-24-7-2","0-24-7-3","0-25-0-0","0-25-0-1","0-25-0-2","0-25-0-3","0-25-1-0","0-25-1-1","0-25-1-2","0-25-1-3","0-25-2-0","0-25-2-1","0-25-2-2","0-25-2-3","0-25-3-0","0-25-3-1","0-25-3-2","0-25-3-3","0-25-4-0","0-25-4-1","0-25-4-2","0-25-4-3","0-25-5-0","0-25-5-1","0-25-5-2","0-25-5-3","0-25-6-0","0-25-6-1","0-25-6-2","0-25-6-3","0-25-7-0","0-25-7-1","0-25-7-2","0-25-7-3","0-26-0-0","0-26-0-1","0-26-0-2","0-26-0-3","0-26-1-0","0-26-1-1","0-26-1-2","0-26-1-3","0-26-2-0","0-26-2-1","0-26-2-2","0-26-2-3","0-26-3-0","0-26-3-1","0-26-3-2","0-26-3-3","0-26-4-0","0-26-4-1","0-26-4-2","0-26-4-3","0-26-5-0","0-26-5-1","0-26-5-2","0-26-5-3","0-26-6-0","0-26-6-1","0-26-6-2","0-26-6-3","0-26-7-0","0-26-7-1","0-26-7-2","0-26-7-3","0-27-0-0","0-27-0-1","0-27-0-2","0-27-0-3","0-27-1-0","0-27-1-1","0-27-1-2","0-27-1-3","0-27-2-0","0-27-2-1","0-27-2-2","0-27-2-3","0-27-3-0","0-27-3-1","0-27-3-2","0-27-3-3","0-27-4-0","0-27-4-1","0-27-4-2","0-27-4-3","0-27-5-0","0-27-5-1","0-27-5-2","0-27-5-3","0-27-6-0","0-27-6-1","0-27-6-2","0-27-6-3","0-27-7-0","0-27-7-1","0-27-7-2","0-27-7-3","0-28-0-0","0-28-0-1","0-28-0-2","0-28-0-3","0-28-1-0","0-28-1-1","0-28-1-2","0-28-1-3","0-28-2-0","0-28-2-1","0-28-2-2","0-28-2-3","0-28-3-0","0-28-3-1","0-28-3-2","0-28-3-3","0-28-4-0","0-28-4-1","0-28-4-2","0-28-4-3","0-28-5-0","0-28-5-1","0-28-5-2","0-28-5-3","0-28-6-0","0-28-6-1","0-28-6-2","0-28-6-3","0-28-7-0","0-28-7-1","0-28-7-2","0-28-7-3","0-29-0-0","0-29-0-1","0-29-0-2","0-29-0-3","0-29-1-0","0-29-1-1","0-29-1-2","0-29-1-3","0-29-2-0","0-29-2-1","0-29-2-2","0-29-2-3","0-29-3-0","0-29-3-1","0-29-3-2","0-29-3-3","0-29-4-0","0-29-4-1","0-29-4-2","0-29-4-3","0-29-5-0","0-29-5-1","0-29-5-2","0-29-5-3","0-29-6-0","0-29-6-1","0-29-6-2","0-29-6-3","0-29-7-0","0-29-7-1","0-29-7-2","0-29-7-3","0-30-0-0","0-30-0-1","0-30-0-2","0-30-0-3","0-30-1-0","0-30-1-1","0-30-1-2","0-30-1-3","0-30-2-0","0-30-2-1","0-30-2-2","0-30-2-3","0-30-3-0","0-30-3-1","0-30-3-2","0-30-3-3","0-30-4-0","0-30-4-1","0-30-4-2","0-30-4-3","0-30-5-0","0-30-5-1","0-30-5-2","0-30-5-3","0-30-6-0","0-30-6-1","0-30-6-2","0-30-6-3","0-30-7-0","0-30-7-1","0-30-7-2","0-30-7-3","0-31-0-0","0-31-0-1","0-31-0-2","0-31-0-3","0-31-1-0","0-31-1-1","0-31-1-2","0-31-1-3","0-31-2-0","0-31-2-1","0-31-2-2","0-31-2-3","0-31-3-0","0-31-3-1","0-31-3-2","0-31-3-3","0-31-4-0","0-31-4-1","0-31-4-2","0-31-4-3","0-31-5-0","0-31-5-1","0-31-5-2","0-31-5-3","0-31-6-0","0-31-6-1","0-31-6-2","0-31-6-3","0-31-7-0","0-31-7-1","0-31-7-2","0-31-7-3");
+    Racine_4_texte = new Array("");
+    Racine_4_arbre = new Array("None");
+    Racine_5_texte = new Array("");
+    Racine_5_arbre = new Array("None");
+    Racine_6_texte = new Array("");
+    Racine_6_arbre = new Array("None");
+    Racine_7_texte = new Array("");
+    Racine_7_arbre = new Array("None");
+    Racine_8_texte = new Array("");
+    Racine_8_arbre = new Array("None");
+    Racine_9_texte = new Array("");
+    Racine_9_arbre = new Array("None");
+
+   function function_Selected_Tree_Symbole(Texte_Symbole)
+    {
+     document.getElementById("Selected_Tree_Symbole").innerHTML = Texte_Symbole;
+     //alert(Texte_Symbole);
+    //alert(Comptage_occurence(Texte_Symbole,"-"));
+     Function_Refresh_Tree_View(Texte_Symbole, 52, 25,25,25,25);
+    }
+   function Function_initialisation_Tree_View(Top_Offset, left_Offset,vertical_line_offset,horizontal_shift,vertical_shift) 
+    {
+        var Vue_Arbre;
+        Vue_Arbre = "<table style=\" text-align: left; width: 100%;\" cellpadding=\"2\" cellspacing=\"2\">" + "\r\n";
+        //Vue_Arbre = "<tbody>" + "\r\n";
+for (t = 0;t < Racine_zero_texte.length;t++)
+{
+               if (t==0)
+                 Vue_Arbre = Vue_Arbre  + "<tr style=\"Position : absolute;left : " + left_Offset + "px;Top : " + Top_Offset + "px;\">" + "\r\n";
+               else if  (t>0)
+                 {
+                 var top_01 = Top_Offset + (vertical_line_offset*(t));
+                 Vue_Arbre = Vue_Arbre  + "<tr Style =\"Position : absolute;left : " + left_Offset + "px;Top : " + top_01 + "px;\">" + "\r\n";
+                 }
+                        Vue_Arbre = Vue_Arbre  + "<td style=\"vertical-align: top;background-color:orange;\" onclick='Symbole_Arbre=\"" + Racine_zero_arbre[t] + "\";function_Selected_Tree_Symbole(Symbole_Arbre);'>" + Racine_zero_texte[t] + "<br>"  + "\r\n";
+                        Vue_Arbre = Vue_Arbre  + "</td>"  + "\r\n";
+                        Vue_Arbre = Vue_Arbre  + "</tr>"  + "\r\n";
+
+        }
+Vue_Arbre = Vue_Arbre  + "</tbody>" + "\r\n";
+Vue_Arbre = Vue_Arbre  + "</table>" + "\r\n";
+document.getElementById("Tree_View_Block").innerHTML = Vue_Arbre;
+}
+
+   function Function_Refresh_Tree_View(Symbole_Arbre_a_Rechercher, Top_Offset, left_Offset,vertical_line_offset,horizontal_shift,vertical_shift) 
+  {
+
+    // analyse de la chaîne  Symbole_Arbre_a_Rechercher e.g : 0-0-1-2
+    // Chaque tiret indique que l'on passe à une nouvelle table
+    // dans l'exemple 0-0-1-2 le  Symbole_Arbre_a_Rechercher se situe dans Racine_3_arbre
+
+    var Test_occurence = 0;
+    Test_occurence = Comptage_occurence( Symbole_Arbre_a_Rechercher,"-");
+     var  Document00 ="";
+     var Document01 = "";
+     var Document02 = "";
+     var Document03 = "";
+     var Document04 = "";
+     var Document05 = "";
+     var Document06 = "";
+     var Document07 = "";
+     var Document08 = "";
+     var Document09 = "";
+     var doc = "";
+     var modified_Symbole_Arbre = "";
+
+switch (Test_occurence){
+case 0 :
+//On affiche que le Symbole_Arbre_a_Rechercher sélectionné de Racine_zero_texte
+Document00 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document01 =  toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 1 :
+Document02 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document01 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 2 :
+Document03 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document02 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 3 :
+Document04 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 4 :
+Document05 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document04 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,4,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04 + Document05;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 5 :
+Document06 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document05 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,5,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document04 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,4,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04 + Document05 + Document06;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 6 :
+Document07 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document06 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,6,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document05 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,5,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document04 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,4,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04 + Document05 + Document06 + Document07;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 7 :
+Document08 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document07 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,7,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document06 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,6,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document05 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,5,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document04 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,4,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04 + Document05 + Document06 + Document07 + Document08;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 8 :
+Document09 = toutes_les_lignes_TR_TD_a_droite_du_clique(Symbole_Arbre_a_Rechercher,Test_occurence,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+Document08 = un_seul_TR_TD_la_ou_on_clique(Symbole_Arbre_a_Rechercher,8,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(Symbole_Arbre_a_Rechercher);
+Document07 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,7,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document06 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,6,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document05 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,5,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document04 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,4,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document03 =  un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,3,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document02 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,2,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document01 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,1,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+modified_Symbole_Arbre = Function_remove_last_index(modified_Symbole_Arbre);
+Document00 = un_seul_TR_TD_la_ou_on_clique(modified_Symbole_Arbre,0,Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+doc = Document00 + Document01 + Document02+ Document03 + Document04 + Document05 + Document06 + Document07 + Document08 + Document09;
+document.getElementById("Tree_View_Block").innerHTML = doc;
+break;
+case 9 :
+break;
+  }
+}
+
+function Function_remove_last_index(Symbole_Arbre){
+var chaine_modifie = "";
+chaine_modifie = Symbole_Arbre.substring(0, Symbole_Arbre.lastIndexOf("-"));
+return chaine_modifie;
+}
+
+function un_seul_TR_TD_la_ou_on_clique( Symbole_Arbre,Num_Table,Top_Offset,left_Offset,vertical_line_offset,horizontal_shift,vertical_shift){
+    //un seul TR_TD_la_ou_on_clique
+    //ou
+    //un seul TR_TD_a_gauche_du_clique quelque soit la table
+    //
+    //Top_Offset	   Décallage entre haut de page et la table du treeview
+    //left_Offset          Décallage horizontale bordure gauche de page à la table du  treeview
+    //vertical_line_offset Espace séparant verticalement 2 lignes d'une même table
+    //horizontal_shift     Espace de retrait horizontale entre 2 lignes de table différentes
+    //vertical_shift       Espace verticale séparant 2 lignes de tables différentes
+
+      table_ou_on_clique_Texte = new Array(100);
+      table_ou_on_clique_Arbre = new Array(100);
+
+      table_a_droite_ou_on_clique_Arbre = new Array(100);
+
+      switch (Num_Table){
+       case 0 :
+        table_ou_on_clique_Texte = Racine_zero_texte;
+        table_ou_on_clique_Arbre = Racine_zero_arbre;
+
+        // On testera si il y a autre chose que "None"
+        // dans la table quit ce qui permet de mettre ou non
+        // la balise </table>
+        table_a_droite_ou_on_clique_Arbre = Racine_1_arbre;
+
+        break;
+       case 1 :
+        table_ou_on_clique_Texte = Racine_1_texte;
+        table_ou_on_clique_Arbre = Racine_1_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_2_arbre;
+        break;
+       case 2 :
+        table_ou_on_clique_Texte = Racine_2_texte;
+        table_ou_on_clique_Arbre = Racine_2_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_3_arbre;
+        break;
+       case 3 :
+        table_ou_on_clique_Texte = Racine_3_texte;
+        table_ou_on_clique_Arbre = Racine_3_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_4_arbre;
+        break;
+       case 4 :
+        table_ou_on_clique_Texte = Racine_4_texte;
+        table_ou_on_clique_Arbre = Racine_4_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_5_arbre;
+        break;
+       case 5 :
+        table_ou_on_clique_Texte = Racine_5_texte;
+        table_ou_on_clique_Arbre = Racine_5_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_6_arbre;
+        break;
+       case 6 :
+        table_ou_on_clique_Texte = Racine_6_texte;
+        table_ou_on_clique_Arbre = Racine_6_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_7_arbre;
+        break;
+       case 7 :
+        table_ou_on_clique_Texte = Racine_7_texte;
+        table_ou_on_clique_Arbre = Racine_7_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_8_arbre;
+        break;
+       case 8 :
+        table_ou_on_clique_Texte = Racine_8_texte;
+        table_ou_on_clique_Arbre = Racine_8_arbre;
+        table_a_droite_ou_on_clique_Arbre = Racine_9_arbre;
+        break;
+       case 9 :
+        table_ou_on_clique_Texte = Racine_9_texte;
+        table_ou_on_clique_Arbre = Racine_9_arbre;
+        table_a_droite_ou_on_clique_Arbre[0] = "None";
+        break;
+}
+        var position_du_symbole_arbre_dans_la_table = 0;
+        //Ici on va chercher la position du symbole dans la table
+           var  Test_STR;
+           var position;
+        for (t=0;t<table_ou_on_clique_Arbre.length;t++){
+           Test_STR = table_ou_on_clique_Arbre[t];
+           position = Test_STR.indexOf(Symbole_Arbre);
+             if ((position == 0) && (Test_STR.length == Symbole_Arbre.length)) {
+                   position_du_symbole_arbre_dans_la_table = t;
+                 }
+             else
+              {
+              }
+             }
+        var Vue_Arbre2 = "";
+        var top_02 = Top_Offset + (vertical_line_offset*(Num_Table));
+        var left_02 = left_Offset + (horizontal_shift*(Num_Table));
+               if (Num_Table==0) {
+                 Vue_Arbre2 = "<table style=\" text-align: left; width: 100%;\" cellpadding=\"2\" cellspacing=\"2\" >" + "\r\n";
+                 Vue_Arbre2 = Vue_Arbre2 + "<tbody>" + "\r\n";
+                 }
+
+                 Vue_Arbre2 = Vue_Arbre2  + "<tr style =\"Position : absolute;left : " + left_02 + "px;Top : " + top_02 + "px;\">" + "\r\n";
+                 Vue_Arbre2 = Vue_Arbre2  + "<td style=\"vertical-align: top; background-color:orange;\" onclick='Symbole_Arbre=\"" + table_ou_on_clique_Arbre[position_du_symbole_arbre_dans_la_table] + "\";function_Selected_Tree_Symbole(Symbole_Arbre);'>" + table_ou_on_clique_Texte[position_du_symbole_arbre_dans_la_table] + "<br/>"  + "\r\n";
+                 Vue_Arbre2 = Vue_Arbre2  + "</td>"  + "\r\n";
+                 Vue_Arbre2 = Vue_Arbre2  + "</tr>"  + "\r\n";
+
+           if (table_a_droite_ou_on_clique_Arbre[0] == "None") {
+            Vue_Arbre2 = Vue_Arbre2  + "</tbody>" + "\r\n";
+            Vue_Arbre2 = Vue_Arbre2 + "</table>" + "\r\n";
+            }
+return Vue_Arbre2;
+}
+
+function toutes_les_lignes_TR_TD_a_droite_du_clique( Symbole_Arbre,Num_Table,Top_Offset,left_Offset,vertical_line_offset,horizontal_shift,vertical_shift){
+//vertical_line_offset  Espace séparant verticalement 2 lignes d'une même table
+//Top_Offset	        Décallage entre haut de page et la table du treeview
+//left_Offset           Décallage horizontale bordure gauche de page à la table du  treeview
+//vertical_line_offset  Espace séparant verticalement 2 lignes d'une même table
+//horizontal_shift      Espace de retrait horizontale entre 2 lignes de table différentes
+//vertical_shift        Espace verticale séparant 2 lignes de tables différentes
+      table_Texte = new Array(100);
+      table_Arbre = new Array(100);
+     // on doit incrémenter de 1 le numéro de table 
+     // pour créer un décallage horizontale et verticale
+     Num_Table++;
+
+      switch (Num_Table){
+       case 0 :
+        table_Texte = Racine_zero_texte;
+        table_Arbre = Racine_zero_arbre;
+        break;
+       case 1 :
+        table_Texte = Racine_1_texte;
+        table_Arbre = Racine_1_arbre;
+        break;
+       case 2 :
+        table_Texte = Racine_2_texte;
+        table_Arbre = Racine_2_arbre;
+        break;
+       case 3 :
+        table_Texte = Racine_3_texte;
+        table_Arbre = Racine_3_arbre;
+        break;
+       case 4 :
+        table_Texte = Racine_4_texte;
+        table_Arbre = Racine_4_arbre;
+        break;
+       case 5 :
+        table_Texte = Racine_5_texte;
+        table_Arbre = Racine_5_arbre;
+        break;
+       case 6 :
+        table_Texte = Racine_6_texte;
+        table_Arbre = Racine_6_arbre;
+        break;
+       case 7 :
+        table_Texte = Racine_7_texte;
+        table_Arbre = Racine_7_arbre;
+        break;
+       case 8 :
+        table_Texte = Racine_8_texte;
+        table_Arbre = Racine_8_arbre;
+        break;
+       case 9 :
+        table_Texte = Racine_9_texte;
+        table_Arbre = Racine_9_arbre;
+        break;
+        }
+        var Vue_Arbre3 = "";
+
+        // On scrute chaque position de la table
+        // Le symbole Arbre dans la table doit commencer 
+        // Avec le Symbole_Arbre Reçu par la fonction
+        // e.g symbole_Arbre = "0-0" 
+        var Chaine_a_tester = "";
+        var position = 1;
+
+        for (t=0;t<table_Arbre.length;t++){
+
+         if (table_Arbre[t] != "None") {
+             Chaine_a_tester = table_Arbre[t];
+             if (Chaine_a_tester.indexOf(Symbole_Arbre) == 0) {
+                 Image_fleche = "<img alt=\"Fleche02.gif\" height=\"15\" width=\"15\" src=\"data:image/gif;base64,R0lGODdhDwAPAPcAAAAAAP8AAAD\/AP\/\/AAAA\/\/8A\/wD\/\/\/\/\/\/9vb27a2tpKSkm1tbUlJSSQkJNsAALYAAJIAAG0AAEkAACQAAADbAAC2AACSAABtAABJAAAkANvbALa2AJKSAG1tAElJACQkAAAA2wAAtgAAkgAAbQAASQAAJNsA27YAtpIAkm0AbUkASSQAJADb2wC2tgCSkgBtbQBJSQAkJP\/b29u2traSkpJtbW1JSUkkJP+2ttuSkrZtbZJJSW0kJP+SktttbbZJSZIkJP9tbdtJSbYkJP9JSdskJP8kJNv\/27bbtpK2km2SbUltSSRJJLb\/tpLbkm22bUmSSSRtJJL\/km3bbUm2SSSSJG3\/bUnbSSS2JEn\/SSTbJCT\/JNvb\/7a225KStm1tkklJbSQkSba2\/5KS221ttklJkiQkbZKS\/21t20lJtiQkkm1t\/0lJ2yQktklJ\/yQk2yQk\/\/\/\/29vbtra2kpKSbW1tSUlJJP\/\/ttvbkra2bZKSSW1tJP\/\/ktvbbba2SZKSJP\/\/bdvbSba2JP\/\/SdvbJP\/\/JP\/b\/9u227aStpJtkm1JbUkkSf+2\/9uS27ZttpJJkm0kbf+S\/9tt27ZJtpIkkv9t\/9tJ27Yktv9J\/9sk2\/8k\/9v\/\/7bb25K2tm2SkkltbSRJSbb\/\/5Lb2222tkmSkiRtbZL\/\/23b20m2tiSSkm3\/\/0nb2yS2tkn\/\/yTb2yT\/\/\/\/bttu2kraSbZJtSW1JJEkkAP+2ktuSbbZtSZJJJG0kAP+229uStrZtkpJJbW0kSUkAJP+SttttkrZJbZIkSW0AJNu2\/7aS25Jttm1JkkkkbSQASbaS\/5Jt221JtkkkkiQAbbbb\/5K2222StkltkiRJbQAkSZK2\/22S20lttiRJkgAkbbb\/25Lbtm22kkmSbSRtSQBJJJL\/tm3bkkm2bSSSSQBtJNv\/trbbkpK2bW2SSUltJCRJALb\/kpLbbW22SUmSJCRtAP+2ANuSALZtAJJJAP8AttsAkrYAbZIASQC2\/wCS2wBttgBJkgAAAAAAACH5BAEAAAAALAAAAAAPAA8AAAg7AAEAWLBAoMGDBwkiXChQYUKGDg1GlFgw4cSBFSlOvEiwo8aOID1iDEmSYUOQJk9eXCgyJUaXEmGmDAgAOw==\">";
+
+                 var top_03 = Top_Offset + (vertical_line_offset*(Num_Table)) + (vertical_shift*( position));
+                 var left_03 = left_Offset + (horizontal_shift*(Num_Table));
+                 Vue_Arbre3 +=  "<tr style =\"Position : absolute;left : " + left_03 + "px;Top : " + top_03 + "px;\">" + "\r\n";
+                 Vue_Arbre3 +=  "<td style=\"vertical-align: top; background-color:yellow;\" onclick='Symbole_Arbre=\"" + table_Arbre[t] + "\";function_Selected_Tree_Symbole(Symbole_Arbre);'>" + Image_fleche + "&nbsp;" + table_Texte[t] + "<br/>"  + "\r\n";
+                 Vue_Arbre3 +=  "</td>"  + "\r\n";
+                 Vue_Arbre3 +=  "</tr>"  + "\r\n";
+                 position++;
+                 }
+         }
+             }
+
+                 Vue_Arbre3 = Vue_Arbre3  + "</tbody>" + "\r\n";
+                 Vue_Arbre3 = Vue_Arbre3  + "</table>" + "\r\n";
+        return Vue_Arbre3;
+}
+
+function Comptage_occurence( Chaine_a_tester, Sous_Chaine_a_rechercher, offset, length ) {
+
+    var compteur_occurence = 0;
+    if(isNaN(offset)) offset = 0;
+    if(isNaN(length)) length = 0;
+    offset--;
+
+    while( (offset =  Chaine_a_tester.indexOf(Sous_Chaine_a_rechercher, offset+1)) != -1 ){
+        if(length > 0 && (offset+Sous_Chaine_a_rechercher.length) > length){
+            return false;
+        } else{
+            compteur_occurence++;
+        }
+    }
+
+    return compteur_occurence;
+}
+function Enregistrement_Treeview_onclick(Param1){
+window.external.EnregistrementTreeview(Param1)
+}
+
+    </script>
+  </head>
+  <body>
+
+     &nbsp;<div id="Selected_Tree_Symbole" >- - - -</div><br />
+    <button  onclick="window.external.EnregistrementTreeview(document.getElementById('Selected_Tree_Symbole').innerText);" title="Return treeview position in reccord">Ok</button>&nbsp;
+    <button  onclick="document.getElementById('Selected_Tree_Symbole').innerHTML = '- - - -';Function_initialisation_Tree_View(Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);" title="Reload treeview">Reset</button><hr/>
+
+    <div id = "Tree_View_Block">  
+    </div>
+    <br/>
+    <script type="text/javascript" language="Javascript">
+    //Affichage de la première table Racine_Zéro
+     Function_initialisation_Tree_View(Int_Top_Offset,Int_left_Offset,Int_vertical_line_offset,Int_horizontal_shift,Int_vertical_shift);
+    </script>
+
+  </body>
+</html>

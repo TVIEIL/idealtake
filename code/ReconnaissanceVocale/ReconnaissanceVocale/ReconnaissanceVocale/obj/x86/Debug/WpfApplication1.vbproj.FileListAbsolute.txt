@@ -1,0 +1,15 @@
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\ReconnaissanceVocale.exe
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\ReconnaissanceVocale.pdb
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\ReconnaissanceVocale.xml
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\MainWindow.g.vb
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\Application.g.vb
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale_MarkupCompile.cache
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale.g.resources
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale.Resources.resources
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale.exe
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale.xml
+C:\Users\VIEIL\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ReconnaissanceVocale.pdb

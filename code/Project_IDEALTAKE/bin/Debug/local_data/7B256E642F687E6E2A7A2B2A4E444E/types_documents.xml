@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <types_documents>
+    <INDICE_AUTO>1</INDICE_AUTO>
+    <Description_francais>Portrait</Description_francais>
+    <Description_anglais>Portrait</Description_anglais>
+    <Description_allemand>Portrait</Description_allemand>
+    <Description_italien>Ritratto</Description_italien>
+    <Description_espagnole>Retrato</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>2</INDICE_AUTO>
+    <Description_francais>Paysage</Description_francais>
+    <Description_anglais>Landscape</Description_anglais>
+    <Description_allemand>Landschaft</Description_allemand>
+    <Description_italien>Paesaggio</Description_italien>
+    <Description_espagnole>Paisaje</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>3</INDICE_AUTO>
+    <Description_francais>Carte</Description_francais>
+    <Description_anglais>Map</Description_anglais>
+    <Description_allemand>Karte</Description_allemand>
+    <Description_italien>Mappa</Description_italien>
+    <Description_espagnole>Mapa</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>4</INDICE_AUTO>
+    <Description_francais>Sport</Description_francais>
+    <Description_anglais>Sport</Description_anglais>
+    <Description_allemand>Sport</Description_allemand>
+    <Description_italien>Sport</Description_italien>
+    <Description_espagnole>Deporte</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>5</INDICE_AUTO>
+    <Description_francais>Nourriture</Description_francais>
+    <Description_anglais>Food</Description_anglais>
+    <Description_allemand>Lebensmittel</Description_allemand>
+    <Description_italien>Alimento</Description_italien>
+    <Description_espagnole>Cibo</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>6</INDICE_AUTO>
+    <Description_francais>Fête</Description_francais>
+    <Description_anglais>Festival</Description_anglais>
+    <Description_allemand>Festival</Description_allemand>
+    <Description_italien>Festival</Description_italien>
+    <Description_espagnole>Festival</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>7</INDICE_AUTO>
+    <Description_francais>Animal</Description_francais>
+    <Description_anglais>Animal</Description_anglais>
+    <Description_allemand>Tier</Description_allemand>
+    <Description_italien>Animale</Description_italien>
+    <Description_espagnole>Animal</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>8</INDICE_AUTO>
+    <Description_francais>Plante - Arbre - Fleur</Description_francais>
+    <Description_anglais>Plant - Tree - Flower</Description_anglais>
+    <Description_allemand>Plant - Tree - Blume</Description_allemand>
+    <Description_italien>Pianta - Albero - Fiore</Description_italien>
+    <Description_espagnole>Planta - árbol - Flor</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>9</INDICE_AUTO>
+    <Description_francais>Mer - Plage</Description_francais>
+    <Description_anglais>Sea - beach</Description_anglais>
+    <Description_allemand>Sea - beach</Description_allemand>
+    <Description_italien>Sea - spiaggia</Description_italien>
+    <Description_espagnole>Sea - playa</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>10</INDICE_AUTO>
+    <Description_francais>Feu d'artifice</Description_francais>
+    <Description_anglais>Fireworks</Description_anglais>
+    <Description_allemand>Feuerwerk</Description_allemand>
+    <Description_italien>Fuochi d'artificio</Description_italien>
+    <Description_espagnole>Fuegos Artificiales</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>11</INDICE_AUTO>
+    <Description_francais>Autre Photo</Description_francais>
+    <Description_anglais>Another Picture</Description_anglais>
+    <Description_allemand>Ein weiteres Foto</Description_allemand>
+    <Description_italien>Un'altra Foto</Description_italien>
+    <Description_espagnole>Otra Foto</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>12</INDICE_AUTO>
+    <Description_francais>Photo bis</Description_francais>
+    <Description_anglais>Picture bis</Description_anglais>
+    <Description_allemand>Foto bis</Description_allemand>
+    <Description_italien>Foto bis</Description_italien>
+    <Description_espagnole>Foto bis</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>13</INDICE_AUTO>
+    <Description_francais>Video mp4</Description_francais>
+    <Description_anglais>Video mp4</Description_anglais>
+    <Description_allemand>Video mp4</Description_allemand>
+    <Description_italien>Video mp4</Description_italien>
+    <Description_espagnole>Video mp4</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>14</INDICE_AUTO>
+    <Description_francais>Video flv</Description_francais>
+    <Description_anglais>Video flv</Description_anglais>
+    <Description_allemand>Video flv</Description_allemand>
+    <Description_italien>Video flv</Description_italien>
+    <Description_espagnole>Video flv</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>15</INDICE_AUTO>
+    <Description_francais>Document</Description_francais>
+    <Description_anglais>Document</Description_anglais>
+    <Description_allemand>Dokument</Description_allemand>
+    <Description_italien>Documento</Description_italien>
+    <Description_espagnole>Documento</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>16</INDICE_AUTO>
+    <Description_francais>Audio mp3</Description_francais>
+    <Description_anglais>Audio mp3</Description_anglais>
+    <Description_allemand>Audio mp3</Description_allemand>
+    <Description_italien>Audio mp3</Description_italien>
+    <Description_espagnole>Audio mp3</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>17</INDICE_AUTO>
+    <Description_francais>Video webm</Description_francais>
+    <Description_anglais>Video webm</Description_anglais>
+    <Description_allemand>Video webm</Description_allemand>
+    <Description_italien>Video webm</Description_italien>
+    <Description_espagnole>Video webm</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>18</INDICE_AUTO>
+    <Description_francais>Video 3gp</Description_francais>
+    <Description_anglais>Video 3gp</Description_anglais>
+    <Description_allemand>Video 3gp</Description_allemand>
+    <Description_italien>Video 3gp</Description_italien>
+    <Description_espagnole>Video 3gp</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>19</INDICE_AUTO>
+    <Description_francais>Audio Flac</Description_francais>
+    <Description_anglais>Audio Flac</Description_anglais>
+    <Description_allemand>Audio Flac</Description_allemand>
+    <Description_italien>Audio Flac</Description_italien>
+    <Description_espagnole>Audio Flac</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+  <types_documents>
+    <INDICE_AUTO>20</INDICE_AUTO>
+    <Description_francais>Video mkv</Description_francais>
+    <Description_anglais>Video mkv</Description_anglais>
+    <Description_allemand>Video mkv</Description_allemand>
+    <Description_italien>Video mkv</Description_italien>
+    <Description_espagnole>Video mkv</Description_espagnole>
+    <Type_Previsualisable>false</Type_Previsualisable>
+  </types_documents>
+</NewDataSet>

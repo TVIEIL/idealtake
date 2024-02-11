@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<constructeurs>
+    <DATA>
+        <ID_CONSTRUCTEUR>1</ID_CONSTRUCTEUR>
+        <NOM>URMET CAPTIV</NOM>
+        <SITE_CONSTRUCTEUR>http://www.urmet-captiv.fr</SITE_CONSTRUCTEUR>
+        <CHEMIN_LOGOS>http://tvieil.dnsalias.com/images/logos/</CHEMIN_LOGOS>
+        <NOM_FICHIER_IMAGE_LOGOS>URMET.jpg</NOM_FICHIER_IMAGE_LOGOS>
+        <LARGEUR_IMAGE_LOGOS>300</LARGEUR_IMAGE_LOGOS>
+        <HAUTEUR_IMAGE_LOGOS>276</HAUTEUR_IMAGE_LOGOS>
+        <INFORMATIONS_allemand>Interphony und Zugangskontrolle</INFORMATIONS_allemand>
+        <INFORMATIONS_anglais>Interphony systems and access control</INFORMATIONS_anglais>
+        <INFORMATIONS_espagnole>Interfonía y sistemas de control de acceso</INFORMATIONS_espagnole>
+        <INFORMATIONS_francais>Systèmes d'interphonies et de contrôle d'acces</INFORMATIONS_francais>
+        <INFORMATIONS_italien>Sistemi di Interphony e controllo degli accessi</INFORMATIONS_italien>
+    </DATA>
+    <DATA>
+        <ID_CONSTRUCTEUR>2</ID_CONSTRUCTEUR>
+        <NOM>AIPHONE</NOM>
+        <SITE_CONSTRUCTEUR>http://www.aiphone.fr/</SITE_CONSTRUCTEUR>
+        <CHEMIN_LOGOS>http://tvieil.dnsalias.com/images/logos/</CHEMIN_LOGOS>
+        <NOM_FICHIER_IMAGE_LOGOS>AIPHONE.png</NOM_FICHIER_IMAGE_LOGOS>
+        <LARGEUR_IMAGE_LOGOS>427</LARGEUR_IMAGE_LOGOS>
+        <HAUTEUR_IMAGE_LOGOS>61</HAUTEUR_IMAGE_LOGOS>
+        <INFORMATIONS_allemand>Die Hersteller von Intercom-Systemen</INFORMATIONS_allemand>
+        <INFORMATIONS_anglais>Manufacturers of intercom systems</INFORMATIONS_anglais>
+        <INFORMATIONS_espagnole>Los fabricantes de sistemas de intercomunicación</INFORMATIONS_espagnole>
+        <INFORMATIONS_francais>Fabricants de systèmes d’interphone </INFORMATIONS_francais>
+        <INFORMATIONS_italien>Produttori di sistemi intercom</INFORMATIONS_italien>
+    </DATA>
+</constructeurs>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IDEALTAKE.Ajout_Suppresion_connexion_base">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>kYEgQQgwgOQ2A2BhMH6CABiKFAVj4IwyCCAcAcJjBig=</HashCode>
+      <FileName>Ajout_Suppresion_connexion_base.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDEALTAKE.Form_Demarrage" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>9ePvu9E0N+eZ//v5/M/X/z/q9/D/sS8ftvz7io9tbP4=</HashCode>
+      <FileName>Form_Demarrage.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDEALTAKE.LoginForm1" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAQCAAAAAAAACAAAAiAAAAAgAACACBBAAAAAA=</HashCode>
+      <FileName>LoginForm1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDEALTAKE.Parametres" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQEgAAAAACQCAwAAAECwQgkCAACIaAIIAAoCAABAACE=</HashCode>
+      <FileName>Parametres.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDEALTAKE.CryptoUtil" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAAAAAAAQQAAABAAAAgAECAAAAAQgIAAAABAA=</HashCode>
+      <FileName>CryptoUtil.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDEALTAKE.logiciel_dessin" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAyQgCKAACAAAALiAABCHALQAMCAwBEQDCgADCAA=</HashCode>
+      <FileName>Logiciel de dessin\logiciel_dessin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft Sans Serif" Size="9.75" />
+</ClassDiagram>

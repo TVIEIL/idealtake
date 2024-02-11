@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CONSTRUCTEURS>
+    <IDConstructeur>1</IDConstructeur>
+    <NOM>Albums</NOM>
+    <SITE_CONSTRUCTEUR>http://tvieil.dnsalias.com</SITE_CONSTRUCTEUR>
+    <CHEMIN_LOGOS>http://tvieil.dnsalias.com</CHEMIN_LOGOS>
+    <NOM_FICHIER_IMAGE_LOGOS xml:space="preserve"> </NOM_FICHIER_IMAGE_LOGOS>
+    <LARGEUR_IMAGE_LOGOS>0</LARGEUR_IMAGE_LOGOS>
+    <HAUTEUR_IMAGE_LOGOS>0</HAUTEUR_IMAGE_LOGOS>
+    <INFORMATIONS_allemand>Meine Fotoalben</INFORMATIONS_allemand>
+    <INFORMATIONS_anglais>My photo albums</INFORMATIONS_anglais>
+    <INFORMATIONS_espagnole>Mis álbumes de fotos</INFORMATIONS_espagnole>
+    <INFORMATIONS_francais>Mes albums photos</INFORMATIONS_francais>
+    <INFORMATIONS_italien>I miei album fotografici</INFORMATIONS_italien>
+  </CONSTRUCTEURS>
+</NewDataSet>

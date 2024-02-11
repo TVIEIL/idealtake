@@ -1,0 +1,191 @@
+'' IDEALTAKE CONFIGURATION FILE
+''
+'' List of active colors
+'' AliceBlue, AntiqueWhite, Aqua, Aquamarine, Azure, 
+'' Beige, Bisque, Black, BlanchedAlmond, Blue, 
+'' BlueViolet, Brown, BurlyWood, CadetBlue, Chartreuse, 
+'' Chocolate, Coral, CornflowerBlue, Cornsilk, Crimson, 
+'' Cyan, DarkBlue, DarkCyan, DarkGoldenrod, DarkGray, 
+'' DarkGreen, DarkKhaki, DarkMagenta, DarkOliveGreen, DarkOrange, 
+'' DarkOrchid, DarkRed, DarkSalmon, DarkSeaGreen, DarkSlateBlue, 
+'' DarkSlateGray, DarkTurquoise, DarkViolet, DeepPink, DeepSkyBlue, 
+'' DimGray, DodgerBlue, Firebrick, FloralWhite, ForestGreen, 
+'' Fuchsia, Gainsboro, GhostWhite, Gold, Goldenrod, 
+'' Gray, Green, GreenYellow, Honeydew, HotPink, 
+'' IndianRed, Indigo, Ivory, Khaki, Lavender, 
+'' LavenderBlush, LawnGreen, LemonChiffon, LightBlue, LightCoral, 
+'' LightCyan, LightGoldenrodYellow, LightGray, LightGreen, LightPink,
+'' LightSalmon, LightSeaGreen, LightSkyBlue, LightSlateGray, LightSteelBlue, 
+'' LightYellow, Lime, LimeGreen, Linen, Magenta, Maroon, 
+'' MediumAquamarine, MediumBlue, MediumOrchid, MediumPurple, 
+'' MediumSeaGreen, MediumSlateBlue, MediumSpringGreen, MediumTurquoise, MediumVioletRed, 
+'' MidnightBlue, MintCream, MistyRose, Moccasin, NavajoWhite, 
+'' Navy, OldLace, Olive, OliveDrab, Orange, OrangeRed, 
+'' Orchid, PaleGoldenrod, PaleGreen, PaleTurquoise, PaleVioletRed, 
+'' PapayaWhip, PeachPuff, Peru, Pink, Plum, PowderBlue, 
+'' Purple, Red, RosyBrown, RoyalBlue, SaddleBrown, Salmon, 
+'' SandyBrown, SeaGreen, SeaShell, Sienna, Silver, SkyBlue, 
+'' SlateBlue, SlateGray, Snow, SpringGreen, SteelBlue, Tan, 
+'' Teal, Thistle, Tomato, Transparent, Turquoise, Violet, 
+'' Wheat, White, WhiteSmoke, Yellow, YellowGreen
+ 
+''To change the coordinates of an object you must use
+''X and Y together, if there is just X or Y object will not be correctly localized
+''If you use in same time properties BackColor and BackgroundImage,
+''BackgroundImage will be visible element
+ 
+''****************************************************
+ 
+ 
+Ajout_Suppression_connexion_base
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+ 
+Ajout_Suppression_connexion_base.TabPage1
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Titre_de_la_connexion_Label
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 124
+'' Y = 105
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Selection_connexion_ComboBox
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 150
+'' Y = 21
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Description_connexion_Label
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 124
+'' Y = 169
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Connect_base
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 75
+'' Y = 23
+'' WIDTH = 75
+'' HEIGHT = 23
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Flag_Germany
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 20
+'' Y = 374
+'' WIDTH = 37
+'' HEIGHT = 22
+'' BackgroundImage = "Germany.jpg"
+'' ACTIVATE = TRUE
+ 
+Ajout_Suppression_connexion_base.Flag_USA
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 85
+'' Y = 374
+'' WIDTH = 37
+'' HEIGHT = 22
+'' BackgroundImage = "USA.jpg"
+'' ACTIVATE = TRUE
+ 
+Ajout_Suppression_connexion_base.Flag_Spain
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 150
+'' Y = 374
+'' WIDTH = 37
+'' HEIGHT = 22
+'' BackgroundImage = "Spain.jpg"
+'' ACTIVATE = TRUE
+ 
+Ajout_Suppression_connexion_base.Flag_France
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 215
+'' Y = 374
+'' WIDTH = 37
+'' HEIGHT = 22
+'' BackgroundImage = "France.jpg"
+'' ACTIVATE = TRUE
+ 
+Ajout_Suppression_connexion_base.Flag_Italy
+'' TO ACTIVATE A LINE DELETE ''
+'' X = 280
+'' Y = 374
+'' WIDTH = 37
+'' HEIGHT = 22
+'' BackgroundImage = "Italy.jpg"
+'' ACTIVATE = TRUE
+ 
+Ajout_Suppression_connexion_base.TabPage2
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Ajouter_une_connexion_GroupBox1
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.Supprimer_une_connexion_GroupBox
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Ajout_Suppression_connexion_base.StatusStrip1
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Attente_Chargement.MainLayoutPanel
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Attente_Chargement.DetailsLayoutPanel
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+Form_Demarrage
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage4
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage2
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage1
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage7
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage5
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage6
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue
+ 
+TabControl1.TabPage3
+'' TO ACTIVATE A LINE DELETE ''
+'' BackgroundImage = "Background.jpg"
+'' BackColor = AliceBlue

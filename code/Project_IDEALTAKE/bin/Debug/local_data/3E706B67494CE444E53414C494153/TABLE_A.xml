@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TABLE_A>
+    <INDICE_AUTO>0</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Kein Wert</Allemand>
+    <Anglais>No Value</Anglais>
+    <Espagnole>Ningún valor</Espagnole>
+    <Francais>Pas de Valeur</Francais>
+    <Italien>Non di valore</Italien>
+    <Visibilite>Gestion</Visibilite>
+    <Signification_Valeur>Valeur Nulle</Signification_Valeur>
+    <Position>0</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>1</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>&lt;Alle&gt;</Allemand>
+    <Anglais>&lt;All&gt;</Anglais>
+    <Espagnole>&lt;Todo&gt;</Espagnole>
+    <Francais>&lt;Tout&gt;</Francais>
+    <Italien>&lt;Tutto&gt;</Italien>
+    <Visibilite>Recherche</Visibilite>
+    <Signification_Valeur>Toutes les valeurs</Signification_Valeur>
+    <Position>1</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>2</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Luftklappe</Allemand>
+    <Anglais>Electro-magnetic lock</Anglais>
+    <Espagnole>Relámpago Magnético</Espagnole>
+    <Francais>Ventouse</Francais>
+    <Italien>Sprangare Magnetico</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>2</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>3</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Elektrisches Schloss</Allemand>
+    <Anglais>Electric lock</Anglais>
+    <Espagnole>Cerradura Eléctrica</Espagnole>
+    <Francais>Gache 2T</Francais>
+    <Italien>Serratura Elettrica</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>3</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>4</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Schloss Eins Zeit</Allemand>
+    <Anglais>Electric lock one time</Anglais>
+    <Espagnole>Cerradura Uno Tempo</Espagnole>
+    <Francais>Gache 1T</Francais>
+    <Italien>Serratura Uno Tempo</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>4</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>5</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Kontakt</Allemand>
+    <Anglais>Contact</Anglais>
+    <Espagnole>Contacto</Espagnole>
+    <Francais>Contact sec</Francais>
+    <Italien>Contatto</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>5</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>6</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Kolben</Allemand>
+    <Anglais>Solenoid bolt</Anglais>
+    <Espagnole>Pistón Eléctrica</Espagnole>
+    <Francais>Electropiston</Francais>
+    <Italien>Pistone Elettrico</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>6</Position>
+  </TABLE_A>
+  <TABLE_A>
+    <INDICE_AUTO>7</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Gemischt</Allemand>
+    <Anglais>Mixer</Anglais>
+    <Espagnole>Mixto</Espagnole>
+    <Francais>Mixte</Francais>
+    <Italien>Misto</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>7</Position>
+  </TABLE_A>
+</NewDataSet>

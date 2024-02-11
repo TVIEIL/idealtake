@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <documents>
+    <Chrono>1</Chrono>
+    <Nom_Lien_francais>6083</Nom_Lien_francais>
+    <Nom_Lien_anglais>6083</Nom_Lien_anglais>
+    <Nom_Lien_allemand>6083</Nom_Lien_allemand>
+    <Nom_Lien_espagnole>6083</Nom_Lien_espagnole>
+    <Nom_Lien_italien>6083</Nom_Lien_italien>
+    <Type_Doc>1</Type_Doc>
+    <Nom_Fichier_francais>6083.gif</Nom_Fichier_francais>
+    <Nom_Fichier_anglais>6083.gif</Nom_Fichier_anglais>
+    <Nom_Fichier_allemand>6083.gif</Nom_Fichier_allemand>
+    <Nom_Fichier_espagnole>6083.gif</Nom_Fichier_espagnole>
+    <Nom_Fichier_italien>6083.gif</Nom_Fichier_italien>
+    <Taille_fichier_Fr>67 Ko</Taille_fichier_Fr>
+    <Taille_fichier_anglais>67 Kb</Taille_fichier_anglais>
+    <Taille_fichier_allemand>67 Kb</Taille_fichier_allemand>
+    <Taille_fichier_espagnole>67 Kb</Taille_fichier_espagnole>
+    <Taille_fichier_italien>67 Kb</Taille_fichier_italien>
+    <Image_Preview>c:\a\1\6083.gif</Image_Preview>
+    <code_specific_HTML_display>---</code_specific_HTML_display>
+    <COMPTEUR>3398</COMPTEUR>
+  </documents>
+</NewDataSet>

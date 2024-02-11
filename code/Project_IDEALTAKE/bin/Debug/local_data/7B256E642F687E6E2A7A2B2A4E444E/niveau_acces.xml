@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <niveau_acces>
+    <INDICE_AUTO>1</INDICE_AUTO>
+    <VALEUR_LOGICIEL_francais>- Facile -</VALEUR_LOGICIEL_francais>
+    <VALEUR_REELLE>Bas</VALEUR_REELLE>
+    <IDConstructeur>1</IDConstructeur>
+    <VALEUR_LOGICIEL_anglais>- Easy -</VALEUR_LOGICIEL_anglais>
+    <VALEUR_LOGICIEL_allemand>- Leicht -</VALEUR_LOGICIEL_allemand>
+    <VALEUR_LOGICIEL_espagnole>- Fácil -</VALEUR_LOGICIEL_espagnole>
+    <VALEUR_LOGICIEL_italien>- Facile -</VALEUR_LOGICIEL_italien>
+    <COMPTEUR>1</COMPTEUR>
+  </niveau_acces>
+  <niveau_acces>
+    <INDICE_AUTO>2</INDICE_AUTO>
+    <VALEUR_LOGICIEL_francais>- Normal -</VALEUR_LOGICIEL_francais>
+    <VALEUR_REELLE>Normal</VALEUR_REELLE>
+    <IDConstructeur>1</IDConstructeur>
+    <VALEUR_LOGICIEL_anglais>- Normal -</VALEUR_LOGICIEL_anglais>
+    <VALEUR_LOGICIEL_allemand>- Normal -</VALEUR_LOGICIEL_allemand>
+    <VALEUR_LOGICIEL_espagnole>- Normal -</VALEUR_LOGICIEL_espagnole>
+    <VALEUR_LOGICIEL_italien>- Normale -</VALEUR_LOGICIEL_italien>
+    <COMPTEUR>2</COMPTEUR>
+  </niveau_acces>
+  <niveau_acces>
+    <INDICE_AUTO>3</INDICE_AUTO>
+    <VALEUR_LOGICIEL_francais>- Difficile -</VALEUR_LOGICIEL_francais>
+    <VALEUR_REELLE>Elevé</VALEUR_REELLE>
+    <IDConstructeur>1</IDConstructeur>
+    <VALEUR_LOGICIEL_anglais>- Hard -</VALEUR_LOGICIEL_anglais>
+    <VALEUR_LOGICIEL_allemand>- Schwer -</VALEUR_LOGICIEL_allemand>
+    <VALEUR_LOGICIEL_espagnole>- Difícil -</VALEUR_LOGICIEL_espagnole>
+    <VALEUR_LOGICIEL_italien>- Difficile -</VALEUR_LOGICIEL_italien>
+    <COMPTEUR>3</COMPTEUR>
+  </niveau_acces>
+</NewDataSet>

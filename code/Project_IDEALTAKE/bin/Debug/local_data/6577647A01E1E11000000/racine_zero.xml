@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <racine_zero>
+    <ID_R>1</ID_R>
+    <Rubrique_Allemand>Sprechanlagen</Rubrique_Allemand>
+    <Rubrique_Anglais>door phone</Rubrique_Anglais>
+    <Rubrique_Espagnole>Interfónico</Rubrique_Espagnole>
+    <Rubrique_Francais>Interphonie</Rubrique_Francais>
+    <Rubrique_Italien>Citofonico</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0</Symbole_Arbre>
+  </racine_zero>
+  <racine_zero>
+    <ID_R>2</ID_R>
+    <Rubrique_Allemand> Zugang kontrollieren</Rubrique_Allemand>
+    <Rubrique_Anglais>Access control </Rubrique_Anglais>
+    <Rubrique_Espagnole> Control acceso</Rubrique_Espagnole>
+    <Rubrique_Francais>Contrôle d'acces</Rubrique_Francais>
+    <Rubrique_Italien>Controllare accesso</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>1</Symbole_Arbre>
+  </racine_zero>
+</NewDataSet>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sauvegarde>
+    <schema>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_schema.xml</schema>
+    <PARAM_C>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_c.xml</PARAM_C>
+    <PARAM_B>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_b.xml</PARAM_B>
+    <PARAM_D>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_d.xml</PARAM_D>
+    <PARAM_E>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_e.xml</PARAM_E>
+    <PARAM_A>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_a.xml</PARAM_A>
+    <niveau_acces>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_niveau_acces.xml</niveau_acces>
+    <constructeurs>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_constructeurs.xml</constructeurs>
+    <types_documents>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_types_documents.xml</types_documents>
+    <doc_url>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_doc_url.xml</doc_url>
+    <categories>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_categories.xml</categories>
+    <ref_constructeurs>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_ref_constructeurs.xml</ref_constructeurs>
+    <table_xaml>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_table_xaml.xml</table_xaml>
+    <messages_utilisateur>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_messages_utilisateur.xml</messages_utilisateur>
+    <enregistrements>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_enregistrements.xml</enregistrements>
+    <chrono_idref>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_chrono_idref.xml</chrono_idref>
+    <documents>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_documents.xml</documents>
+    <elements_winform>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_elements_winform.xml</elements_winform>
+    <racine_zero>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_zero.xml</racine_zero>
+    <racine1>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_un.xml</racine1>
+    <racine2>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_deux.xml</racine2>
+    <racine3>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_trois.xml</racine3>
+    <racine4>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_quatre.xml</racine4>
+    <racine5>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_cinq.xml</racine5>
+    <racine6>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_six.xml</racine6>
+    <racine7>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_sept.xml</racine7>
+    <racine8>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_huit.xml</racine8>
+    <racine9>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_racine_moin_neuf.xml</racine9>
+    <elements_html>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_elements_html.xml</elements_html>
+    <HISTORY_EVENTS>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_HISTORY_EVENTS.xml</HISTORY_EVENTS>
+    <Users>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_Users.xml</Users>
+    <Questions>TEST_SHUTTER_LOADED_TEST_SHUTTER_LOADED_2282013_0146_Questions.xml</Questions>
+</Sauvegarde>

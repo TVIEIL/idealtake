@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ref_constructeurs>
+    <IDRef>1</IDRef>
+    <IDConstructeur>1</IDConstructeur>
+    <description_ref_allemand>000</description_ref_allemand>
+    <description_ref_anglais>000</description_ref_anglais>
+    <description_ref_espagnole>000</description_ref_espagnole>
+    <description_ref_francais>000</description_ref_francais>
+    <description_ref_italien>000</description_ref_italien>
+    <Reference>111</Reference>
+    <Categorie_Ref>1</Categorie_Ref>
+  </ref_constructeurs>
+</NewDataSet>

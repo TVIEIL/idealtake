@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TABLE_B>
+    <INDICE_AUTO>0</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Kein Wert</Allemand>
+    <Anglais>No Value</Anglais>
+    <Espagnole>Ningún valor</Espagnole>
+    <Francais>Pas de Valeur</Francais>
+    <Italien>Non di valore</Italien>
+    <Visibilite>Gestion</Visibilite>
+    <Signification_Valeur>Valeur Nulle</Signification_Valeur>
+  </TABLE_B>
+  <TABLE_B>
+    <INDICE_AUTO>1</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>&lt;Alle Möglichkeit&gt;</Allemand>
+    <Anglais>&lt;All possibilities&gt;</Anglais>
+    <Espagnole>&lt;Todo Possibilidad&gt;</Espagnole>
+    <Francais>&lt;Toutes possibilités&gt;</Francais>
+    <Italien>&lt;Tutto Possibilità&gt;</Italien>
+    <Visibilite>Recherche</Visibilite>
+    <Signification_Valeur>Toutes les valeurs</Signification_Valeur>
+    <Position>1</Position>
+  </TABLE_B>
+  <TABLE_B>
+    <INDICE_AUTO>2</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Akustisch</Allemand>
+    <Anglais>Audio</Anglais>
+    <Espagnole>Audio</Espagnole>
+    <Francais>Audio</Francais>
+    <Italien>Audio</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>2</Position>
+  </TABLE_B>
+  <TABLE_B>
+    <INDICE_AUTO>3</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Video</Allemand>
+    <Anglais>Video</Anglais>
+    <Espagnole>Vìdeo</Espagnole>
+    <Francais>Vidéo</Francais>
+    <Italien>Video</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>3</Position>
+  </TABLE_B>
+  <TABLE_B>
+    <INDICE_AUTO>4</INDICE_AUTO>
+    <IDConstructeur>1</IDConstructeur>
+    <Allemand>Gemischt</Allemand>
+    <Anglais>Mixer</Anglais>
+    <Espagnole>Mixto</Espagnole>
+    <Francais>Mixte</Francais>
+    <Italien>Misto</Italien>
+    <Visibilite>Recherche/Gestion</Visibilite>
+    <Signification_Valeur>valeur</Signification_Valeur>
+    <Position>4</Position>
+  </TABLE_B>
+</NewDataSet>

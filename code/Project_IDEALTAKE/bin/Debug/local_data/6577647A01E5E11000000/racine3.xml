@@ -1,0 +1,243 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <racine3>
+    <ID_SR3>1</ID_SR3>
+    <ID_SR2>1</ID_SR2>
+    <Rubrique_Allemand>Kein zugang kontrollieren</Rubrique_Allemand>
+    <Rubrique_Anglais>No access control</Rubrique_Anglais>
+    <Rubrique_Espagnole>No control acceso</Rubrique_Espagnole>
+    <Rubrique_Francais>Pas de contrôle d'acces</Rubrique_Francais>
+    <Rubrique_Italien>No controllare accesso</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-0-0</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>2</ID_SR3>
+    <ID_SR2>1</ID_SR2>
+    <Rubrique_Allemand>Tastatur</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-0-1</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>3</ID_SR3>
+    <ID_SR2>1</ID_SR2>
+    <Rubrique_Allemand>Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-0-2</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>4</ID_SR3>
+    <ID_SR2>1</ID_SR2>
+    <Rubrique_Allemand>Tastatur + Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad + Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado + Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code + Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera + Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-0-3</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>5</ID_SR3>
+    <ID_SR2>2</ID_SR2>
+    <Rubrique_Allemand>Kein zugang kontrollieren</Rubrique_Allemand>
+    <Rubrique_Anglais>No access control</Rubrique_Anglais>
+    <Rubrique_Espagnole>No control acceso</Rubrique_Espagnole>
+    <Rubrique_Francais>Pas de contrôle d'acces</Rubrique_Francais>
+    <Rubrique_Italien>No controllare accesso</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-1-0</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>6</ID_SR3>
+    <ID_SR2>2</ID_SR2>
+    <Rubrique_Allemand>Tastatur</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-1-1</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>7</ID_SR3>
+    <ID_SR2>2</ID_SR2>
+    <Rubrique_Allemand>Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-1-2</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>8</ID_SR3>
+    <ID_SR2>2</ID_SR2>
+    <Rubrique_Allemand>Tastatur + Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad + Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado + Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code + Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera + Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-0-1-3</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>9</ID_SR3>
+    <ID_SR2>3</ID_SR2>
+    <Rubrique_Allemand>Kein zugang kontrollieren</Rubrique_Allemand>
+    <Rubrique_Anglais>No access control</Rubrique_Anglais>
+    <Rubrique_Espagnole>No control acceso</Rubrique_Espagnole>
+    <Rubrique_Francais>Pas de contrôle d'acces</Rubrique_Francais>
+    <Rubrique_Italien>No controllare accesso</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-0-0</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>10</ID_SR3>
+    <ID_SR2>3</ID_SR2>
+    <Rubrique_Allemand>Tastatur</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-0-1</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>11</ID_SR3>
+    <ID_SR2>3</ID_SR2>
+    <Rubrique_Allemand>Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-0-2</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>12</ID_SR3>
+    <ID_SR2>3</ID_SR2>
+    <Rubrique_Allemand>Tastatur + Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad + Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado + Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code + Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera + Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-0-3</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>13</ID_SR3>
+    <ID_SR2>4</ID_SR2>
+    <Rubrique_Allemand>Kein zugang kontrollieren</Rubrique_Allemand>
+    <Rubrique_Anglais>No access control</Rubrique_Anglais>
+    <Rubrique_Espagnole>No control acceso</Rubrique_Espagnole>
+    <Rubrique_Francais>Pas de contrôle d'acces</Rubrique_Francais>
+    <Rubrique_Italien>No controllare accesso</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-1-0</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>14</ID_SR3>
+    <ID_SR2>4</ID_SR2>
+    <Rubrique_Allemand>Tastatur</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-1-1</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>15</ID_SR3>
+    <ID_SR2>4</ID_SR2>
+    <Rubrique_Allemand>Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-1-2</Symbole_Arbre>
+  </racine3>
+  <racine3>
+    <ID_SR3>16</ID_SR3>
+    <ID_SR2>4</ID_SR2>
+    <Rubrique_Allemand>Tastatur + Zentrale</Rubrique_Allemand>
+    <Rubrique_Anglais>Digital keypad + Access control unit</Rubrique_Anglais>
+    <Rubrique_Espagnole>Teclado + Unidad central</Rubrique_Espagnole>
+    <Rubrique_Francais>Clavier code + Centrale Résident-VIGIK</Rubrique_Francais>
+    <Rubrique_Italien>Tastiera + Centralina</Rubrique_Italien>
+    <Description_Allemand xml:space="preserve"> </Description_Allemand>
+    <Description_Anglais xml:space="preserve"> </Description_Anglais>
+    <Description_Espagnole xml:space="preserve"> </Description_Espagnole>
+    <Description_Francais xml:space="preserve"> </Description_Francais>
+    <Description_Italien xml:space="preserve"> </Description_Italien>
+    <Symbole_Arbre>0-1-1-3</Symbole_Arbre>
+  </racine3>
+</NewDataSet>

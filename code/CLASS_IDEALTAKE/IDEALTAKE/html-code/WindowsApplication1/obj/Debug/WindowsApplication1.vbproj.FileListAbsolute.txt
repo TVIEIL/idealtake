@@ -1,0 +1,23 @@
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\PROJET IDEALTAKE\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\PROJET IDEALTAKE 2009\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\PROJET IDEALTAKE 2009\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\PROJET IDEALTAKE 2009\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\PROJET IDEALTAKE 2010\CLASS_IDEALTAKE\IDEALTAKE\html-code\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

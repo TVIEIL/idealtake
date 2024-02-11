@@ -1,0 +1,65 @@
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\SAPI5.vbproj.ResolveComReference.cache
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Formulaire_SAPI.resources
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Resources.resources
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\bin\Debug\SAPI5.exe.config
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\bin\Debug\SAPI5.exe
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\bin\Debug\SAPI5.pdb
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\bin\Debug\SAPI5.xml
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\SAPI5.exe
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\SAPI5.xml
+C:\Users\VIEIL\documents\visual studio 2010\Projects\SAPI5\SAPI5\obj\x86\Debug\SAPI5.pdb
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Debug\SAPI5.exe.config
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\SAPI5.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\SAPI5.exe
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\SAPI5.xml
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\SAPI5.pdb
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Debug\SAPI5.exe
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Debug\SAPI5.pdb
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\bin\Debug\SAPI5.xml
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Formulaire_SAPI.resources
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Resources.resources
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2011\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\bin\Debug\SAPI5.exe.config
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\bin\Debug\SAPI5.exe
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\bin\Debug\SAPI5.pdb
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\bin\Debug\SAPI5.xml
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Formulaire_SAPI.resources
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Resources.resources
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.exe
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.xml
+G:\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.pdb
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\bin\Debug\SAPI5.exe.config
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.vbproj.ResolveComReference.cache
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.exe
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.xml
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.pdb
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\ResolveAssemblyReference.cache
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Resources.resources
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.read.1.tlog
+\\tsclient\G\PROJET IDEALTAKE 2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\Interop.SpeechLib.dll
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\SAPI5.vbproj.ResolveComReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\bin\Debug\AppSpeechSynthesis.exe.config
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\bin\Debug\AppSpeechSynthesis.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\bin\Debug\AppSpeechSynthesis.pdb
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\bin\Debug\AppSpeechSynthesis.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Formulaire_SAPI.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\Formulaire_SAPI.Resources.resources
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\AppSpeechSynthesis.exe
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\AppSpeechSynthesis.xml
+G:\PROJET IDEALTAKE 2012\PREPARATION PUBLISH_2012\SAPI5\SAPI5\obj\x86\Debug\AppSpeechSynthesis.pdb

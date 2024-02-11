@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sauvegarde>
+    <schema>Album_photos_ALBUM_PHOTOS_2482012_151119_schema.xml</schema>
+    <PARAM_C>Album_photos_ALBUM_PHOTOS_2482012_151119_table_c.xml</PARAM_C>
+    <PARAM_B>Album_photos_ALBUM_PHOTOS_2482012_151119_table_b.xml</PARAM_B>
+    <PARAM_D>Album_photos_ALBUM_PHOTOS_2482012_151119_table_d.xml</PARAM_D>
+    <PARAM_E>Album_photos_ALBUM_PHOTOS_2482012_151119_table_e.xml</PARAM_E>
+    <PARAM_A>Album_photos_ALBUM_PHOTOS_2482012_151119_table_a.xml</PARAM_A>
+    <niveau_acces>Album_photos_ALBUM_PHOTOS_2482012_151119_niveau_acces.xml</niveau_acces>
+    <constructeurs>Album_photos_ALBUM_PHOTOS_2482012_151119_constructeurs.xml</constructeurs>
+    <types_documents>Album_photos_ALBUM_PHOTOS_2482012_151119_types_documents.xml</types_documents>
+    <doc_url>Album_photos_ALBUM_PHOTOS_2482012_151119_doc_url.xml</doc_url>
+    <categories>Album_photos_ALBUM_PHOTOS_2482012_151119_categories.xml</categories>
+    <ref_constructeurs>Album_photos_ALBUM_PHOTOS_2482012_151119_ref_constructeurs.xml</ref_constructeurs>
+    <table_xaml>Album_photos_ALBUM_PHOTOS_2482012_151119_table_xaml.xml</table_xaml>
+    <messages_utilisateur>Album_photos_ALBUM_PHOTOS_2482012_151119_messages_utilisateur.xml</messages_utilisateur>
+    <enregistrements>Album_photos_ALBUM_PHOTOS_2482012_151119_enregistrements.xml</enregistrements>
+    <chrono_idref>Album_photos_ALBUM_PHOTOS_2482012_151119_chrono_idref.xml</chrono_idref>
+    <documents>Album_photos_ALBUM_PHOTOS_2482012_151119_documents.xml</documents>
+    <elements_winform>Album_photos_ALBUM_PHOTOS_2482012_151119_elements_winform.xml</elements_winform>
+    <racine_zero>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_zero.xml</racine_zero>
+    <racine1>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_un.xml</racine1>
+    <racine2>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_deux.xml</racine2>
+    <racine3>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_trois.xml</racine3>
+    <racine4>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_quatre.xml</racine4>
+    <racine5>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_cinq.xml</racine5>
+    <racine6>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_six.xml</racine6>
+    <racine7>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_sept.xml</racine7>
+    <racine8>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_huit.xml</racine8>
+    <racine9>Album_photos_ALBUM_PHOTOS_2482012_151119_racine_moin_neuf.xml</racine9>
+    <elements_html>Album_photos_ALBUM_PHOTOS_2482012_151119_elements_html.xml</elements_html>
+    <HISTORY_EVENTS>Album_photos_ALBUM_PHOTOS_2482012_151119_HISTORY_EVENTS.xml</HISTORY_EVENTS>
+    <Users>Album_photos_ALBUM_PHOTOS_2482012_151119_Users.xml</Users>
+    <Questions>Album_photos_ALBUM_PHOTOS_2482012_151119_Questions.xml</Questions>
+</Sauvegarde>
