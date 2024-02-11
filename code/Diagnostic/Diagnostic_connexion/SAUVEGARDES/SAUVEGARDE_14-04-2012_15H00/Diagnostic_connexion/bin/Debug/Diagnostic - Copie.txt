@@ -1,5 +1,0 @@
-<Nom_Connexion>TEST03</Nom_Connexion>
-<Adresse_Serveur>127.0.0.1</Adresse_Serveur>
-<chaine_de_connexion>Persist Security Info=true;database=TEST03;server=127.0.0.1;user id=root;pwd=FML6A42V1B</chaine_de_connexion>
-<Nom_de_la_base>TEST03</Nom_de_la_base>
-<langue_logiciel>3</langue_logiciel>
